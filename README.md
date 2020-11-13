@@ -50,6 +50,9 @@
 | [俄罗斯轮盘](https://github.com/pcrbot/russian)                                                | [@H-K-Y](https://github.com/H-K-Y)               | 群内小游戏                                 |
 | [挂树提醒](https://github.com/pcrbot/ontree_scheduler)                                         | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒                               |
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder)                                 | [@LQBing](https://github.com/LQBing)             |                                            |
+| [公会战报告书](https://github.com/A-kirami/ClanBattleReport)                                 | [@A-kirami](https://github.com/A-kirami)             | 生成Yobot的公会战报告书                  |
+| [YoCool](https://github.com/A-kirami/YoCool-Console)                                 | [@A-kirami](https://github.com/A-kirami)             | Hoshino插件化的YoCool控制台                  |
+
 
 ## 工具索引（不分先后）
 
