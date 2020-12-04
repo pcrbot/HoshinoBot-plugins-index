@@ -23,7 +23,7 @@
 | [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot |
 | [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 |
 | [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 |
-| [原神插件](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |
+| [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |
 | [Arcaea 查询](https://github.com/pcrbot/Salmon-plugin-transplant#arcaea查询) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
 | [老婆生成器](https://github.com/pcrbot/Salmon-plugin-transplant#老婆生成器) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 群内小游戏 |
 | [人工智障](https://github.com/pcrbot/Salmon-plugin-transplant#人工智障) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 人工智能回复 |
