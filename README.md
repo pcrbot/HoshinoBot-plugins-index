@@ -28,6 +28,7 @@
 | [老婆生成器](https://github.com/pcrbot/Salmon-plugin-transplant#老婆生成器) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 群内小游戏 |
 | [人工智障](https://github.com/pcrbot/Salmon-plugin-transplant#人工智障) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 人工智能回复 |
 | [搜图](https://github.com/pcrbot/Salmon-plugin-transplant#搜图) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | SauceNAO 和 ascii2d |
+| [自检](https://github.com/pcrbot/Salmon-plugin-transplant#自检) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 服务器自检 |
 | [steam](https://github.com/pcrbot/Salmon-plugin-transplant#steam促销查询免费游戏领取) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | steam 或其他平台游戏促销与喜加一 |
 | [日语词典](https://github.com/pcrbot/Salmon-plugin-transplant#日语词典) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
 | [知乎日报](https://github.com/pcrbot/Salmon-plugin-transplant#知乎日报) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
