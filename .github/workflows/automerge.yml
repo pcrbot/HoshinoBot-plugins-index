@@ -7,10 +7,17 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - name: automerge
-        uses: "pascalgn/automerge-action@v0.12.0"
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_METHOD: squash
-          MERGE_LABELS: ""
-          MERGE_FORKS: true
+      - name: Checkout
+        uses: actions/checkout@master
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Merge
+        run: git pull --ff-only ${{ github.event.pull_request.head.repo.clone_url }} ${{ github.event.pull_request.head.ref }}
+
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
