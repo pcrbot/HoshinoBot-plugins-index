@@ -50,6 +50,7 @@
 | [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |
 | [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |
+| [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时间提醒修改版，支持查树、尾刀下树|
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |
 | [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot 的公会战报告书 |
 | [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |
