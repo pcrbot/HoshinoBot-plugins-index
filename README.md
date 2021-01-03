@@ -34,6 +34,7 @@
 | [知乎日报](https://github.com/pcrbot/Salmon-plugin-transplant#知乎日报) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
 | [天气查询](https://github.com/pcrbot/Salmon-plugin-transplant#天气查询) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
 | [迫害龙王](https://github.com/pcrbot/Salmon-plugin-transplant#迫害龙王) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
+| [有道翻译](https://github.com/pcrbot/Salmon-plugin-transplant#有道翻译) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
 | [公会战筛刀](https://github.com/pcrbot/filter_knife) | [@H-K-Y](https://github.com/H-K-Y) | |
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |
