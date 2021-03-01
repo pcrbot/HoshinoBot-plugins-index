@@ -88,6 +88,7 @@
 | [命运2简易插件](https://github.com/azmiao/destiny2_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 另一个命运2插件，从小黑盒自动抓取周报，试炼周报，老九，蛛王信息 |
 | [碧蓝档案](https://github.com/azmiao/bluearchive_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 由Hoshino修改的碧蓝档案blue archive插件 |
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |
+| [osu](https://github.com/Yuri-YuzuChaN/osu) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件 |
 
 ## 工具索引（不分先后）
 
