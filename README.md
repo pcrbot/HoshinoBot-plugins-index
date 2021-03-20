@@ -90,6 +90,7 @@
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |
 | [osu](https://github.com/Yuri-YuzuChaN/osu) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件 |
 | [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |
+| [今日校园打卡](https://github.com/azmiao/HFUT_cpdaily_auto_for_hoshino) | [@azmiao](https://github.com/azmiao) | 适用于疫情信息收集今日报平安的插件，脚本来自@RayAlto |
 
 ## 工具索引（不分先后）
 
