@@ -94,6 +94,7 @@
 | [代刀私聊插件](https://github.com/sdyxxjj123/Daidao) | [@sdyxxjj123](https://github.com/sdyxxjj123) | 记录正在代刀，代挂树，暂停伤害，锁助战等 |
 | [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) | [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音，有文字匹配 |
 | [淦翻译](https://github.com/daycold1000/guaihua.jpg) | [@daycold1000](https://github.com/daycold1000) | 一个翻译娱乐功能，能把正常的对...对话台词变得奇...奇怪怪...... |
+| [今天吃什么](https://github.com/pcrbot/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什么什么么 |
 
 <!-- 此处添加您的新插件 -->
 
