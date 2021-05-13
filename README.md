@@ -96,6 +96,7 @@
 | [淦翻译](https://github.com/daycold1000/guaihua.jpg) | [@daycold1000](https://github.com/daycold1000) | 一个翻译娱乐功能，能把正常的对...对话台词变得奇...奇怪怪...... |
 | [今天吃什么](https://github.com/pcrbot/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什么什么么 |
 | [赛马娘新闻播报](https://github.com/azmiao/umamusume_news) | [@azmiao](https://github.com/azmiao) | 赛马娘新闻播报插件（大佬们快去写插件，别养马了） |
+| [最优击剑路径](https://github.com/wosiwq/arena_route) | [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优击剑路径 |
 
 <!-- 此处添加您的新插件 -->
 
