@@ -85,17 +85,17 @@
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |
 | [公会战筛刀](https://github.com/pcrbot/filter_knife) | [@H-K-Y](https://github.com/H-K-Y) | |
-| [有道翻译](https://github.com/pcrbot/Salmon-plugin-transplant#有道翻译) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
-| [迫害龙王](https://github.com/pcrbot/Salmon-plugin-transplant#迫害龙王) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
-| [天气查询](https://github.com/pcrbot/Salmon-plugin-transplant#天气查询) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
-| [知乎日报](https://github.com/pcrbot/Salmon-plugin-transplant#知乎日报) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
-| [日语词典](https://github.com/pcrbot/Salmon-plugin-transplant#日语词典) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
-| [steam](https://github.com/pcrbot/Salmon-plugin-transplant#steam促销查询免费游戏领取) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | steam 或其他平台游戏促销与喜加一 |
-| [自检](https://github.com/pcrbot/Salmon-plugin-transplant#自检) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) |  服务器自检 |
-| [搜图](https://github.com/pcrbot/Salmon-plugin-transplant#搜图) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | SauceNAO 和 ascii2d |
-| [人工智障](https://github.com/pcrbot/Salmon-plugin-transplant#人工智障) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 人工智能回复 |
-| [老婆生成器](https://github.com/pcrbot/Salmon-plugin-transplant#老婆生成器) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 群内小游戏 |
-| [Arcaea 查询](https://github.com/pcrbot/Salmon-plugin-transplant#arcaea查询) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
+| [有道翻译](https://github.com/pcrbot/Hoshino-plugin-transplant#有道翻译) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
+| [迫害龙王](https://github.com/pcrbot/Hoshino-plugin-transplant#迫害龙王) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
+| [天气查询](https://github.com/pcrbot/Hoshino-plugin-transplant#天气查询) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
+| [知乎日报](https://github.com/pcrbot/Hoshino-plugin-transplant#知乎日报) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
+| [日语词典](https://github.com/pcrbot/Hoshino-plugin-transplant#日语词典) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
+| [steam](https://github.com/pcrbot/Hoshino-plugin-transplant#steam促销查询免费游戏领取) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | steam 或其他平台游戏促销与喜加一 |
+| [自检](https://github.com/pcrbot/Hoshino-plugin-transplant#自检) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) |  服务器自检 |
+| [搜图](https://github.com/pcrbot/Hoshino-plugin-transplant#搜图) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | SauceNAO 和 ascii2d |
+| [人工智障](https://github.com/pcrbot/Hoshino-plugin-transplant#人工智障) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 人工智能回复 |
+| [老婆生成器](https://github.com/pcrbot/Hoshino-plugin-transplant#老婆生成器) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 群内小游戏 |
+| [Arcaea 查询](https://github.com/pcrbot/Hoshino-plugin-transplant#arcaea查询) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | |
 | [邦邦车站](https://github.com/Watanabe-Asa/Salmon-BandoriStation) | [@Watanabe-Asa](https://github.com/Watanabe-Asa) | 邦邦协力房间号查询推送 |
 | [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |
 | [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 |
