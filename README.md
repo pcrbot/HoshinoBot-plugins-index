@@ -8,6 +8,8 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [AI对话](https://github.com/pcrbot/aichat) | [@HMScygnet](https://github.com/HMScygnet) | 由腾讯自然语言处理api实现的AI对话插件 |
+| [假期查询](https://github.com/pcrbot/holiday) | [@HMScygnet](https://github.com/HMScygnet) | 用来查询假期与调休的插件 |
 | [github仓库监控插件](https://github.com/azmiao/github_reminder) | [@azmiao](https://github.com/azmiao) | 查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引） |
 | [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 |
 | [300英雄信息推送](https://github.com/pcrbot/300hero) | [@jiyemengmei](https://github.com/jiyemengmei) | 300英雄出租、胜场信息自动推送 |
