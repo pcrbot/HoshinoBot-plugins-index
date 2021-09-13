@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [生草图片生成器](https://github.com/BlueDeer233/image_generator) |[@BlueDeer233](https://github.com/BlueDeer233) | 集成了多种图像生成器的插件|
 | [网易云音乐直链下载](https://github.com/haha114514/netease_down) |[@haha114514](https://github.com/haha114514) | 适用于HoshinoBot的获取网易云音乐歌曲下载链接|
 | [Tarot](https://github.com/haha114514/tarot_hoshino) | 修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy)  | 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签(灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）|
 | [lifeRestart_bot](https://github.com/DaiShengSheng/lifeRestart_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 适用于HoshinoBot的人生重来模拟器(remake.jpg) |
