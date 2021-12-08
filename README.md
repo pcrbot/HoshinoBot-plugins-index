@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+|[群友语录](https://github.com/kosakarin/group_quotations)| [@kosakarin](https://github.com/kosakarin) | 仿照朋友的bot写的一个上传图片到bot的功能 |
 | [小鸡词典](https://github.com/zangxx66/jiwiki) | [@zangxx66](https://github.com/zangxx66) | 网络流行语词典，查询你不知道的那些梗或词语 | 
 | [novel_ai_kai](https://github.com/assassingyk/novel_ai_kai) | [@assassingyk](https://github.com/assassingyk) | 可分群设置key的彩云小梦小说AI续写插件 |
 | [随机唐可可](https://github.com/kosakarin/hoshino_big_cockroach) | [@kosakarin](https://github.com/kosakarin) | 别问为什么和大蟑螂放一起，只是懒得单独开一个仓库了（） |
