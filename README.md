@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [在线运行代码](https://github.com/CMHopeSunshine/codeonline) | [@CMHopeSunshine](https://github.com/CMHopeSunshine) | 基于glot.io的bot运行代码插件 |
 |[群友语录](https://github.com/kosakarin/group_quotations)| [@kosakarin](https://github.com/kosakarin) | 仿照朋友的bot写的一个上传图片到bot的功能 |
 | [小鸡词典](https://github.com/zangxx66/jiwiki) | [@zangxx66](https://github.com/zangxx66) | 网络流行语词典，查询你不知道的那些梗或词语 | 
 | [novel_ai_kai](https://github.com/assassingyk/novel_ai_kai) | [@assassingyk](https://github.com/assassingyk) | 可分群设置key的彩云小梦小说AI续写插件 |
