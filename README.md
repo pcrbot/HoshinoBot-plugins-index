@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [Hoshinobot-plugin-petpet](https://github.com/chingkingm/Hoshinobot-plugin-petpet) | [@MeetWq](https://github.com/MeetWq)[@chingkingm](https://github.com/chingkingm) | 移植自[nonebot-plugin-petpet](https://github.com/MeetWq/nonebot-plugin-petpet)的头像表情包生成器|
 |[steam_crawler_botV2](https://github.com/half-ghost/steam_crawler_botV2) | [@half-ghost](https://github.com/half-ghost) | steam_crawler_bot插件第二版，新增了一些功能|
 | [pcrjjc3](https://github.com/azmiao/pcrjjc3-tw) | [@cc004](https://github.com/cc004)[@azmiao](https://github.com/azmiao) | 由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询 |
 | [图片套娃](https://github.com/watermellye/yaowoyizhi/) | [@ellye](https://github.com/watermellye) [@mahosho](https://github.com/mahosho) | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi)重构版，新增套娃和支持自定义文字。 |
