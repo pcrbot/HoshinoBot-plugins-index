@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [怎么拆截图版](https://github.com/watermellye/arena) | [@ellye](https://github.com/watermellye) | 对jjc进攻阵容查询增加截图查询功能。支持全屏和部分截图；当截图中含有多队时返回无冲配队。 |
 | [反广告插件-GGNMSL](https://github.com/Akagicv/GGNMSL) | [@Akagi_cv](https://github.com/Akagicv) | 基于海豹杀手pcrsealkiller插件思路制作的关键词匹配/图片文字识别/二维码链接识别的反广告插件。 |
 | [全局开关](https://github.com/Zoe-Wh1t3zZ/Switch/) | [@Zoe新小白白白](https://github.com/Zoe-Wh1t3zZ/) [@Jaco](https://github.com/Jacosnow/) | 基于hoshino的(伪)全局开关，通过拉黑群实现休眠。 |
 | [马娘插件整合版](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 整合了之前未开源的马娘基础数据库插件、马娘相性计算器插件、马娘支援卡节奏榜插件和之前已开源的 [马娘新闻播报插件](https://github.com/azmiao/umamusume_news) [马娘模拟抽卡插件](https://github.com/azmiao/uma_gacha)<br>> 拥有不少小功能，物美价廉，你，值得拥有！ |
