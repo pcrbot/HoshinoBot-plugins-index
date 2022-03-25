@@ -116,7 +116,6 @@
 | [淦翻译](https://github.com/daycold1000/guaihua.jpg) | [@daycold1000](https://github.com/daycold1000) | 一个翻译娱乐功能，能把正常的对...对话台词变得奇...奇怪怪...... |
 | [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) | [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音， 有文字匹配 |
 | [代刀私聊插件](https://github.com/sdyxxjj123/Daidao) | [@sdyxxjj123](https://github.com/sdyxxjj123) | 记录正在代刀，代挂树，暂停伤害，锁助战等 |
-| [今日校园打卡](https://github.com/azmiao/HFUT_cpdaily_auto_for_hoshino) | [@azmiao](https://github.com/azmiao) | 适用 于疫情信息收集今日报平安的插件，脚本来自@RayAlto |
 | [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |
 | [osu](https://github.com/Yuri-YuzuChaN/osu) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 音游osu查询插件 |
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |
