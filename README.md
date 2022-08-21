@@ -8,7 +8,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
-| [Dynamite](https://github.com/pcrbot/HoshinoBot-plugins-index) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |
+| [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |
 | [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |
