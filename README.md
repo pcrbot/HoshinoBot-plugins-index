@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 |
 | --- | --- | --- |
+| [pcr攻略](https://github.com/SonderXiaoming/auto_strategy) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动更新的pcr攻略插件 |
 |[反馈与回复](https://github.com/pcrbot/feedback-and-reply)|[@chu3](https://github.com/chu3)|带回复功能的来杯咖啡|
 |[又一个多角色语音合成插件](https://github.com/pcrbot/voice_generate)|[@corvo007](https://github.com/corvo007)|如名字所示|
 | [哔咔漫画](https://github.com/Soung2279/pica) | [@Soung](https://github.com/Soung2279)  | 适用于HoshinoV2的哔咔漫画 |
