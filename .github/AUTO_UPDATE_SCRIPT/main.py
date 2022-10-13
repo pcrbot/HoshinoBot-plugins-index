@@ -4,6 +4,7 @@ import requests
 
 result_list = []
 api_status = True
+max_count = 100
 
 
 def get_start_line(file):
@@ -16,11 +17,17 @@ def get_start_line(file):
 
 
 def get_update_time(short_urls):
+    global max_count
+    max_count -= 1
     request_url = 'https://api.github.com/repos/' + short_urls
     response = requests.get(request_url)
     if response.status_code == 404:
         return -1
     if response.status_code == 403:
+        print('API访问达到上限')
+        return 0
+    if max_count < 0:
+        print('API访问达到上限')
         return 0
     print('api访问成功')
     return json.loads(response.text).get('pushed_at')
@@ -101,9 +108,8 @@ if __name__ == '__main__':
         while api_status:
             f.seek(0)
             read_file(f, 0)
-            api_status = not api_status
-        for line in result_list:
-            print(line)
+        # for line in result_list:
+        #     print(line)
     with open(path, 'w') as f:
         f.write('\n'.join(result_list))
         f.close()
