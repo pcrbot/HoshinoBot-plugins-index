@@ -1,9 +1,8 @@
 name: autoupdate
 on:
-  watch:
-    type: [started]
+  workflow_dispatch:
   schedule:
-    - cron: "* */4 * * *"
+    - cron: "0 0 */2 * *"
 jobs:
   autoupdate:
     runs-on: ubuntu-latest
