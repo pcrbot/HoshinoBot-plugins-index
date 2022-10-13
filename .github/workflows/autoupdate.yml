@@ -3,7 +3,7 @@ on:
   watch:
     type: [started]
   schedule:
-    - cron: "10 10 * * 1,4,6"
+    - cron: "/4 * * * *"
 jobs:
   autoupdate:
     runs-on: ubuntu-latest
