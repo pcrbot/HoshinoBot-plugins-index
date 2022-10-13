@@ -247,8 +247,8 @@
 
 ## 工具索引（不分先后）
 
-| 名称 | 作者 | 备注 |
-| --- | --- | --- |
+| 名称 | 作者 | 备注 | -- |
+| --- | --- | --- | -- |
 | [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 |2021-01-21T07:48:57Z|
 | [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19T13:30:53Z|
 
