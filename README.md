@@ -184,64 +184,64 @@
 | [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) |2020-12-24T16:47:55Z|
 | [setu_renew](https://github.com/pcrbot/setu_renew) | [@corvo007](https://github.com/corvo007) | setu_mix的改进版 |2022-08-18T11:18:04Z|
 | [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2022-08-15T05:29:29Z|
-| [星乃调教助手](https://github.com/zyujs/hoshino_training) <=| [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2021-10-25T01:21:06Z|
-| [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26T11:37:42Z|
-| [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04T07:25:57Z|
-| [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15T02:25:32Z|
-| [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21T05:58:53Z|
-| [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14T12:30:13Z|
-| [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) | [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-09-03T11:50:49Z|
-| [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 |2022-09-03T11:50:49Z|
-| [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) | [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-09-03T11:50:49Z|
-| [骂我](https://github.com/zangxx66/HoshinoBot-xcwRecord#xcw再骂我一次) | [@zangxx66](https://github.com/zangxx66) | 播放 xcw 骂人语音 |2022-09-03T11:50:49Z|
-| [海豹杀手](https://github.com/GWYOG/GWYOG-Hoshino-plugins#9-海豹杀手pcrsealkiller) | [@GWYOG](https://github.com/GWYOG) | 禁言晒卡 |2022-09-15T17:46:14Z|
-| [戳一戳集卡](https://github.com/GWYOG/GWYOG-Hoshino-plugins#8-戳机器人集卡小游戏pokemanpcr) | [@GWYOG](https://github.com/GWYOG) | |2022-09-15T17:46:14Z|
-| [反并发](https://github.com/GWYOG/GWYOG-Hoshino-plugins#7-反并发插件anticoncurrency) | [@GWYOG](https://github.com/GWYOG) | 阻止多个小游戏同时进行 |2022-09-15T17:46:14Z|
-| [记忆小游戏](https://github.com/GWYOG/GWYOG-Hoshino-plugins#6-公主连结记忆小游戏pcrmemorygames) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-15T17:46:14Z|
-| [午间音乐](https://github.com/GWYOG/GWYOG-Hoshino-plugins#5-公主连结午间音乐pcrmiddaymusic) | [@GWYOG](https://github.com/GWYOG) | |2022-09-15T17:46:14Z|
-| [nga](https://github.com/GWYOG/GWYOG-Hoshino-plugins#4-nga会战爬虫ngaclanbattlespider) | [@GWYOG](https://github.com/GWYOG) | 监控推送论坛关键词 |2022-09-15T17:46:14Z|
-| [bilibili](https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider) | [@GWYOG](https://github.com/GWYOG) | 监控推送视频关键词 |2022-09-15T17:46:14Z|
-| [猜头像](https://github.com/GWYOG/GWYOG-Hoshino-plugins#2-猜头像小游戏插件pcravatarguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-15T17:46:14Z|
-| [猜角色](https://github.com/GWYOG/GWYOG-Hoshino-plugins#1-猜角色小游戏插件pcrdescguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-15T17:46:14Z|
-| [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |2021-04-26T20:54:28Z|
-| [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 |2021-03-15T21:07:47Z|
-| [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-25T16:39:50Z|
-| [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14T15:56:12Z|
-| [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10T10:53:53Z|
-| [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06T05:02:48Z|
-| [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05T04:55:25Z|
-| [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-04T16:13:55Z|
-| [clanrank](https://github.com/pcrbot/clanrank) | [@var-mixer](https://github.com/var-mixer) | 公会战排名查询 |2022-03-06T02:32:21Z|
-| [群管](https://github.com/pcrbot/group-manager) | [@xhl6699](https://github.com/xhl6699) | 申请头衔、设置禁言、修改群 名片等 |2020-09-24T03:26:01Z|
-| [表情包生成器](https://github.com/pcrbot/image-generate) | [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 |2020-09-28T10:32:01Z|
-| [egenshin](https://github.com/pcrbot/erinilis-modules/tree/master/egenshin) | [@yuyumoko](https://github.com/yuyumoko) | UID查询 抽卡 猜语音 原神公告推送 材料刷新定时器 |2022-05-30T14:11:40Z|
-| [原神卡池记录查询](https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog) | [@yuyumoko](https://github.com/yuyumoko) | 统计卡池保底信息 |2022-05-30T14:11:40Z|
-| [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-05-30T14:11:40Z|
-| [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 |2022-05-30T14:11:40Z|
-| [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-05-30T14:11:40Z|
-| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-05-30T14:11:40Z|
-| [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-05-30T14:11:40Z|
-| [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03T07:04:24Z|
-| [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2021-01-11T07:27:03Z|
-| [公会战筛刀](https://github.com/pcrbot/filter_knife) | [@H-K-Y](https://github.com/H-K-Y) | |2021-08-17T19:01:47Z|
-| [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24T03:30:32Z|
-| [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 |2021-03-06T14:03:52Z|
-| [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 |2021-03-06T14:03:52Z|
-| [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot |2021-03-06T14:03:52Z|
-| [网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager) | [@shewinder](https://github.com/shewinder) | |2021-03-06T14:03:52Z|
-| [RSS 推送](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/infoPush) | [@shewinder](https://github.com/shewinder) | |2021-03-06T14:03:52Z|
-| [直播提醒](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/liveNotice) | [@shewinder](https://github.com/shewinder) | |2021-03-06T14:03:52Z|
-| [抽卡](https://github.com/pcrbot/gacha) | [@var-mixer](https://github.com/var-mixer) | 自动更新的全限定卡池 |2022-07-06T02:35:36Z|
-| [命运 2](https://github.com/pcrbot/Destiny2) | [@xhl6666](https://github.com/xhl6666) | |2021-02-24T15:51:49Z|
-| [网抑云](https://github.com/pcrbot/hiumsentences) | [@var-mixer](https://github.com/var-mixer) | 网抑云语录 |2020-11-11T07:12:44Z|
-| [生日](https://github.com/pcrbot/birthday) | [@ZforVendetta](https://github.com/ZforVendetta) | 角色生日提醒、查询 |2021-01-06T06:01:59Z|
-| [搜番](https://github.com/pcrbot/cappuccilo_plugins#以图搜番) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16T08:55:47Z|
-| [以图搜图](https://github.com/pcrbot/cappuccilo_plugins#以图搜图) | [@Cappuccilo](https://github.com/Cappuccilo) | SauceNAO 识图 |2021-07-16T08:55:47Z|
-| [生成器](https://github.com/pcrbot/cappuccilo_plugins#生成器插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 营 销号、狗屁不通、记仇、无中生友、舔狗日记 |2021-07-16T08:55:47Z|
-| [黑名单](https://github.com/pcrbot/cappuccilo_plugins#拉黑插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 拉黑 指定成员 |2021-07-16T08:55:47Z|
-| [pcr wiki](https://github.com/pcrbot/pcr-wiki) | [@Cappuccilo](https://github.com/Cappuccilo) | |2022-05-03T05:29:07Z|
-| [分群日程表](https://github.com/pcrbot/cappuccilo_plugins#分群日程表) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16T08:55:47Z|
-| [授权管理](https://github.com/pcrbot/authMS) | [@var-mixer](https://github.com/var-mixer) | |2022-08-11T03:50:58Z|
+| [星乃调教助手](https://github.com/zyujs/hoshino_training) | [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2021-10-25 09:21:06|
+| [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26 19:37:42|
+| [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
+| [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
+| [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
+| [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
+| [FF14](https://github.com/zangxx66/HoshinoBot-xcwRecord#pcr无关) | [@zangxx66](https://github.com/zangxx66) | 钓鱼笔记、钓鱼日记、钓鱼区域 |2022-09-03 19:50:49|
+| [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 |2022-09-03 19:50:49|
+| [反哔哩哔哩小程序](https://github.com/zangxx66/HoshinoBot-xcwRecord#去你大爷的哔哩哔哩小程序) | [@zangxx66](https://github.com/zangxx66) | 关爱电脑党，将小程序转化为链接 |2022-09-03 19:50:49|
+| [骂我](https://github.com/zangxx66/HoshinoBot-xcwRecord#xcw再骂我一次) | [@zangxx66](https://github.com/zangxx66) | 播放 xcw 骂人语音 |2022-09-03 19:50:49|
+| [海豹杀手](https://github.com/GWYOG/GWYOG-Hoshino-plugins#9-海豹杀手pcrsealkiller) | [@GWYOG](https://github.com/GWYOG) | 禁言晒卡 |2022-09-16 01:46:14|
+| [戳一戳集卡](https://github.com/GWYOG/GWYOG-Hoshino-plugins#8-戳机器人集卡小游戏pokemanpcr) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
+| [反并发](https://github.com/GWYOG/GWYOG-Hoshino-plugins#7-反并发插件anticoncurrency) | [@GWYOG](https://github.com/GWYOG) | 阻止多个小游戏同时进行 |2022-09-16 01:46:14|
+| [记忆小游戏](https://github.com/GWYOG/GWYOG-Hoshino-plugins#6-公主连结记忆小游戏pcrmemorygames) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
+| [午间音乐](https://github.com/GWYOG/GWYOG-Hoshino-plugins#5-公主连结午间音乐pcrmiddaymusic) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
+| [nga](https://github.com/GWYOG/GWYOG-Hoshino-plugins#4-nga会战爬虫ngaclanbattlespider) | [@GWYOG](https://github.com/GWYOG) | 监控推送论坛关键词 |2022-09-16 01:46:14|
+| [bilibili](https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider) | [@GWYOG](https://github.com/GWYOG) | 监控推送视频关键词 |2022-09-16 01:46:14|
+| [猜头像](https://github.com/GWYOG/GWYOG-Hoshino-plugins#2-猜头像小游戏插件pcravatarguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
+| [猜角色](https://github.com/GWYOG/GWYOG-Hoshino-plugins#1-猜角色小游戏插件pcrdescguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
+| [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |2021-04-27 04:54:28|
+| [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 |2021-03-16 05:07:47|
+| [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-26 00:39:50|
+| [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
+| [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
+| [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
+| [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
+| [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
+| [clanrank](https://github.com/pcrbot/clanrank) | [@var-mixer](https://github.com/var-mixer) | 公会战排名查询 |2022-03-06 10:32:21|
+| [群管](https://github.com/pcrbot/group-manager) | [@xhl6699](https://github.com/xhl6699) | 申请头衔、设置禁言、修改群 名片等 |2020-09-24 11:26:01|
+| [表情包生成器](https://github.com/pcrbot/image-generate) | [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 |2020-09-28 18:32:01|
+| [egenshin](https://github.com/pcrbot/erinilis-modules/tree/master/egenshin) | [@yuyumoko](https://github.com/yuyumoko) | UID查询 抽卡 猜语音 原神公告推送 材料刷新定时器 |2022-05-30 22:11:40|
+| [原神卡池记录查询](https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog) | [@yuyumoko](https://github.com/yuyumoko) | 统计卡池保底信息 |2022-05-30 22:11:40|
+| [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-05-30 22:11:40|
+| [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 |2022-05-30 22:11:40|
+| [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-05-30 22:11:40|
+| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-05-30 22:11:40|
+| [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-05-30 22:11:40|
+| [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
+| [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2021-01-11 15:27:03|
+| [公会战筛刀](https://github.com/pcrbot/filter_knife) | [@H-K-Y](https://github.com/H-K-Y) | |2021-08-18 03:01:47|
+| [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24 11:30:32|
+| [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 |2021-03-06 22:03:52|
+| [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 |2021-03-06 22:03:52|
+| [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot |2021-03-06 22:03:52|
+| [网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
+| [RSS 推送](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/infoPush) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
+| [直播提醒](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/liveNotice) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
+| [抽卡](https://github.com/pcrbot/gacha) | [@var-mixer](https://github.com/var-mixer) | 自动更新的全限定卡池 |2022-07-06 10:35:36|
+| [命运 2](https://github.com/pcrbot/Destiny2) | [@xhl6666](https://github.com/xhl6666) | |2021-02-24 23:51:49|
+| [网抑云](https://github.com/pcrbot/hiumsentences) | [@var-mixer](https://github.com/var-mixer) | 网抑云语录 |2020-11-11 15:12:44|
+| [生日](https://github.com/pcrbot/birthday) | [@ZforVendetta](https://github.com/ZforVendetta) | 角色生日提醒、查询 |2021-01-06 14:01:59|
+| [搜番](https://github.com/pcrbot/cappuccilo_plugins#以图搜番) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
+| [以图搜图](https://github.com/pcrbot/cappuccilo_plugins#以图搜图) | [@Cappuccilo](https://github.com/Cappuccilo) | SauceNAO 识图 |2021-07-16 16:55:47|
+| [生成器](https://github.com/pcrbot/cappuccilo_plugins#生成器插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 营 销号、狗屁不通、记仇、无中生友、舔狗日记 |2021-07-16 16:55:47|
+| [黑名单](https://github.com/pcrbot/cappuccilo_plugins#拉黑插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 拉黑 指定成员 |2021-07-16 16:55:47|
+| [pcr wiki](https://github.com/pcrbot/pcr-wiki) | [@Cappuccilo](https://github.com/Cappuccilo) | |2022-05-03 13:29:07|
+| [分群日程表](https://github.com/pcrbot/cappuccilo_plugins#分群日程表) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
+| [授权管理](https://github.com/pcrbot/authMS) | [@var-mixer](https://github.com/var-mixer) | |2022-08-11 11:50:58|
 
 <!-- 请不要在这里添加内容，请将内容添加到首行 -->
 
@@ -249,8 +249,8 @@
 
 | 名称 | 作者 | 备注 | 更新时间 |
 | --- | --- | --- | --- |
-| [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 |2021-01-21T07:48:57Z|
-| [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19T13:30:53Z|
+| [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 |2021-01-21 15:48:57|
+| [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19 21:30:53|
 
 ## 发布内容
 
