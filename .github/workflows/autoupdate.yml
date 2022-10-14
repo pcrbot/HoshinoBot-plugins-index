@@ -16,9 +16,10 @@ jobs:
         uses: actions/setup-python@v4.3.0
         with:
           python-version: '3.8'
-      - name: Install Requests
+      - name: Install dependencies
         run: |
-          pip install requests
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
       - name: Auto Update #Api调用
         run: |
           python ./.github/AUTO_UPDATE_SCRIPT/main.py README.md
