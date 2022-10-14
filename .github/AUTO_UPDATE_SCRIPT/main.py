@@ -1,6 +1,7 @@
 import json
 import re
 import requests
+from datetime import timedelta, datetime
 
 result_list = []
 api_status = True
@@ -15,6 +16,13 @@ def get_start_line(file):
             return i
     return 0
 
+# 调整太平洋时间
+def change_time(raw_time):
+    raw_time = str(raw_time).replace('Z', '')
+    txtfmt = raw_time[:10]+ " " + raw_time[11:19]
+    dt = datetime.strptime(txtfmt,"%Y-%m-%d %H:%M:%S")
+    cur_time = dt + timedelta(hours=8)
+    return str(cur_time)
 
 def get_update_time(short_urls):
     global max_count
@@ -54,7 +62,7 @@ def get_format_message(basic_message, short_url):
         lines[1] = lines[1] + "<="
         return '|'.join(lines)
     else:
-        message = update_time
+        message = change_time(update_time)
     if sign_mount < 5:
         return basic_message + str(message) + '|'
     else:
