@@ -6,11 +6,12 @@ from datetime import timedelta, datetime
 result_list = []
 api_status = True
 max_count = 100
+continue_mark = '<!--cont.-->'
 
 
 def get_start_line(file):
     for index, per_line in enumerate(file):
-        if get_short_url(per_line) != -1 and len(per_line) - len(per_line.replace('<=', '')) != 0:
+        if get_short_url(per_line) != -1 and len(per_line) - len(per_line.replace(continue_mark, '')) != 0:
             i = index
             f.seek(0)
             return i
@@ -59,7 +60,7 @@ def get_format_message(basic_message, short_url):
     elif update_time == 0:
         api_status = not api_status
         lines = basic_message.split('|')
-        lines[1] = lines[1] + "<="
+        lines[1] = lines[1] + continue_mark
         return '|'.join(lines)
     else:
         message = change_time(update_time)
@@ -94,7 +95,7 @@ def read_file(file, start_line):
         per_line = per_line.replace('\n', '')
         if pointer > -1 and start_line != 0:
             if pointer == 0:
-                per_line = per_line.replace('<=', '')
+                per_line = per_line.replace(continue_mark, '')
                 per_line = get_format_message(per_line, get_short_url(per_line))
             pointer -= 1
             add_line(index, per_line)
