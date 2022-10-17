@@ -4,7 +4,7 @@
 
 ## 插件索引（按时间倒序）
 
-<!-- 新内容请添加到首行，更新时间留空即可 -->
+<!-- 新内容请添加到首行，格式见本文末`贡献指南` -->
 
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
@@ -257,4 +257,4 @@
 
 ## 发布内容
 
-请参考[贡献指南](./CONTRIBUTING.md)向此仓库发起 pull request
+请参考[贡献指南](https://github.com/pcrbot/HoshinoBot-plugins-index/blob/master/CONTRIBUTING.md)向此仓库发起 pull request
