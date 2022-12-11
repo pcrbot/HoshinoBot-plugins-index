@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
+| [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） | |
 | [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | 简单魔改的AI对话chatGPT版，内有调教心得。 |2022-12-10 05:28:10|
 | [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-9 23:46:21|
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |---|
