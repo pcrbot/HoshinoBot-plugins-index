@@ -8,13 +8,13 @@
 
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
-| [csgo开箱](https://github.com/daycold1000/csgo-nb) | [@daycold1000](https://github.com/daycold1000) | 在群里体验gogo开箱吧！ | 2022-12-11 16:58:49 |
-| [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） | |
-| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | 简单魔改的AI对话chatGPT版，内有调教心得。 |2022-12-10 05:28:10|
-| [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-9 23:46:21|
-| [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |---|
-| [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-03 01:22:41|
-| [猜数字](https://github.com/daycold1000/caishuzi) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏，俗称1A2B猜谜 |2022-12-03 01:26:25|
+| [csgo开箱](https://github.com/daycold1000/csgo-nb) | [@daycold1000](https://github.com/daycold1000) | 在群里体验gogo开箱吧！ |2022-12-11 17:01:26|
+| [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） |2022-12-11 16:11:56|
+| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | 简单魔改的AI对话chatGPT版，内有调教心得。 |2022-12-13 03:27:13|
+| [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-10 12:05:25|
+| [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2022-12-09 09:27:29|
+| [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-11 17:04:35|
+| [猜数字](https://github.com/daycold1000/caishuzi) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏，俗称1A2B猜谜 |2022-12-11 17:06:51|
 | [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2022-10-21 19:27:59|
 |[pcrjjc2魔改版](https://github.com/SonderXiaoming/pcrjjc_huannai)| [@SonderXiaoming](https://github.com/SonderXiaoming) |可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置）|2022-11-21 22:53:53|
 | [猜群友](https://github.com/BeiYazi0/groupguess) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的猜群友小游戏插件 |2022-10-20 19:47:30|
@@ -24,7 +24,7 @@
 | [龙图检测](https://github.com/Mzmba/dragon_killer) | [@Mzmba](https://github.com/Mzmba) | 基于opencv的龙图检测插件，代码待优化 |2022-09-24 21:27:28|
 | [招募队友](https://github.com/Lanly109/teamup) | [@Lanly109](https://github.com/Lanly109) | 发布招募帖，寻找队友 |2022-09-20 17:40:58|
 | [带包控制的多合一运势插件](https://github.com/PerfBleu/portune2) | [@PerfBleu](https://github.com/PerfBleu) | 带简易分群包控制的多合一运势插件 |2022-10-28 11:34:57|
-| [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 非常简单的摸鱼插件 |2022-09-23 14:27:42|
+| [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 非常简单的摸鱼插件 |2022-12-09 04:09:12|
 |[网络天才](https://github.com/HMScygnet/akinator)|[@HMScygnet](https://github.com/HMScygnet)|网络天才小游戏，可以猜出你心里想的人物|2022-09-14 15:15:51|
 |[魔改版的pcrjjc2](https://github.com/Syne-lucky/pcrjjc2)|[@Syne-lucky](https://github.com/Syne-lucky)|可绑多uid、可私聊/群聊通知、多线程、自动过验证码。|2022-11-12 22:37:58|
 | [pcr攻略](https://github.com/SonderXiaoming/auto_strategy) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动更新的pcr攻略插件 |2022-11-05 10:02:29|
@@ -246,7 +246,7 @@
 | [网抑云](https://github.com/pcrbot/hiumsentences) | [@var-mixer](https://github.com/var-mixer) | 网抑云语录 |2020-11-11 15:12:44|
 | [生日](https://github.com/pcrbot/birthday) | [@ZforVendetta](https://github.com/ZforVendetta) | 角色生日提醒、查询 |2021-01-06 14:01:59|
 | [搜番](https://github.com/pcrbot/cappuccilo_plugins#以图搜番) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
-| [以图搜图](https://github.com/pcrbot/cappuccilo_plugins#以图搜图) <!--cont.-->| [@Cappuccilo](https://github.com/Cappuccilo) | SauceNAO 识图 |2021-07-16 16:55:47|
+| [以图搜图](https://github.com/pcrbot/cappuccilo_plugins#以图搜图) | [@Cappuccilo](https://github.com/Cappuccilo) | SauceNAO 识图 |2021-07-16 16:55:47|
 | [生成器](https://github.com/pcrbot/cappuccilo_plugins#生成器插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 营 销号、狗屁不通、记仇、无中生友、舔狗日记 |2021-07-16 16:55:47|
 | [黑名单](https://github.com/pcrbot/cappuccilo_plugins#拉黑插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 拉黑 指定成员 |2021-07-16 16:55:47|
 | [pcr wiki](https://github.com/pcrbot/pcr-wiki) | [@Cappuccilo](https://github.com/Cappuccilo) | |2022-05-03 13:29:07|
