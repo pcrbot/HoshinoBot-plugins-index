@@ -188,14 +188,14 @@
 | [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） |2021-04-03 16:43:58|
 | [setuweb](https://github.com/MiaoXia0/setuweb) | [@MiaoXia0](https://github.com/MiaoXia0)|使用web端的在线setu插件 |2022-08-19 10:35:41|
 | [碧蓝档案](https://github.com/azmiao/bluearchive_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 由Hoshino修 改的碧蓝档案blue archive插件 |2021-08-15 18:25:47|
-| [命运2简易插件](https://github.com/azmiao/destiny2_hoshino_plugin) <!--cont.-->| [@azmiao](https://github.com/azmiao) | 另一个命运2插件，从小黑盒自动抓取周报，试炼周报，老九，蛛王信息 |2021-03-09 21:52:41|
+| [命运2简易插件](https://github.com/azmiao/destiny2_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 另一个命运2插件，从小黑盒自动抓取周报，试炼周报，老九，蛛王信息 |2021-03-09 21:52:41|
 | [XML卡片消息发送器](https://github.com/MiaoXia0/XMLSender) | [@MiaoXia0](https://github.com/MiaoXia0) | 使机器人发送XML卡片消息 |2021-01-30 04:49:45|
 | [女装迫害插件](https://github.com/MiaoXia0/NvZhuang) | [@MiaoXia0](https://github.com/MiaoXia0) | 发图迫害群友女装 |2021-02-09 18:25:31|
 | [PCR贵族决斗（带下注）](https://github.com/Rs794613/PcrDuel) | [@Rs794613](https://github.com/Rs794613) | 创建贵族进行俄罗斯轮盘决斗，提升爵位，抢夺公主。 |2022-06-14 17:22:04|
 | [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) | [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 |2021-02-16 20:42:37|
 | [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) |2020-12-25 00:47:55|
 | [setu_renew](https://github.com/pcrbot/setu_renew) | [@corvo007](https://github.com/corvo007) | setu_mix的改进版 |2022-08-18 19:18:04|
-| [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2022-11-08 09:41:14|
+| [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2022-12-15 11:42:33|
 | [星乃调教助手](https://github.com/zyujs/hoshino_training) | [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2021-10-25 09:21:06|
 | [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26 19:37:42|
 | [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
@@ -233,7 +233,7 @@
 | [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
 | [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
 | [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-11-12 18:59:28|
-| [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
+| [点歌](https://github.com/pcrbot/music) <!--cont.-->| [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2021-01-11 15:27:03|
 | [公会战筛刀](https://github.com/pcrbot/filter_knife) | [@H-K-Y](https://github.com/H-K-Y) | |2021-08-18 03:01:47|
 | [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24 11:30:32|
