@@ -8,13 +8,13 @@
 
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
-| [本地抽卡](https://github.com/BeiYazi0/draw-card) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的抽卡插件，卡池中图片源自于用户上传 |---|
-| [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 |  |
+| [本地抽卡](https://github.com/BeiYazi0/draw-card) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的抽卡插件，卡池中图片源自于用户上传 |2023-01-02 16:51:07|
+| [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 |2022-12-27 12:05:33|
 | [运势n合一](https://github.com/SonderXiaoming/huannai_plugin_fortune) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 超多主题，每群都可以独立设置 |2022-12-15 02:06:51|
-| [分刀查轴](https://github.com/SonderXiaoming/fendao) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 查询花舞作业并且自动分刀 |2022-12-13 12:50:50|
+| [分刀查轴](https://github.com/SonderXiaoming/fendao) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 查询花舞作业并且自动分刀 |2022-12-28 12:33:27|
 | [csgo开箱](https://github.com/daycold1000/csgo-nb) | [@daycold1000](https://github.com/daycold1000) | 在群里体验gogo开箱吧！ |2022-12-18 10:46:37|
 | [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） |2022-12-11 16:11:56|
-| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | 简单魔改的AI对话chatGPT版，内有调教心得。 |2022-12-26 02:13:07|
+| [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | 简单魔改的AI对话chatGPT版，内有调教心得。 |2023-01-01 04:29:59|
 | [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-14 20:13:12|
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2022-12-09 09:27:29|
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
@@ -253,7 +253,7 @@
 | [以图搜图](https://github.com/pcrbot/cappuccilo_plugins#以图搜图) | [@Cappuccilo](https://github.com/Cappuccilo) | SauceNAO 识图 |2021-07-16 16:55:47|
 | [生成器](https://github.com/pcrbot/cappuccilo_plugins#生成器插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 营 销号、狗屁不通、记仇、无中生友、舔狗日记 |2021-07-16 16:55:47|
 | [黑名单](https://github.com/pcrbot/cappuccilo_plugins#拉黑插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 拉黑 指定成员 |2021-07-16 16:55:47|
-| [pcr wiki](https://github.com/pcrbot/pcr-wiki) <!--cont.-->| [@Cappuccilo](https://github.com/Cappuccilo) | |2022-05-03 13:29:07|
+| [pcr wiki](https://github.com/pcrbot/pcr-wiki) | [@Cappuccilo](https://github.com/Cappuccilo) | |2022-05-03 13:29:07|
 | [分群日程表](https://github.com/pcrbot/cappuccilo_plugins#分群日程表) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
 | [授权管理](https://github.com/pcrbot/authMS) | [@var-mixer](https://github.com/var-mixer) | |2022-08-11 11:50:58|
 
