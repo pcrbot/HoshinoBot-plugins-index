@@ -111,7 +111,7 @@
 | [崩坏3UID查询](https://github.com/chingkingm/honkai_mys) | [@chingkingm](https://github.com/chingkingm) | 查询崩坏3玩家信息 |2022-08-25 22:26:05|
 | [嘉心糖爬](https://github.com/qiandeng1/antiasoul) | [@qiandeng1](https://github.com/qiandeng1) | 球球嘉心糖爬出去吧（x |2022-01-16 21:59:51|
 | [疫情出行政策查询](https://github.com/SlightDust/travelpolicy_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询疫情出行政策。年关将至大家注意安全做好个人防护。 |2022-01-13 21:56:28|
-| [疫情获取](https://github.com/SlightDust/yiqing_HoshinoBot) <!--cont.-->| [@SlightDust](https://github.com/SlightDust) | 获取某地疫情数据 |2022-06-10 20:32:34|
+| [疫情获取](https://github.com/SlightDust/yiqing_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 获取某地疫情数据 |2022-06-10 20:32:34|
 | [祖安宝典](https://github.com/zangxx66/zuanDictionary) | [@zangxx66](https://github.com/zangxx66) | 口吐芬芳宝典词库 |2022-01-09 02:51:53|
 | [派蒙语言库](https://github.com/3273576540/botchat) | [@Zoe新小白白白](https://github.com/3273576540) | 找了一些多多屁的语音合并到bot语言库 |2022-12-18 20:25:58|
 | [随机疯狂星期四文案](https://github.com/Nicr0n/fucking_crazy_thursday) | [@Nicr0n](https://github.com/Nicr0n) | 一个简单的随机疯狂星期四文案插件 |2022-06-24 09:53:31|
@@ -143,7 +143,7 @@
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
 | [名词实体信息查询](https://github.com/pcrbot/descr_entity_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 对一个名词进行解释 |2021-12-01 16:13:47|
 | [色图打分](https://github.com/pcrbot/SetuScore)  | [@HMScygnet](https://github.com/HMScygnet) | 为你的色图进行打分 |2021-10-20 16:04:44|
-| [FGO日历](https://github.com/NepPure/fgo_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格FGO日历，数据源B服官网新闻 |2021-12-29 20:56:08|
+| [FGO日历](https://github.com/NepPure/fgo_calendar) <!--cont.-->| [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格FGO日历，数据源B服官网新闻 |2021-12-29 20:56:08|
 | [网页截图](https://github.com/pcrbot/pagecut) | [@G41mywaifu](https://github.com/G41mywaifu) | 发送指定网页的页面截图 |2022-11-26 16:43:35|
 | [vtbuber名单查询](https://github.com/Soung2279/vdb_list) | [@Soung2279](https://github.com/Soung2279) | 以[VTuber Database](https://github.com/dd-center/vdb)为数据来源的vtuber查询功能，查询某人是否为vtb，并给出相关信息。可模糊匹配|2021-10-26 15:12:12|
 | [百度一下](https://github.com/Soung2279/baidu_search) | [@Soung2279](https://github.com/Soung2279) | 对 优妮 的“百度一下”功能的粗糙复现 |2021-09-20 16:09:17|
