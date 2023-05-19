@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
+| [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-05-19 15:32:21|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2023-05-11 12:22:21|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-05-02 09:57:33|
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
