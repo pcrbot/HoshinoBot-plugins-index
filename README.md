@@ -62,22 +62,22 @@
 | [give_me_some_heis](https://github.com/Gaylone/give_me_some_heis) | [@Gaylone](https://github.com/Gaylone)| 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 |2022-07-25 22:44:41|
 | [HosBotManagerWeb](https://github.com/pcrbot/HosBotManagerWeb) | [@LQBing](https://github.com/LQBing)[@shewinder](https://github.com/shewinder) | 由[网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager)修改而来的hoshinobot服务管理网页版，支持多cq端 |2022-07-22 16:21:40|
 | [DOTA2战绩推送](https://github.com/joeyHXD/dota2_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件 |2023-04-22 21:29:37|
-| [PSO2NGS](https://github.com/cpms/pso2) <!--cont.-->| [@cpm](https://github.com/cpms)| 基于 [rss 订阅插件](https://github.com/zyujs/rss)魔改而来的 PSO2NGS（梦幻之星 ONLINE2 新纪元）HoshinoBot V2 插件|2023-04-21 09:18:03|
-| [每日番剧推送](https://github.com/benx1n/everyday-bangumi) | [@benx1n](https://github.com/benx1n)| 带大陆版权站的每日番剧查询和自动推送|2022-07-13 16:16:16|
+| [PSO2NGS](https://github.com/cpms/pso2) | [@cpm](https://github.com/cpms)| 基于 [rss 订阅插件](https://github.com/zyujs/rss)魔改而来的 PSO2NGS（梦幻之星 ONLINE2 新纪元）HoshinoBot V2 插件|2023-04-21 09:18:03|
+| [每日番剧推送](https://github.com/benx1n/everyday-bangumi) | [@benx1n](https://github.com/benx1n)| 带大陆版权站的每日番剧查询和自动推送|2023-05-11 09:20:31|
 | [Daily_News](https://github.com/InSnocent/Daily_News) | [@InSnocent](https://github.com/InSnocent)| 适用于HoshinoBot的每日一句话新闻(和另一个插件采用的不一样的来源) |2022-10-20 12:20:23|
 | [明日方舟抽卡+蹲饼](https://github.com/xulai1001/akgacha) | [@库兰](https://github.com/xulai1001/) | 明日方舟抽卡-自动蹲饼-素材一图流和DPS查询 |2022-09-11 22:46:00|
-| [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 |2023-04-26 10:36:59|
+| [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 |2023-05-07 19:00:06|
 | [project sekai啤酒烧烤信息获取插件](https://github.com/FLAG250/hoshino-plugin-pjsk) | [@FLAG250](https://github.com/FLAG250)  | 适用于hoshinobot的pjsk信息查询插件 |2023-03-15 14:46:49|
 | [APEX Legends 制造器, 地图轮换查询](https://github.com/GaryDu0123/Apex_Stat_for_Hoshino) | [@GaryDu0123](https://github.com/GaryDu0123)  | 查询APEX Legends 当日(未来)地图轮换以及复制器物品 |2022-08-11 18:26:43|
 | [今日老婆](https://github.com/SonderXiaoming/dailywife) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 随机抓一位群友当老婆 |2022-06-19 13:31:31|
 | [汇率查询](https://github.com/SonderXiaoming/money_exchange_rate) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 查询货币汇率，支持自定义 |2023-03-10 13:16:37|
 | [everyday_news](https://github.com/PerfBleu/everyday_news) | [@PerfBleu](https://github.com/PerfBleu) | 适用于Hoshino的每日简报 |2023-01-14 00:03:22|
 | [sysinfo-for-hoshino](https://github.com/PerfBleu/sysinfo-for-hoshino) | [@PerfBleu](https://github.com/PerfBleu) | 调用screenfetch获取系统信息 |2022-05-26 21:09:37|
-| [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2023-04-09 23:00:22|
+| [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent |2023-05-10 23:37:24|
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
-| [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2023-04-27 17:24:07|
+| [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2023-05-17 15:24:38|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2023-03-26 15:07:30|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2023-04-28 10:09:05|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2023-05-17 15:03:43|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
@@ -101,7 +101,7 @@
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br>> 插件一个更比十个强，物美价廉，你，值得拥有！ |2023-04-13 21:59:21|
 | [Hoshinobot-plugin-petpet](https://github.com/chingkingm/Hoshinobot-plugin-petpet) | [@MeetWq](https://github.com/MeetWq)[@chingkingm](https://github.com/chingkingm) | 移植自[nonebot-plugin-petpet](https://github.com/MeetWq/nonebot-plugin-petpet)的头像表情包生成器|2022-06-21 21:38:27|
 |[steam_crawler_botV2](https://github.com/half-ghost/steam_crawler_botV2) | [@half-ghost](https://github.com/half-ghost) | steam_crawler_bot插件第二版，新增了一些功能|2023-03-14 01:03:11|
-| [pcrjjc3](https://github.com/azmiao/pcrjjc3-tw) | [@cc004](https://github.com/cc004)[@azmiao](https://github.com/azmiao)[@CYDXDianXian](https://github.com/CYDXDianXian) | 由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询 |2023-03-21 17:12:37|
+| [pcrjjc3](https://github.com/azmiao/pcrjjc3-tw) | [@cc004](https://github.com/cc004)[@azmiao](https://github.com/azmiao)[@CYDXDianXian](https://github.com/CYDXDianXian) | 由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询 |2023-05-14 17:28:31|
 | [图片套娃](https://github.com/watermellye/yaowoyizhi/) | [@ellye](https://github.com/watermellye) [@mahosho](https://github.com/mahosho) | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi)重构版，新增套娃和支持自定义文字。 |2022-08-01 14:36:59|
 | [合刀计算器 终极版](https://github.com/pcrbot/pcr_calculator_plus/) | [@ellye](https://github.com/watermellye) | 支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。 |2022-06-03 16:20:03|
 | [赛马娘模拟抽卡](https://github.com/azmiao/uma_gacha) | [@azmiao](https://github.com/azmiao) | 另一个由nb插件移植而来的可自动更新的赛马娘模拟抽卡插件。马之井！冲冲冲 |2022-04-20 16:38:51|
@@ -111,7 +111,7 @@
 | [崩坏3UID查询](https://github.com/chingkingm/honkai_mys) | [@chingkingm](https://github.com/chingkingm) | 查询崩坏3玩家信息 |2022-08-25 22:26:05|
 | [嘉心糖爬](https://github.com/qiandeng1/antiasoul) | [@qiandeng1](https://github.com/qiandeng1) | 球球嘉心糖爬出去吧（x |2022-01-16 21:59:51|
 | [疫情出行政策查询](https://github.com/SlightDust/travelpolicy_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询疫情出行政策。年关将至大家注意安全做好个人防护。 |2022-01-13 21:56:28|
-| [疫情获取](https://github.com/SlightDust/yiqing_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 获取某地疫情数据 |2022-06-10 20:32:34|
+| [疫情获取](https://github.com/SlightDust/yiqing_HoshinoBot) <!--cont.-->| [@SlightDust](https://github.com/SlightDust) | 获取某地疫情数据 |2022-06-10 20:32:34|
 | [祖安宝典](https://github.com/zangxx66/zuanDictionary) | [@zangxx66](https://github.com/zangxx66) | 口吐芬芳宝典词库 |2022-01-09 02:51:53|
 | [派蒙语言库](https://github.com/3273576540/botchat) | [@Zoe新小白白白](https://github.com/3273576540) | 找了一些多多屁的语音合并到bot语言库 |2022-12-18 20:25:58|
 | [随机疯狂星期四文案](https://github.com/Nicr0n/fucking_crazy_thursday) | [@Nicr0n](https://github.com/Nicr0n) | 一个简单的随机疯狂星期四文案插件 |2022-06-24 09:53:31|
