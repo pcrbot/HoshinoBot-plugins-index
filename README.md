@@ -192,7 +192,7 @@
 | [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) |2022-12-07 23:48:49|
 |[积分系统(底层方法实现)](https://github.com/pcrbot/scoresystem)| [@corvo007](https://github.com/corvo007)|积分系统(底层方法实现)|2021-11-21 00:05:18|
 | [扫雷游戏](https://github.com/eggggi/mine_sweeper) | [@eggggi](https://github.com/eggggi) | 群内小游戏 |2023-01-05 11:37:39|
-| [群昵称同步](https://github.com/wosiwq/groupname_sync) <!--cont.-->| [@wosiwq](https://github.com/wosiwq) | 可自动同步yobot中的周 目与第几个王到群昵称，方便的提醒群员进度 |2021-05-27 20:31:41|
+| [群昵称同步](https://github.com/wosiwq/groupname_sync) | [@wosiwq](https://github.com/wosiwq) | 可自动同步yobot中的周 目与第几个王到群昵称，方便的提醒群员进度 |2021-05-27 20:31:41|
 | [计算jjc排名爬升排名的最优解](https://github.com/wbero/pcrjjc_optimal-path) | [@wbero](https://github.com/wbero) | 计 算jjc排名爬升排名的最优解 |2021-05-18 14:31:09|
 | [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) | [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 |2021-05-14 09:33:35|
 | [最优击剑路径](https://github.com/wosiwq/arena_route) | [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 |2021-05-15 18:59:45|
@@ -246,7 +246,7 @@
 | [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
 | [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 |2022-11-12 18:59:28|
 | [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
-| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
+| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
 | [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-11-12 18:59:28|
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2021-01-11 15:27:03|
