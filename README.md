@@ -8,9 +8,9 @@
 
 | 名称 | 作者 | 备注 | 更新时间<br>（北京时间） |
 | --- | --- | --- | --- |
-| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2023-06-19 16:23:18|
-| [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2023-06-20 16:14:49|
-| [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2023-06-16 12:48:17|
+| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2023-06-30 21:24:32|
+| [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2023-06-29 08:48:43|
+| [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2023-06-30 18:24:32|
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-06-19 00:40:17|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
 | [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2023-05-23 18:26:50|
@@ -19,7 +19,7 @@
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-05-02 09:57:33|
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
 | [网页截图](https://github.com/RSRH-Rs/Hoshino-plugin-webscreenshot) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 异步网页截图，不会堵塞 |2023-05-17 19:38:18|
-| [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-06-20 11:57:37|
+| [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-06-26 11:23:03|
 | [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-04-18 23:54:18|
 | [伪造消息](https://github.com/BeiYazi0/fake_news) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的伪造群聊消息插件 |2023-03-11 20:47:53|
 | [补偿时间轴计算](https://github.com/bbareo/carryover_cal) | [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
@@ -253,7 +253,7 @@
 | [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
 | [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-11-12 18:59:28|
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
-| [steam](https://github.com/pcrbot/steam) <!--cont.-->| [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2021-01-11 15:27:03|
+| [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2021-01-11 15:27:03|
 | [公会战筛刀](https://github.com/pcrbot/filter_knife) | [@H-K-Y](https://github.com/H-K-Y) | |2021-08-18 03:01:47|
 | [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24 11:30:32|
 | [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 |2021-03-06 22:03:52|
