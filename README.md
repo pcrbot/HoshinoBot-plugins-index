@@ -178,9 +178,9 @@
 | [blhx_wiki](https://github.com/Gaylone/blhx_wiki) | [@Gaylone](https://github.com/Gaylone) | 碧蓝航线wiki用于获取舰船信息，立绘，推荐出装等信息 |2023-06-18 15:23:30|
 | [clanbattle_info](https://github.com/cc004/clanbattle_info) | [@cc004](https://github.com/cc004) | 公主连结国服公会战数据查询及自动报刀插件 |2023-02-23 21:36:41|
 | [market](https://github.com/cc004/market) | [@cc004](https://github.com/cc004) | hoshinobot的大头菜插件 |2022-01-21 16:22:53|
-| [pcrjjc2](https://github.com/cc004/pcrjjc2) <!--cont.-->| [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 |2023-07-08 21:29:09|
+| [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 |2023-07-10 21:58:22|
 | [邦邦档线预测](https://github.com/assassingyk/bandori-predict) | [@assassingyk](https://github.com/assassingyk) | BanGDream音游档线预测工具 |2022-06-15 15:58:22|
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2023-07-06 04:17:44|
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot |2023-07-21 00:25:40|
 | [战地 1/4/5 战绩查询](https://github.com/azmiao/bf_search) | [@azmiao](https://github.com/azmiao) | 可公开版本的 战地1 / 战地4 / 战地5 战绩信息查询插件，偷偷感谢一下冷雷佬和K-ON服服主 SuzuBucket |2021-09-29 13:17:32|
 | [A-soul发病小作文](https://github.com/RMYHY/RBot/tree/main/HoshinoBot/hoshino/modules/asill) | [@RMYHY](https://github.com/RMYHY) | 可自定义发病对象的真情实感小作文 |2022-05-26 13:17:55|
 | [本地涩图增强版](https://github.com/Soung2279/setu-local-extra) | [@Soung2279](https://github.com/Soung2279) | hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。 |2022-08-30 03:10:52|
@@ -237,7 +237,7 @@
 | [bilibili](https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider) | [@GWYOG](https://github.com/GWYOG) | 监控推送视频关键词 |2022-09-16 01:46:14|
 | [猜头像](https://github.com/GWYOG/GWYOG-Hoshino-plugins#2-猜头像小游戏插件pcravatarguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
 | [猜角色](https://github.com/GWYOG/GWYOG-Hoshino-plugins#1-猜角色小游戏插件pcrdescguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
-| [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |2021-04-27 04:54:28|
+| [YoCool](https://github.com/A-kirami/YoCool-Console) <!--cont.-->| [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |2021-04-27 04:54:28|
 | [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 |2021-03-16 05:07:47|
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-26 00:39:50|
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
