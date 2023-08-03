@@ -8,15 +8,15 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
-| [pjsk贴纸](https://github.com/Nao-desu/pjsk_sticker) | [@Nao-desu](https://github.com/Nao-desu) | 啤酒烧烤角色贴纸生成插件 | --- |
-| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2023-07-21 23:29:06|
+| [pjsk贴纸](https://github.com/Nao-desu/pjsk_sticker) | [@Nao-desu](https://github.com/Nao-desu) | 啤酒烧烤角色贴纸生成插件 |2023-07-26 17:24:21|
+| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2023-08-02 16:00:11|
 | [Claude-in-hoshino](https://github.com/assassingyk/Claude-in-hoshino) | [@assassingyk](https://github.com/assassingyk) | 适用hoshino bot的claude for slack插件 |2023-07-13 01:04:01|
 | [银趴](https://github.com/BeiYazi0/yinpa) | [@贝亚子零号](https://github.com/BeiYazi0) | 移植自nb2插件(牛牛比拼) |2023-07-11 16:17:41|
 | [AI锐评](https://github.com/SonderXiaoming/hunnai_eitherchoice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | AI，到底是3k美金大还是2k人民币大？ |2023-07-19 16:24:22|
-| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2023-07-22 22:27:18|
-| [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2023-07-05 09:40:22|
+| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2023-07-26 16:13:33|
+| [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2023-07-28 15:50:49|
 | [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2023-07-18 18:23:17|
-| [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-06-19 00:40:17|
+| [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
 | [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2023-05-23 18:26:50|
 | [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-05-22 14:19:02|
@@ -24,7 +24,7 @@
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
 | [网页截图](https://github.com/RSRH-Rs/Hoshino-plugin-webscreenshot) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 异步网页截图，不会堵塞 |2023-05-17 19:38:18|
-| [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-07-22 11:57:50|
+| [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 |2023-07-26 10:20:13|
 | [群AI&chatGPT](https://github.com/joeyHXD/aichat_chatGPT_API) | [@joeyHXD](https://github.com/joeyHXD) | chatGPT的插件，写完发现已经有现成的，我哭死，优点在于能理解用户名并且临时会话不需要发前缀 |2023-04-18 23:54:18|
 | [伪造消息](https://github.com/BeiYazi0/fake_news) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的伪造群聊消息插件 |2023-03-11 20:47:53|
 | [补偿时间轴计算](https://github.com/bbareo/carryover_cal) | [@背包](https://github.com/bbareo) | 计算补偿时间对应TL |2023-03-02 21:41:26|
@@ -276,7 +276,7 @@
 | [生成器](https://github.com/pcrbot/cappuccilo_plugins#生成器插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 营 销号、狗屁不通、记仇、无中生友、舔狗日记 |2021-07-16 16:55:47|
 | [黑名单](https://github.com/pcrbot/cappuccilo_plugins#拉黑插件) | [@Cappuccilo](https://github.com/Cappuccilo) | 拉黑 指定成员 |2021-07-16 16:55:47|
 | [pcr wiki](https://github.com/pcrbot/pcr-wiki) | [@Cappuccilo](https://github.com/Cappuccilo) | |2022-05-03 13:29:07|
-| [分群日程表](https://github.com/pcrbot/cappuccilo_plugins#分群日程表) <!--cont.-->| [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
+| [分群日程表](https://github.com/pcrbot/cappuccilo_plugins#分群日程表) | [@Cappuccilo](https://github.com/Cappuccilo) | |2021-07-16 16:55:47|
 | [授权管理](https://github.com/pcrbot/authMS) | [@var-mixer](https://github.com/var-mixer) | |2022-08-11 11:50:58|
 
 <!-- 请不要在这里添加内容，请将内容添加到首行 -->
