@@ -291,4 +291,5 @@
 | [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19 21:30:53|
 
 ## 发布内容
+
 请参考[贡献指南](https://github.com/pcrbot/HoshinoBot-plugins-index/blob/master/CONTRIBUTING.md)向此仓库发起 pull request
