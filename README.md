@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
+| [授权管理精简版](https://github.com/azmiao/authMS_lite) | [@azmiao](https://github.com/azmiao) | [授权管理](https://github.com/pcrbot/authMS)的自用精简版</br>适配v1.0.0+的go-cqhttp</br>其他各种精简和优化修改 |  |
 | [词影](https://github.com/X-Zero-L/CiYing) | [@X-Zero-L](https://github.com/X-Zero-L) | 词影游戏插件 |2023-09-25 18:04:15|
 | [yobot游戏风格回复](https://github.com/qiandeng1/yobot_ImageEngine) | [@qiandeng1](https://github.com/qiandeng1) | 针对yobot_remix开发的QQBot回复消息仿游戏界面的插件 |2023-09-27 21:58:26|
 | [尊嘟假嘟转换](https://github.com/AddOneSecondL/zdjd_hoshino) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 尊嘟假嘟？ |2023-08-19 15:56:14|
