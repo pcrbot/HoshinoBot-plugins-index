@@ -23,7 +23,7 @@
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
 | [宝可梦对战V0.2](https://github.com/jiluoQAQ/pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战V0.2版本<br>(其实还只有领取，还不能对战) |2023-05-23 18:26:50|
-| [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-09-24 10:03:20|
+| [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2023-05-11 12:22:21|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 |2023-05-03 19:36:20|
@@ -62,7 +62,7 @@
 |[又一个多角色语音合成插件](https://github.com/pcrbot/voice_generate)|[@corvo007](https://github.com/corvo007)|如名字所示|2022-09-11 23:07:16|
 | [哔咔漫画](https://github.com/Soung2279/pica) | [@Soung](https://github.com/Soung2279)  | 适用于HoshinoV2的哔咔漫画 |2023-01-12 20:48:57|
 | [风控冻结自动切号](https://github.com/othinus001/txcnm) | [@othinus001](https://github.com/othinus001) | 通过读gocq的日志，解决色图和会战风控被冻的需求，2-3个号就够了，只要号多就腾讯就赶不上我风控的速度|2022-09-21 00:25:59|
-| [网页截图修补版](https://github.com/kcn3388/pagecut) | [@kcn3388](https://github.com/kcn3388) | 魔改于原[网页截图](https://github.com/pcrbot/pagecut)<br>增加爬取网页源代码或js变量以辅助爬虫 |2022-09-01 09:40:04|
+| [网页截图修补版](https://github.com/kcn3388/pagecut) <!--cont.-->| [@kcn3388](https://github.com/kcn3388) | 魔改于原[网页截图](https://github.com/pcrbot/pagecut)<br>增加爬取网页源代码或js变量以辅助爬虫 |2022-09-01 09:40:04|
 | [重开设定](https://github.com/pcrbot/remake_setting) | [@chu3](https://github.com/chu3)  | 重开设定图片版 |2022-08-31 00:32:04|
 | [E7装备分](https://github.com/BlackTitle/HoshinoBOT_E7score) | [@BlackTitle](https://github.com/BlackTitle) | 第七史诗简陋算分工具 |2022-08-22 21:00:47|
 | [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
