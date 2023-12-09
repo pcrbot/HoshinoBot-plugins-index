@@ -224,7 +224,7 @@
 | [XML卡片消息发送器](https://github.com/MiaoXia0/XMLSender) | [@MiaoXia0](https://github.com/MiaoXia0) | 使机器人发送XML卡片消息 |2021-01-30 04:49:45|
 | [女装迫害插件](https://github.com/MiaoXia0/NvZhuang) | [@MiaoXia0](https://github.com/MiaoXia0) | 发图迫害群友女装 |2021-02-09 18:25:31|
 | [PCR贵族决斗（带下注）](https://github.com/Rs794613/PcrDuel) | [@Rs794613](https://github.com/Rs794613) | 创建贵族进行俄罗斯轮盘决斗，提升爵位，抢夺公主。 |2022-06-14 17:22:04|
-| [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) <!--cont.-->| [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 |2021-02-16 20:42:37|
+| [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) | [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 |2021-02-16 20:42:37|
 | [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) |2020-12-25 00:47:55|
 | [setu_renew](https://github.com/pcrbot/setu_renew) | [@corvo007](https://github.com/corvo007) | setu_mix的改进版 |2022-08-18 19:18:04|
 | [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2023-04-11 13:30:36|
@@ -242,7 +242,7 @@
 | [戳一戳集卡](https://github.com/GWYOG/GWYOG-Hoshino-plugins#8-戳机器人集卡小游戏pokemanpcr) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
 | [反并发](https://github.com/GWYOG/GWYOG-Hoshino-plugins#7-反并发插件anticoncurrency) | [@GWYOG](https://github.com/GWYOG) | 阻止多个小游戏同时进行 |2022-09-16 01:46:14|
 | [记忆小游戏](https://github.com/GWYOG/GWYOG-Hoshino-plugins#6-公主连结记忆小游戏pcrmemorygames) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
-| [午间音乐](https://github.com/GWYOG/GWYOG-Hoshino-plugins#5-公主连结午间音乐pcrmiddaymusic) | [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
+| [午间音乐](https://github.com/GWYOG/GWYOG-Hoshino-plugins#5-公主连结午间音乐pcrmiddaymusic) <!--cont.-->| [@GWYOG](https://github.com/GWYOG) | |2022-09-16 01:46:14|
 | [nga](https://github.com/GWYOG/GWYOG-Hoshino-plugins#4-nga会战爬虫ngaclanbattlespider) | [@GWYOG](https://github.com/GWYOG) | 监控推送论坛关键词 |2022-09-16 01:46:14|
 | [bilibili](https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider) | [@GWYOG](https://github.com/GWYOG) | 监控推送视频关键词 |2022-09-16 01:46:14|
 | [猜头像](https://github.com/GWYOG/GWYOG-Hoshino-plugins#2-猜头像小游戏插件pcravatarguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
