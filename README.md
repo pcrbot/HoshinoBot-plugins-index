@@ -54,7 +54,7 @@
 | [猜群友](https://github.com/BeiYazi0/groupguess) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的猜群友小游戏插件 |2022-10-20 19:47:30|
 | [ai对话免费版](https://github.com/joeyHXD/ai) | [@joey](https://github.com/joeyHXD) | 以原版ai对话为基础，默认使用[青云客](https://api.qingyunke.com)的api，不需要开通腾讯智能服务也能使用，并且加入了反并发 |2022-10-21 18:44:54|
 | [Ai绘图/以图绘图](https://github.com/CYDXDianXian/AI_image_gen) | [@穿越电线](https://github.com/CYDXDianXian) [@sanshanya](https://github.com/sanshanya) | 通过tag生成图片，以图生图，XP查询，每日上限与频率限制，群黑/白名单，自动屏蔽超级大群，设置屏蔽词tag等功能 |2022-11-21 15:19:44|
-| [ai绘图安全版](https://github.com/jiyemengmei/AI_Draw_safemode) <!--cont.-->| [@姬野梦美](https://github.com/jiyemengmei) | 通过上传图片参数至数据库，来实现快捷的图片预览、图片TAG获取、对应标签的ai图片生成等功能。 |2022-10-20 22:04:56|
+| [ai绘图安全版](https://github.com/jiyemengmei/AI_Draw_safemode) | [@姬野梦美](https://github.com/jiyemengmei) | 通过上传图片参数至数据库，来实现快捷的图片预览、图片TAG获取、对应标签的ai图片生成等功能。 |2022-10-20 22:04:56|
 | [龙图检测](https://github.com/Mzmba/dragon_killer) | [@Mzmba](https://github.com/Mzmba) | 基于opencv的龙图检测插件，代码待优化 |2022-09-24 21:27:28|
 | [招募队友](https://github.com/Lanly109/teamup) | [@Lanly109](https://github.com/Lanly109) | 发布招募帖，寻找队友 |2023-08-29 17:44:48|
 | [带包控制的多合一运势插件](https://github.com/PerfBleu/portune2) | [@PerfBleu](https://github.com/PerfBleu) | 带简易分群包控制的多合一运势插件 |2022-10-28 11:34:57|
@@ -71,7 +71,7 @@
 | [E7装备分](https://github.com/BlackTitle/HoshinoBOT_E7score) | [@BlackTitle](https://github.com/BlackTitle) | 第七史诗简陋算分工具 |2022-08-22 21:00:47|
 | [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370)  | 社区音游Dynamite查分模块 |2022-11-05 19:55:06|
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3)  | 鉴定群友是0还是1(可以扩展) |2022-08-20 17:11:19|
-| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2023-04-08 13:56:08|
+| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming)  | 模仿柚子社角色的声音（支持中文，日文） |2023-12-22 13:48:19|
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 |2022-08-01 17:51:19|
 | [出刀记录图片版](https://github.com/othinus001/Daidao) | [@othinus001](https://github.com/othinus001) | 进度表，代刀表，合刀，一穿二，附代刀提醒系统 |2022-09-20 23:47:32|
 | [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 |2023-06-02 08:47:00|
@@ -97,7 +97,7 @@
 | [数字恶臭化插件](https://github.com/SonderXiaoming/homo) | [@SonderXiaoming](https://github.com/SonderXiaoming) [@stbcx001](https://github.com/stbcx001)| 将任意数字以114514表示 |2022-05-24 13:39:57|
 | [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 |2023-12-08 08:58:52|
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 |2023-08-31 17:23:41|
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2023-12-14 15:47:59|
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 |2023-12-26 18:04:09|
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 |2022-08-13 10:19:54|
 | [丁真插件](https://github.com/Pr0pHesyer/RandomDingzhen) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取丁真梗图 |2022-05-15 15:44:48|
 | [音游一言](https://github.com/Pr0pHesyer/MUG_one_sentence) | [@Pr0pHesyer](https://github.com/Pr0pHesyer) | 获取及修改有关音游的一言 |2022-05-07 20:42:56|
@@ -111,7 +111,7 @@
 | [股票查询](https://github.com/SonderXiaoming/stock-check) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 满足群友上班边摸鱼边炒股的要求 |2022-09-10 10:56:09|
 | [tarot_hoshino_plus](https://github.com/assassingyk/tarot_hoshino_plus) | [@assassingyk](https://github.com/assassingyk) | 增强版可自定义牌阵卡图的塔罗牌插件 |2022-04-12 10:30:49|
 | [查牌子](https://github.com/DYS763/paizi) | [@DYS763](https://github.com/DYS763) | 用uid查询B站粉丝牌与对应的主播 |2022-04-06 08:52:39|
-| [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) | [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 |2022-11-01 03:29:51|
+| [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 |2022-11-01 03:29:51|
 | [服务器信息查询（Linux版）](https://github.com/pcrbot/sys_stats_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询服务器的平台、CPU、内存、硬盘信息。Windows平台下面有更好的 |2022-04-01 16:53:00|
 | [麻将猜手牌](https://github.com/yuyumoko/mahjong-hand-guess) | [@yuyumoko](https://github.com/yuyumoko) | 麻将猜手牌小游戏~ |2022-05-24 03:26:28|
 | [插件管理](https://github.com/BlueDeer233/Hoshino-PluginManager) | [@BlueDeer233](https://github.com/BlueDeer233) | 适用于hoshinobot的简易插件管理插件，支持插件的热加载、热卸载与热重载 |2022-03-24 22:39:41|
