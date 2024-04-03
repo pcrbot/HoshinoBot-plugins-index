@@ -165,7 +165,7 @@
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 |2022-07-15 21:11:59|
 | [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
 | [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
-| [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) <!--cont.-->| [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
+| [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) | [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2022-06-13 10:59:49|
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
 | [名词实体信息查询](https://github.com/pcrbot/descr_entity_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 对一个名词进行解释 |2021-12-01 16:13:47|
@@ -258,7 +258,7 @@
 | [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 |2021-03-16 05:07:47|
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-26 00:39:50|
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
-| [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
+| [挂树提醒](https://github.com/pcrbot/ontree_scheduler) <!--cont.-->| [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
 | [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
