@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
+| [新·网络天才](https://github.com/Rlezzo/akinator) | [@Rlezzo](https://github.com/Rlezzo) | [网络天才](https://github.com/HMScygnet/akinator/tree/master)原插件api已无法使用，适配了最新的api |2024-05-19 14:38:11|
 | [aichat的DeepSeek适配版](https://github.com/Rlezzo/aichat-DeepSeek) | [@Rlezzo](https://github.com/Rlezzo) | [aichat-chatGPT](https://github.com/Cosmos01/aichat-chatGPT)适配了一下deepseek和openai1.30 |2024-05-16 20:03:20|
 | [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust)<br>[@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 |2024-05-08 13:02:22|
 | [帝国时代4战绩通报插件](https://github.com/joeyHXD/aoe4_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 从aoe4world爬取最新战绩 |2024-03-11 23:00:33|
