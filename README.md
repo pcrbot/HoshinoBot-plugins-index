@@ -8,6 +8,7 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
+| [抽老婆数据记录版](https://github.com/Rlezzo/AnimeWife/tree/AnimeWifeDB) | [@Rlezzo](https://github.com/Rlezzo) | [抽动漫老婆](https://github.com/Rinco304/AnimeWife)原插件用json记录抽老婆数据，此版本改用数据库并记录所有历史数据 |2024-06-06 11:11:11|
 | [新·网络天才](https://github.com/Rlezzo/akinator) | [@Rlezzo](https://github.com/Rlezzo) | [网络天才](https://github.com/HMScygnet/akinator/tree/master)原插件api已无法使用，适配了最新的api |2024-05-24 13:30:04|
 | [aichat的DeepSeek适配版](https://github.com/Rlezzo/aichat-DeepSeek) | [@Rlezzo](https://github.com/Rlezzo) | [aichat-chatGPT](https://github.com/Cosmos01/aichat-chatGPT)适配了一下deepseek和openai1.30 |2024-05-16 20:07:05|
 | [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust)<br>[@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 |2024-05-29 01:03:51|
