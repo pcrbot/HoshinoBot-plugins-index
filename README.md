@@ -18,7 +18,7 @@
 | [幻兽帕鲁插件](https://github.com/azmiao/PalWorldPlugin) | [@azmiao](https://github.com/azmiao)<br>[@SlightDust](https://github.com/SlightDust)<br>[@Lancercmd](https://github.com/Lancercmd) | 一个帕鲁的QQ机器人插件 |2024-07-02 16:47:13|
 | [禁漫ID转本子名](https://github.com/Fatfish588/jmid2name-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 发送JM数字ID，自动搜索出本子的书名、作者与标签。 |2024-05-23 17:13:46|
 | [我不会打日文](https://github.com/Fatfish588/wbhdrw-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 运行在本地的日文OCR识别插件，好耶不用拿着截图问别人而导致xp泄漏了 |2024-04-07 10:22:57|
-| [300英雄战报](https://github.com/Himeno-Yumemi/300hero_record) | [@姬野梦美](https://github.com/Himeno-Yumemi) | 300英雄群友开庭插件 |2024-06-14 19:01:02|
+| [300英雄战报](https://github.com/Himeno-Yumemi/300hero_record) | [@姬野梦美](https://github.com/Himeno-Yumemi) | 300英雄群友开庭插件 |2024-07-16 15:13:30|
 | [能不能好好说话](https://github.com/Fatfish588/nbnhhsh-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 能不能好好说话的Hoshino插件版 |2024-01-02 16:21:23|
 | [otto活字印刷](https://github.com/SlightDust/HuoZiYinShua_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua) |2024-02-09 23:23:53|
 | [抽动漫老婆](https://github.com/Rinco304/AnimeWife) | [@Rinco304](https://github.com/Rinco304) | 看看你今天的二次元老婆是谁 |2024-06-16 20:43:13|
@@ -35,11 +35,11 @@
 | [银趴](https://github.com/BeiYazi0/yinpa) | [@贝亚子零号](https://github.com/BeiYazi0) | 移植自nb2插件(牛牛比拼) |2023-07-11 16:17:41|
 | [AI锐评](https://github.com/SonderXiaoming/hunnai_eitherchoice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | AI，到底是3k美金大还是2k人民币大？ |2023-09-11 15:02:45|
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 |2024-03-19 12:40:26|
-| [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2024-06-25 08:56:21|
+| [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来</br>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法</br>并增加全局禁用推送功能和各种优化 |2024-07-10 13:39:36|
 | [必应聊天](https://github.com/X-Zero-L/BingAIChat) | [@X-Zero-L](https://github.com/X-Zero-L) | bingGPT聊天插件 |2024-06-26 12:47:27|
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 |2023-07-26 12:11:53|
 | [色图评分fork版](https://github.com/GaryDu0123/SetuScore) | [@GaryDu0123](https://github.com/GaryDu0123) | 对[原仓库](https://github.com/pcrbot/SetuScore)进行了修改, 保持色图评分的常态开启, 评分高于一定值才会进行提示, 添加了可调整的阈值禁言 |2023-05-25 19:25:32|
-| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 |2024-07-03 17:08:00|
+| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) |[@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 |2024-07-09 11:22:15|
 | [猜猜我是谁](https://github.com/jiluoQAQ/pokemon_whois) |[@jiluoQAQ](https://github.com/jiluoQAQ) | 宝可梦猜猜我是谁 |2023-10-09 16:51:17|
 | [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 |2023-05-11 12:22:21|
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图|2023-07-14 15:22:50|
@@ -62,7 +62,7 @@
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2024-05-12 11:44:30|
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
 | [猜数字](https://github.com/daycold1000/caishuzi) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏，俗称1A2B猜谜 |2022-12-11 17:06:51|
-| [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2023-04-25 19:44:03|
+| [图像混合](https://github.com/BeiYazi0/Img_Mix) <!--cont.-->| [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 |2023-04-25 19:44:03|
 |[pcrjjc2魔改版](https://github.com/SonderXiaoming/pcrjjc_huannai)| [@SonderXiaoming](https://github.com/SonderXiaoming) |可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置）|2023-12-20 10:00:00|
 | [猜群友](https://github.com/BeiYazi0/groupguess) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的猜群友小游戏插件 |2022-10-20 19:47:30|
 | [ai对话免费版](https://github.com/joeyHXD/ai) | [@joey](https://github.com/joeyHXD) | 以原版ai对话为基础，默认使用[青云客](https://api.qingyunke.com)的api，不需要开通腾讯智能服务也能使用，并且加入了反并发 |2022-10-21 18:44:54|
