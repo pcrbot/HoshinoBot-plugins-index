@@ -12,8 +12,8 @@
 | [今日老婆2](https://github.com/Rinco304/hoshino-daliywife2) | [@Rinco304](https://github.com/Rinco304) | 一个适用于HoshinoBot的可以换老婆的随机抽取群友作为老婆插件 |2024-06-26 12:58:54|
 | [抽老婆数据记录版](https://github.com/Rlezzo/AnimeWife/tree/AnimeWifeDB) | [@Rlezzo](https://github.com/Rlezzo) | [抽动漫老婆](https://github.com/Rinco304/AnimeWife)原插件用json记录抽老婆数据，此版本改用数据库并记录所有历史数据 |2024-06-06 14:27:06|
 | [新·网络天才](https://github.com/Rlezzo/akinator) | [@Rlezzo](https://github.com/Rlezzo) | [网络天才](https://github.com/HMScygnet/akinator/tree/master)原插件api已无法使用，适配了最新的api |2024-05-24 13:30:04|
-| [aichatRemake](https://github.com/Rlezzo/aichat) | [@Rlezzo](https://github.com/Rlezzo) | 之前的适配版记忆功能不能用，索性重写了 |2024-07-21 20:35:43|
-| [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust)<br>[@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 |2024-05-29 01:03:51|
+| [aichatRemake](https://github.com/Rlezzo/aichat) | [@Rlezzo](https://github.com/Rlezzo) | 之前的适配版记忆功能不能用，索性重写了 |2024-07-22 09:45:13|
+| [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust)<br>[@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 |2024-07-22 23:28:42|
 | [帝国时代4战绩通报插件](https://github.com/joeyHXD/aoe4_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 从aoe4world爬取最新战绩 |2024-03-11 23:00:33|
 | [幻兽帕鲁插件](https://github.com/azmiao/PalWorldPlugin) | [@azmiao](https://github.com/azmiao)<br>[@SlightDust](https://github.com/SlightDust)<br>[@Lancercmd](https://github.com/Lancercmd) | 一个帕鲁的QQ机器人插件 |2024-07-02 16:47:13|
 | [禁漫ID转本子名](https://github.com/Fatfish588/jmid2name-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 发送JM数字ID，自动搜索出本子的书名、作者与标签。 |2024-05-23 17:13:46|
@@ -265,7 +265,7 @@
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-26 00:39:50|
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
 | [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 |2021-04-10 18:53:53|
-| [俄罗斯轮盘](https://github.com/pcrbot/russian) <!--cont.-->| [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
+| [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 |2020-08-06 13:02:48|
 | [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) | |2020-09-05 12:55:25|
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
 | [clanrank](https://github.com/pcrbot/clanrank) | [@var-mixer](https://github.com/var-mixer) | 公会战排名查询 |2022-03-06 10:32:21|
