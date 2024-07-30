@@ -10,7 +10,7 @@
 | --- | --- | --- | :---: |
 | [汇率](https://github.com/pcrbot/hoshinobot-plugin-exchange-rate) | [@yuudi](https://github.com/yuudi) | 汇率 |2024-06-30 16:56:57|
 | [今日老婆2](https://github.com/Rinco304/hoshino-daliywife2) | [@Rinco304](https://github.com/Rinco304) | 一个适用于HoshinoBot的可以换老婆的随机抽取群友作为老婆插件 |2024-06-26 12:58:54|
-| [抽老婆数据记录版](https://github.com/Rlezzo/AnimeWife/tree/AnimeWifeDB) | [@Rlezzo](https://github.com/Rlezzo) | [抽动漫老婆](https://github.com/Rinco304/AnimeWife)原插件用json记录抽老婆数据，此版本改用数据库并记录所有历史数据 |2024-06-06 14:27:06|
+| [抽老婆数据版完全重置](https://github.com/Rlezzo/WifeGacha/tree/master) | [@Rlezzo](https://github.com/Rlezzo) | 之前的版本拓展很困难，听GPT的用什么DDD。ORM重写了一个 |2024-07-30 10:17:36|
 | [新·网络天才](https://github.com/Rlezzo/akinator) | [@Rlezzo](https://github.com/Rlezzo) | [网络天才](https://github.com/HMScygnet/akinator/tree/master)原插件api已无法使用，适配了最新的api |2024-05-24 13:30:04|
 | [aichatRemake](https://github.com/Rlezzo/aichat) | [@Rlezzo](https://github.com/Rlezzo) | 之前的适配版记忆功能不能用，索性重写了 |2024-07-22 09:45:13|
 | [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust)<br>[@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 |2024-07-22 23:28:42|
