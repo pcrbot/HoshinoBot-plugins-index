@@ -152,7 +152,7 @@
 | [幻影坦克生成器](https://github.com/kosakarin/hide_img) | [@kosakarin](https://github.com/kosakarin) | 发送两张图片生成幻影坦克 |2022-01-01 19:34:19|
 | [游戏开黑](https://github.com/kosakarin/play_together) | [@kosakarin](https://github.com/kosakarin) | 辅助群内开黑，可以记录群内开了哪些车 |2022-09-28 15:27:31|
 | [游戏王印卡](https://github.com/N-zi/mahoo) | [@N-zi](https://github.com/N-zi) | 游戏王卡图生成 |2022-08-01 18:05:25|
-| [我朋友说](https://github.com/kosakarin/I_have_a_friend) <!--cont.-->| [@kosakarin](https://github.com/kosakarin) | 我这朋友说不定是我自己 |2022-08-22 13:27:50|
+| [我朋友说](https://github.com/kosakarin/I_have_a_friend) | [@kosakarin](https://github.com/kosakarin) | 我这朋友说不定是我自己 |2022-08-22 13:27:50|
 | [在线运行代码](https://github.com/CMHopeSunshine/codeonline) | [@CMHopeSunshine](https://github.com/CMHopeSunshine) | 基于glot.io的bot运行代码插件 |2022-03-21 15:02:50|
 |[群友语录](https://github.com/kosakarin/group_quotations)| [@kosakarin](https://github.com/kosakarin) | 仿照朋友的bot写的一个上传图片到bot的功能 |2022-07-20 15:56:40|
 | [小鸡词典](https://github.com/zangxx66/jiwiki) | [@zangxx66](https://github.com/zangxx66) | 网络流行语词典，查询你不知道的那些梗或词语 |2022-06-19 10:06:19|
@@ -173,7 +173,7 @@
 | [mc数据查询推送](https://github.com/azmiao/mc_status) | [@azmiao](https://github.com/azmiao) | 这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来 |2022-07-14 17:35:02|
 | [autocb](https://github.com/yoooowi/pcr_autocb) | [@yoooowi](https://github.com/yoooowi/) | 自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告 |2022-06-28 14:03:00|
 | [来点老八/庸子](https://github.com/ExcitingFrog/lao8yongzi) | [@ExcitingFrog](https://github.com/ExcitingFrog) | 发老八或者庸子的"美食" |2021-10-17 15:39:11|
-| [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2022-06-13 10:59:49|
+| [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2024-09-14 14:17:29|
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
 | [名词实体信息查询](https://github.com/pcrbot/descr_entity_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 对一个名词进行解释 |2021-12-01 16:13:47|
 | [色图打分](https://github.com/pcrbot/SetuScore)  | [@HMScygnet](https://github.com/HMScygnet) | 为你的色图进行打分 |2021-10-20 16:04:44|
@@ -244,7 +244,7 @@
 | [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2023-04-11 13:30:36|
 | [星乃调教助手](https://github.com/zyujs/hoshino_training) | [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2023-01-29 08:36:58|
 | [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26 19:37:42|
-| [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
+| [setu_mix](https://github.com/zyujs/setu_mix) <!--cont.-->| [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
 | [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
 | [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
