@@ -127,7 +127,7 @@
 | [股票查询](https://github.com/SonderXiaoming/stock-check) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 满足群友上班边摸鱼边炒股的要求 |2022-09-10 10:56:09|
 | [tarot_hoshino_plus](https://github.com/assassingyk/tarot_hoshino_plus) | [@assassingyk](https://github.com/assassingyk) | 增强版可自定义牌阵卡图的塔罗牌插件 |2022-04-12 10:30:49|
 | [查牌子](https://github.com/DYS763/paizi) | [@DYS763](https://github.com/DYS763) | 用uid查询B站粉丝牌与对应的主播 |2022-04-06 08:52:39|
-| [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 |2022-11-01 03:29:51|
+| [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) | [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 |2022-11-01 03:29:51|
 | [服务器信息查询（Linux版）](https://github.com/pcrbot/sys_stats_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询服务器的平台、CPU、内存、硬盘信息。Windows平台下面有更好的 |2022-04-01 16:53:00|
 | [麻将猜手牌](https://github.com/yuyumoko/mahjong-hand-guess) | [@yuyumoko](https://github.com/yuyumoko) | 麻将猜手牌小游戏~ |2022-05-24 03:26:28|
 | [插件管理](https://github.com/BlueDeer233/Hoshino-PluginManager) | [@BlueDeer233](https://github.com/BlueDeer233) | 适用于hoshinobot的简易插件管理插件，支持插件的热加载、热卸载与热重载 |2022-03-24 22:39:41|
@@ -185,7 +185,7 @@
 | [百度一下](https://github.com/Soung2279/baidu_search) | [@Soung2279](https://github.com/Soung2279) | 对 优妮 的“百度一下”功能的粗糙复现 |2021-09-20 16:09:17|
 | [可爱小七海语音♥](https://github.com/Soung2279/NANA7MI_REC) | [@Soung2279](https://github.com/Soung2279) | 是 可爱小七海 的语音♥~~ 群聊中发送 七海Nana7mi 有关的 切片语音/古神语/怪话合集/各种不能转的二创 |2021-10-30 12:19:10|
 | [hoshino广播再进化](https://github.com/azmiao/broadcast-plus-plus) | [@azmiao](https://github.com/azmiao) | 注：这个不是插件！直接拿[@冷雷佬](https://github.com/ColdThunder11)的东西改的，欸嘿嘿，我是不是很机智 |2022-09-06 17:26:34|
-| [生草图片生成器](https://github.com/BlueDeer233/image_generator) |[@BlueDeer233](https://github.com/BlueDeer233) | 集成了多种图像生成器的插件|2022-05-07 21:05:21|
+| [生草图片生成器](https://github.com/BlueDeer233/image_generator) <!--cont.-->|[@BlueDeer233](https://github.com/BlueDeer233) | 集成了多种图像生成器的插件|2022-05-07 21:05:21|
 | [网易云音乐直链下载](https://github.com/haha114514/netease_down) |[@haha114514](https://github.com/haha114514) | 适用于HoshinoBot的获取网易云音乐歌曲下载链接|2022-01-09 23:12:02|
 | [Tarot](https://github.com/haha114514/tarot_hoshino) | 修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy)  | 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签(灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）|2022-10-28 21:47:32|
 | [lifeRestart_bot](https://github.com/DaiShengSheng/lifeRestart_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 适用于HoshinoBot的人生重来模拟器(remake.jpg) |2021-10-06 18:53:56|
