@@ -9,8 +9,8 @@
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
 | [搜种马](https://github.com/Nao-desu/uma_search) | [@Nao-desu](https://github.com/Nao-desu) | 赛马娘繁中服搜种马插件 |2024-10-03 21:12:26|
-| [验车/磁链信息](https://github.com/SlightDust/torrent_analyze_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 解析磁链信息，通过whatslink.info API |2024-09-27 12:23:55|
-| [占卜](https://github.com/SonderXiaoming/huannai-plugin-shindan) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 移植自nb2的nonebot-plugin-shindan |2024-09-15 11:09:54|
+| [验车/磁链信息](https://github.com/SlightDust/torrent_analyze_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 解析磁链信息，通过whatslink.info API |2024-10-17 23:05:26|
+| [占卜](https://github.com/SonderXiaoming/huannai-plugin-shindan) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 移植自nb2的nonebot-plugin-shindan |2024-10-18 00:55:35|
 | [汇率](https://github.com/pcrbot/hoshinobot-plugin-exchange-rate) | [@yuudi](https://github.com/yuudi) | 汇率 |2024-06-30 16:56:57|
 | [今日老婆2](https://github.com/Rinco304/hoshino-daliywife2) | [@Rinco304](https://github.com/Rinco304) | 一个适用于HoshinoBot的可以换老婆的随机抽取群友作为老婆插件 |2024-06-26 12:58:54|
 | [抽老婆数据版完全重置](https://github.com/Rlezzo/WifeGacha/tree/master) | [@Rlezzo](https://github.com/Rlezzo) | 之前的版本拓展很困难，听GPT的用什么DDD。ORM重写了一个 |2024-09-14 12:20:54|
@@ -287,7 +287,7 @@
 | [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24 11:30:32|
 | [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 |2021-03-06 22:03:52|
 | [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 |2021-03-06 22:03:52|
-| [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) <!--cont.-->| [@shewinder](https://github.com/shewinder) | 曾用名：shebot |2021-03-06 22:03:52|
+| [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot |2021-03-06 22:03:52|
 | [网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
 | [RSS 推送](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/infoPush) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
 | [直播提醒](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/liveNotice) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
