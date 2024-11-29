@@ -125,7 +125,7 @@
 | [定时提醒摸鱼](https://github.com/benx1n/when2holiday) | [@benx1n](https://github.com/benx1n) | 含剩余假期的定时提醒摸鱼小助手 |2022-10-25 15:43:03|
 | [hoshinobot-plugin-ddcheck](https://github.com/benx1n/hoshinobot-plugin-ddcheck) | [@MeetWq](https://github.com/MeetWq)[@benx1n](https://github.com/benx1n) | 移植自[nonebot-plugin-ddcheck](https://github.com/noneplugin/nonebot-plugin-ddcheck)的DD成分姬插件，支持生成含牌子等级的关注列表图片 |2023-06-12 14:19:49|
 | [股票查询](https://github.com/SonderXiaoming/stock-check) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 满足群友上班边摸鱼边炒股的要求 |2022-09-10 10:56:09|
-| [tarot_hoshino_plus](https://github.com/assassingyk/tarot_hoshino_plus) <!--cont.-->| [@assassingyk](https://github.com/assassingyk) | 增强版可自定义牌阵卡图的塔罗牌插件 |2022-04-12 10:30:49|
+| [tarot_hoshino_plus](https://github.com/assassingyk/tarot_hoshino_plus) | [@assassingyk](https://github.com/assassingyk) | 增强版可自定义牌阵卡图的塔罗牌插件 |2022-04-12 10:30:49|
 | [查牌子](https://github.com/DYS763/paizi) | [@DYS763](https://github.com/DYS763) | 用uid查询B站粉丝牌与对应的主播 |2022-04-06 08:52:39|
 | [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) | [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 |2022-11-01 03:29:51|
 | [服务器信息查询（Linux版）](https://github.com/pcrbot/sys_stats_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) | 查询服务器的平台、CPU、内存、硬盘信息。Windows平台下面有更好的 |2022-04-01 16:53:00|
@@ -178,7 +178,7 @@
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 |2024-09-14 14:17:29|
 | [b站dd程度](https://github.com/pcrbot/vtb-bili) | [@G41mywaifu](https://github.com/G41mywaifu) | 这个b到底关注了多少vtb |2021-12-08 18:40:23|
 | [名词实体信息查询](https://github.com/pcrbot/descr_entity_translate) | [@G41mywaifu](https://github.com/G41mywaifu) | 对一个名词进行解释 |2021-12-01 16:13:47|
-| [色图打分](https://github.com/pcrbot/SetuScore)  | [@HMScygnet](https://github.com/HMScygnet) | 为你的色图进行打分 |2021-10-20 16:04:44|
+| [色图打分](https://github.com/pcrbot/SetuScore)  <!--cont.-->| [@HMScygnet](https://github.com/HMScygnet) | 为你的色图进行打分 |2021-10-20 16:04:44|
 | [FGO日历](https://github.com/NepPure/fgo_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格FGO日历，数据源B服官网新闻 |2021-12-29 20:56:08|
 | [网页截图](https://github.com/pcrbot/pagecut) | [@G41mywaifu](https://github.com/G41mywaifu) | 发送指定网页的页面截图 |2022-11-26 16:43:35|
 | [vtbuber名单查询](https://github.com/Soung2279/vdb_list) | [@Soung2279](https://github.com/Soung2279) | 以[VTuber Database](https://github.com/dd-center/vdb)为数据来源的vtuber查询功能，查询某人是否为vtb，并给出相关信息。可模糊匹配|2021-10-26 15:12:12|
