@@ -8,8 +8,8 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
-| [学マス计算器](https://github.com/Norca0721/GakuenIdolMasterCalculator) | [@Norca0721](https://github.com/Norca0721) | 学マス分数计算器插件 |2024-12-31 00:06:11|
-| [HoshinoReboot](https://github.com/Norca0721/HoshinoReboot) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的重启插件 |2024-12-31 00:04:24|
+| [学マス计算器](https://github.com/Norca0721/GakuenIdolMasterCalculator) | [@Norca0721](https://github.com/Norca0721) | 学マス分数计算器插件 |2025-01-03 21:43:59|
+| [HoshinoReboot](https://github.com/Norca0721/HoshinoReboot) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的重启插件 |2025-01-08 15:46:10|
 | [ArcadeQueue](https://github.com/SalinX/ArcadeQueue) | [@SalinX](https://github.com/SalinX) | 适用于 HoshinoBot 的机厅排卡模块 |2024-12-17 19:46:56|
 | [搜种马](https://github.com/Nao-desu/uma_search) | [@Nao-desu](https://github.com/Nao-desu) | 赛马娘繁中服搜种马插件 |2024-10-03 21:12:26|
 | [验车/磁链信息](https://github.com/SlightDust/torrent_analyze_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 解析磁链信息，通过whatslink.info API |2024-12-04 12:02:51|
@@ -24,7 +24,7 @@
 | [幻兽帕鲁插件](https://github.com/azmiao/PalWorldPlugin) | [@azmiao](https://github.com/azmiao)<br>[@SlightDust](https://github.com/SlightDust)<br>[@Lancercmd](https://github.com/Lancercmd) | 一个帕鲁的QQ机器人插件 |2024-07-02 16:47:13|
 | [禁漫ID转本子名](https://github.com/Fatfish588/jmid2name-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 发送JM数字ID，自动搜索出本子的书名、作者与标签。 |2024-05-23 17:13:46|
 | [我不会打日文](https://github.com/Fatfish588/wbhdrw-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 运行在本地的日文OCR识别插件，好耶不用拿着截图问别人而导致xp泄漏了 |2024-04-07 10:22:57|
-| [300英雄战报](https://github.com/Himeno-Yumemi/300hero_record) | [@姬野梦美](https://github.com/Himeno-Yumemi) | 300英雄群友开庭插件 |2024-11-04 18:22:00|
+| [300英雄战报](https://github.com/Himeno-Yumemi/300hero_record) | [@姬野梦美](https://github.com/Himeno-Yumemi) | 300英雄群友开庭插件 |2025-01-06 13:01:52|
 | [能不能好好说话](https://github.com/Fatfish588/nbnhhsh-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 能不能好好说话的Hoshino插件版 |2024-01-02 16:21:23|
 | [otto活字印刷](https://github.com/SlightDust/HuoZiYinShua_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua) |2024-10-02 12:34:19|
 | [抽动漫老婆](https://github.com/Rinco304/AnimeWife) | [@Rinco304](https://github.com/Rinco304) | 看看你今天的二次元老婆是谁 |2024-06-16 20:43:13|
@@ -276,7 +276,7 @@
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) | |2021-01-05 00:13:55|
 | [clanrank](https://github.com/pcrbot/clanrank) | [@var-mixer](https://github.com/var-mixer) | 公会战排名查询 |2022-03-06 10:32:21|
 | [群管](https://github.com/pcrbot/group-manager) | [@xhl6699](https://github.com/xhl6699) | 申请头衔、设置禁言、修改群 名片等 |2020-09-24 11:26:01|
-| [表情包生成器](https://github.com/pcrbot/image-generate) <!--cont.-->| [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 |2020-09-28 18:32:01|
+| [表情包生成器](https://github.com/pcrbot/image-generate) | [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 |2020-09-28 18:32:01|
 | [egenshin](https://github.com/pcrbot/erinilis-modules/tree/master/egenshin) | [@yuyumoko](https://github.com/yuyumoko) | UID查询 抽卡 猜语音 原神公告推送 材料刷新定时器 |2022-11-12 18:59:28|
 | [原神卡池记录查询](https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog) | [@yuyumoko](https://github.com/yuyumoko) | 统计卡池保底信息 |2022-11-12 18:59:28|
 | [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
