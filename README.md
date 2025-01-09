@@ -8,7 +8,7 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
-| [HoshinoGroupMsg](https://github.com/Norca0721/HoshinoGroupMsg) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的群聊消息转发插件 |2025-01-09 23:04:20|
+| [HoshinoGroupMsg](https://github.com/Norca0721/HoshinoGroupMsg) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的群发消息插件 |2025-01-09 23:04:20|
 | [学マス计算器](https://github.com/Norca0721/GakuenIdolMasterCalculator) | [@Norca0721](https://github.com/Norca0721) | 学マス分数计算器插件 |2025-01-03 21:43:59|
 | [HoshinoReboot](https://github.com/Norca0721/HoshinoReboot) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的重启插件 |2025-01-08 15:46:10|
 | [ArcadeQueue](https://github.com/SalinX/ArcadeQueue) | [@SalinX](https://github.com/SalinX) | 适用于 HoshinoBot 的机厅排卡模块 |2024-12-17 19:46:56|
