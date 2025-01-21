@@ -268,7 +268,7 @@
 | [bilibili](https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider) | [@GWYOG](https://github.com/GWYOG) | 监控推送视频关键词 |2022-09-16 01:46:14|
 | [猜头像](https://github.com/GWYOG/GWYOG-Hoshino-plugins#2-猜头像小游戏插件pcravatarguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
 | [猜角色](https://github.com/GWYOG/GWYOG-Hoshino-plugins#1-猜角色小游戏插件pcrdescguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 |2022-09-16 01:46:14|
-| [YoCool](https://github.com/A-kirami/YoCool-Console) <!--cont.-->| [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |2021-04-27 04:54:28|
+| [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 |2021-04-27 04:54:28|
 | [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 |2021-03-16 05:07:47|
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) | |2020-07-26 00:39:50|
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树|2021-04-14 23:56:12|
@@ -314,7 +314,7 @@
 
 | 名称 | 作者 | 备注 | 更新时间 |
 | --- | --- | --- | --- |
-| [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 |2021-01-21 15:48:57|
+| [Hoshino-cli](https://github.com/pcrbot/hsn) <!--cont.-->| [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 |2021-01-21 15:48:57|
 | [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 |2020-12-19 21:30:53|
 
 ## 发布内容
