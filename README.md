@@ -8,7 +8,7 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
-| [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 |2025-03-08 15:44:33|
+| [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 |2025-04-17 16:57:29|
 | [HoshinoGroupMsg](https://github.com/Norca0721/HoshinoGroupMsg) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的群发消息插件 |2025-03-25 18:15:21|
 | [学マス计算器](https://github.com/Norca0721/GakuenIdolMasterCalculator) | [@Norca0721](https://github.com/Norca0721) | 学マス分数计算器插件 |2025-03-25 18:15:40|
 | [HoshinoReboot](https://github.com/Norca0721/HoshinoReboot) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的重启插件 |2025-03-25 18:15:04|
@@ -38,7 +38,7 @@
 | [yobot游戏风格回复](https://github.com/qiandeng1/yobot_ImageEngine) | [@qiandeng1](https://github.com/qiandeng1) | 针对yobot_remix开发的QQBot回复消息仿游戏界面的插件 |2023-11-06 21:39:09|
 | [尊嘟假嘟转换](https://github.com/AddOneSecondL/zdjd_hoshino) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 尊嘟假嘟？ |2023-08-19 15:56:14|
 | [pjsk贴纸](https://github.com/Nao-desu/pjsk_sticker) | [@Nao-desu](https://github.com/Nao-desu) | 啤酒烧烤角色贴纸生成插件 |2024-01-30 20:09:34|
-| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2024-11-26 12:34:18|
+| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 |2025-04-25 14:46:44|
 | [Claude-in-hoshino](https://github.com/assassingyk/Claude-in-hoshino) | [@assassingyk](https://github.com/assassingyk) | 适用hoshino bot的claude for slack插件 |2023-07-13 01:04:01|
 | [银趴](https://github.com/BeiYazi0/yinpa) | [@贝亚子零号](https://github.com/BeiYazi0) | 移植自nb2插件(牛牛比拼) |2023-07-11 16:17:41|
 | [AI锐评](https://github.com/SonderXiaoming/hunnai_eitherchoice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | AI，到底是3k美金大还是2k人民币大？ |2023-09-11 15:02:45|
@@ -66,7 +66,7 @@
 | [csgo开箱](https://github.com/daycold1000/csgo-nb) | [@daycold1000](https://github.com/daycold1000) | 在群里体验gogo开箱吧！ |2022-12-18 10:46:37|
 | [狼人杀](https://github.com/daycold1000/wolfkill) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的大型游戏（也许?） |2022-12-11 16:11:56|
 | [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | AI对话chatGPT版，支持GTP-3.5 API |2024-07-24 15:25:48|
-| [炸金花](https://github.com/daycold1000/boom_gold_flower) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-14 20:13:12|
+| [炸金花](https://github.com/daycold1000/boom_gold_flower) <!--cont.-->| [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏（理论上） |2022-12-14 20:13:12|
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 |2024-05-12 11:44:30|
 | [商店银行和签到](https://github.com/daycold1000/miaoshop) | [@daycold1000](https://github.com/daycold1000) | 提供商店、银行、签到，商店中有出售猜数字功能的道具 |2022-12-14 22:26:14|
 | [猜数字](https://github.com/daycold1000/caishuzi) | [@daycold1000](https://github.com/daycold1000) | 这是一个很简单的小游戏，俗称1A2B猜谜 |2022-12-11 17:06:51|
