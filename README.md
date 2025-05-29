@@ -294,8 +294,8 @@
 | [原神插件](https://github.com/pcrbot/Genshin_Impact_bot) | [@H-K-Y](https://github.com/H-K-Y) | 抽卡、找神瞳、丘丘语翻译、资源位置查询 |2021-07-24 11:30:32|
 | [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 |2021-03-06 22:03:52|
 | [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 |2021-03-06 22:03:52|
-| [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot |2021-03-06 22:03:52|
-| [网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager) <!--cont.-->| [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
+| [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) <!--cont.-->| [@shewinder](https://github.com/shewinder) | 曾用名：shebot |2021-03-06 22:03:52|
+| [网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
 | [RSS 推送](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/infoPush) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
 | [直播提醒](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/liveNotice) | [@shewinder](https://github.com/shewinder) | |2021-03-06 22:03:52|
 | [抽卡](https://github.com/pcrbot/gacha) | [@var-mixer](https://github.com/var-mixer) | 自动更新的全限定卡池 |2023-07-25 16:38:20|
