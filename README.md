@@ -226,7 +226,7 @@
 | [大司马发病评论](https://github.com/pcrbot/dasima) | [@Soung2279](https://github.com/Soung2279) | 大司马B站发病评论查看 |2021-08-20 02:44:42|
 | [服务器信息查询](https://github.com/pcrbot/advance_check_hoshinobot) | [@Soung2279](https://github.com/Soung2279) | 可快速查询bot搭载的服务器相关硬件信息 |2021-09-10 01:08:00|
 | [算法竞赛开赛提醒](https://github.com/Lanly109/CodingReminder) | [@Lanly109](https://github.com/Lanly109) | 算法竞赛开赛提醒插件 |2023-06-15 21:52:59|
-| [词云](https://github.com/erweixi/wordcloud-hoshino) <!--cont.-->| [@erweixi](https://github.com/erweixi) | 基于聊天记录log而生成的词云 |2021-10-20 22:01:48|
+| [词云](https://github.com/erweixi/wordcloud-hoshino) | [@erweixi](https://github.com/erweixi) | 基于聊天记录log而生成的词云 |2021-10-20 22:01:48|
 |[steam_crawler_bot](https://github.com/half-ghost/steam_crawler_bot)|[@half-ghost](https://github.com/half-ghost)|steam爬虫插件，拥有的功能为：以steam和小黑盒官网作为数据来源，爬取游戏搜索结果、steam游戏特惠、新品等信息。以it之家为数据来源的喜加一信息爬取。|2022-02-26 15:02:31|
 | [pcr大乱斗](https://github.com/eggggi/pcr_scrimmage) | [@eggggi](https://github.com/eggggi) | 群内小游戏。选择你的角色，和群友击剑（可自定义角色） |2023-03-21 11:26:25|
 | [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) |2024-06-20 16:57:48|
@@ -286,7 +286,7 @@
 | [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 |2022-11-12 18:59:28|
 | [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 |2022-11-12 18:59:28|
 | [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) | |2022-11-12 18:59:28|
-| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
+| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) <!--cont.-->| [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 |2022-11-12 18:59:28|
 | [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) |  度盘直链解析 |2022-11-12 18:59:28|
 | [点歌](https://github.com/pcrbot/music) | [@laipz8200](https://github.com/laipz8200) | |2021-09-03 15:04:24|
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ |2024-03-24 04:01:17|
