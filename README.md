@@ -8,6 +8,9 @@
 
 | 名称 | 作者 | 备注 | &emsp;&emsp;&emsp;&emsp;&emsp;<br>更新时间<br>&emsp;&emsp;&emsp;&emsp;&emsp; |
 | --- | --- | --- | :---: |
+| [xcw戳一戳](https://github.com/duoshoumiao/chuoyichuo) | [@duoshoumiao](https://github.com/duoshoumiao) |xcw戳一戳语音|2025-07-12 14:27:21|
+| [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) |关键词查视频|2025-07-12 14:27:21|
+| [查番工具](https://github.com/duoshoumiao/anime_search/tree/main) | [@duoshoumiao](https://github.com/duoshoumiao) |关键词查番|2025-07-12 14:27:21|
 | [功能管理魔改](https://github.com/duoshoumiao/service_manage) | [@duoshoumiao](https://github.com/duoshoumiao) |功能开关|2025-07-12 14:27:21|
 | [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) |pcr半月刊|2025-07-10 18:09:21|
 | [知乎小程序转链接](https://github.com/lhhxxxxx/anti_zhihu) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 知乎小程序自动转链接 |2025-05-28 23:57:09|
