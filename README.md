@@ -241,7 +241,7 @@
 | [群昵称同步](https://github.com/wosiwq/groupname_sync) | [@wosiwq](https://github.com/wosiwq) | 可自动同步yobot中的周 目与第几个王到群昵称，方便的提醒群员进度 |2021-05-27 20:31:41|
 | [计算jjc排名爬升排名的最优解](https://github.com/wbero/pcrjjc_optimal-path) | [@wbero](https://github.com/wbero) | 计 算jjc排名爬升排名的最优解 |2021-05-18 14:31:09|
 | [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) | [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 |2021-05-14 09:33:35|
-| [最优击剑路径](https://github.com/wosiwq/arena_route) <!--cont.-->| [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 |2021-05-15 18:59:45|
+| [最优击剑路径](https://github.com/wosiwq/arena_route) | [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 |2021-05-15 18:59:45|
 | [赛马娘新闻播报](https://github.com/azmiao/umamusume_news) | [@azmiao](https://github.com/azmiao) | 赛马娘新闻播报插件（大佬们快去写插件，别养马了） |2022-06-19 21:16:51|
 | [今天吃什么](https://github.com/A-kirami/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 |2023-05-07 08:33:45|
 | [惠惠爆裂魔法](https://github.com/pcrbot/Explosion) | [@Soung2279](https://github.com/Soung2279) | 惠惠爆裂魔法语音， 有文字匹配 |2021-08-20 02:15:18|
@@ -259,7 +259,7 @@
 | [pcr_calendar](https://github.com/zyujs/pcr_calendar) | [@zyujs](https://github.com/zyujs) | 推送和查询国/日/台服活动 日历 |2023-04-11 13:30:36|
 | [星乃调教助手](https://github.com/zyujs/hoshino_training) | [@zyujs](https://github.com/zyujs) | HoshinoBot功能定制 |2023-01-29 08:36:58|
 | [rss](https://github.com/zyujs/rss) | [@zyujs](https://github.com/zyujs) | 通用型rss订阅插件,地河喵kkp! |2021-08-26 19:37:42|
-| [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
+| [setu_mix](https://github.com/zyujs/setu_mix) <!--cont.-->| [@zyujs](https://github.com/zyujs) | 懂的都懂 |2021-01-04 15:25:57|
 | [clanbattle_report](https://github.com/zyujs/clanbattle_report) | [@zyujs](https://github.com/zyujs) | 生成yobot会战报告 |2021-06-15 10:25:32|
 | [clanbattle_rank](https://github.com/zyujs/clanbattle_rank) | [@zyujs](https://github.com/zyujs) | 国服会战排名查询和 推送 |2022-02-21 13:58:53|
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 |2020-12-14 20:30:13|
