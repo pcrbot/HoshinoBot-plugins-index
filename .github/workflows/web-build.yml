@@ -43,8 +43,9 @@ jobs:
       - name: Deploy Pages
         run: |
           rm -rf pages/*
-          cp -r web/dist/browser/* pages/
+          cp -r web/dist/web/browser/* pages/
           cd pages
+          echo "hoshino-plugins.pcrbot.com" > CNAME
           git add .
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit"
