@@ -74,7 +74,7 @@ def update_json_content(data: Dict[str, Any]) -> bool:
     try:
         repo_info = fetch_github_repo_info(username, reponame)
         stars = repo_info.get('stargazers_count', 0)
-        updated_at_iso = repo_info.get('updated_at', '')  # ISO 8601 format
+        updated_at_iso = repo_info.get('pushed_at', '')  # ISO 8601 format
         updated_at_timestamp = int(
             datetime.datetime.fromisoformat(updated_at_iso).timestamp())
 

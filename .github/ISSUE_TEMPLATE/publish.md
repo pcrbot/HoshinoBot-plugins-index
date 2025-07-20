@@ -21,13 +21,17 @@ link="https://github.com/pcrbot/HoshinoBot-plugins-index"
 #一行里面写不下
 #必须要分行"""
 
+# 如果 description 需要包含链接，请用以下格式
+#description="这个插件来自 [pcrbot](https://github.com/pcrbot/HoshinoBot-plugins-index) 仓库"
+
+
 # 作者
 [[authors]]
 name="@pcrbot"
 link="https://github.com/pcrbot"
 
-# 如果不止一个作者，请将下面的部分取消注释
+# 如果不止一个作者，请重复这个部分
 #[[authors]]
-#name="@pcrbot"
-#link="https://github.com/pcrbot"
+#name="@another-pcrbot"
+#link="https://github.com/pcrbot-bot"
 ```
