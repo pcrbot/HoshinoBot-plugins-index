@@ -3,6 +3,9 @@ on:
   issues:
     types:
       - opened
+      - edited
+      - labeled
+      - reopened
 
 jobs:
   publish:
@@ -25,7 +28,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Cache Python packages
         uses: actions/cache@v4
@@ -42,9 +45,9 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          BRANCH="ci/publish-issue-${{ github.event.issue.number }}"
+          git config --global user.name "${{ github.event.issue.user.login }}"
+          git config --global user.email "${{ github.event.issue.user.email || join(github.event.issue.user.login, '@users.noreply.github.com') }}"
+          BRANCH="ci/issue-${{ github.event.issue.number }}/run-${{ github.run_number }}"
           git checkout -b "$BRANCH"
           git add plugins/
           git commit -m "Publish issue #${{ github.event.issue.number }}" || echo "No changes to commit"
