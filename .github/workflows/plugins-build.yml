@@ -1,0 +1,54 @@
+name: plugins-build
+on:
+  push:
+    paths:
+      - "plugins/**"
+  workflow_dispatch: {}
+
+jobs:
+  plugins-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: checkout pages
+        uses: actions/checkout@v4
+        with:
+          ref: pages
+          path: pages
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Cache Python packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('.ci/requirement.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Run Script
+        id: run-script
+        run: |
+          pip install -r .ci/requirement.txt
+          python .ci/aggregate.py
+          cp plugins.json pages/plugins.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy Pages
+        working-directory: ./pages
+        run: |
+          git add .
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Deploy Pages"
+          git push origin pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,13 @@
+{
+	"name": "又一个多角色语音合成插件",
+	"link": "https://github.com/pcrbot/voice_generate",
+	"authors": [
+		{
+			"name": "@corvo007",
+			"link": "https://github.com/corvo007"
+		}
+	],
+	"description": "如名字所示",
+	"last_updated": 1666234215,
+	"stars": 5
+}

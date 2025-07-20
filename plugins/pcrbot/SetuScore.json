@@ -1,0 +1,13 @@
+{
+	"name": "色图打分",
+	"link": "https://github.com/pcrbot/SetuScore",
+	"authors": [
+		{
+			"name": "@HMScygnet",
+			"link": "https://github.com/HMScygnet"
+		}
+	],
+	"description": "为你的色图进行打分",
+	"last_updated": 1751557495,
+	"stars": 20
+}

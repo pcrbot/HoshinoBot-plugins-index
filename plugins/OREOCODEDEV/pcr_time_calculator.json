@@ -1,0 +1,13 @@
+{
+	"name": "补偿轴计算器",
+	"link": "https://github.com/OREOCODEDEV/pcr_time_calculator",
+	"authors": [
+		{
+			"name": "@OREOCODEDEV",
+			"link": "https://github.com/OREOCODEDEV"
+		}
+	],
+	"description": "计算返还时间下对应的时间轴",
+	"last_updated": 1690633059,
+	"stars": 0
+}

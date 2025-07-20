@@ -1,0 +1,13 @@
+{
+	"name": "clanrank",
+	"link": "https://github.com/pcrbot/clanrank",
+	"authors": [
+		{
+			"name": "@var-mixer",
+			"link": "https://github.com/var-mixer"
+		}
+	],
+	"description": "公会战排名查询",
+	"last_updated": 1710190585,
+	"stars": 35
+}

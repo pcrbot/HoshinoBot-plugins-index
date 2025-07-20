@@ -1,0 +1,13 @@
+{
+	"name": "定时提醒摸鱼",
+	"link": "https://github.com/benx1n/when2holiday",
+	"authors": [
+		{
+			"name": "@benx1n",
+			"link": "https://github.com/benx1n"
+		}
+	],
+	"description": "含剩余假期的定时提醒摸鱼小助手",
+	"last_updated": 1687931303,
+	"stars": 11
+}

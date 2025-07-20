@@ -1,0 +1,13 @@
+{
+	"name": "新版台服竞技场查询",
+	"link": "https://github.com/azmiao/pcrjjc_tw_new",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		}
+	],
+	"description": "由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来\n兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法\n并增加全局禁用推送功能和各种优化",
+	"last_updated": 1748997938,
+	"stars": 9
+}

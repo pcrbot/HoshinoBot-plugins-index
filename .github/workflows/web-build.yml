@@ -1,0 +1,58 @@
+name: web-build
+on:
+  push:
+    paths:
+      - "web/**"
+  workflow_dispatch: {}
+
+jobs:
+  web-build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: checkout pages
+        uses: actions/checkout@v4
+        with:
+          ref: pages
+          path: pages
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Copy static files
+        run: |
+          cp pages/plugins.json web/public/plugins.json
+
+      - name: Cache npm
+        uses: actions/cache@v4
+        with:
+          path: ~/.npm
+          key: node-${{ hashFiles('web/package-lock.json') }}
+          restore-keys: node-
+
+      - name: Build the project
+        working-directory: ./web
+        run: |
+          npm clean-install
+          npm run build
+
+      - name: Deploy Pages
+        run: |
+          rm -rf pages/*
+          cp -r web/dist/browser/* pages/
+          cd pages
+          git add .
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Deploy Pages"
+          git push origin pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

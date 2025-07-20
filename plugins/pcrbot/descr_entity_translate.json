@@ -1,0 +1,13 @@
+{
+	"name": "名词实体信息查询",
+	"link": "https://github.com/pcrbot/descr_entity_translate",
+	"authors": [
+		{
+			"name": "@G41mywaifu",
+			"link": "https://github.com/G41mywaifu"
+		}
+	],
+	"description": "对一个名词进行解释",
+	"last_updated": 1669066123,
+	"stars": 4
+}

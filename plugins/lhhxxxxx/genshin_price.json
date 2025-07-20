@@ -1,0 +1,13 @@
+{
+	"name": "genshin_price",
+	"link": "https://github.com/lhhxxxxx/genshin_price",
+	"authors": [
+		{
+			"name": "@lhhxxxxx",
+			"link": "https://github.com/lhhxxxxx"
+		}
+	],
+	"description": "查询账号估价",
+	"last_updated": 1648132993,
+	"stars": 10
+}

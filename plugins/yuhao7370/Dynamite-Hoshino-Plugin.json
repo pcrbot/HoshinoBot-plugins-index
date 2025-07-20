@@ -1,0 +1,13 @@
+{
+	"name": "Dynamite",
+	"link": "https://github.com/yuhao7370/Dynamite-Hoshino-Plugin",
+	"authors": [
+		{
+			"name": "@yuhao7370",
+			"link": "https://github.com/yuhao7370"
+		}
+	],
+	"description": "社区音游Dynamite查分模块",
+	"last_updated": 1714184439,
+	"stars": 3
+}

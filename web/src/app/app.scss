@@ -1,0 +1,28 @@
+#app-header-bar {
+  color: var(--mat-sys-primary);
+  background: var(--mat-sys-primary-container);
+
+  .button-with-icon-text {
+    > .button-icon {
+      font-size: 24px;
+      height: 24px;
+      width: 24px;
+    }
+  }
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.table-container {
+  width: 90%;
+  max-width: 100em;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.sortable-header {
+  display: flex;
+  align-items: center;
+}

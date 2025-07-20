@@ -1,0 +1,13 @@
+{
+	"name": "公会战报告书",
+	"link": "https://github.com/A-kirami/ClanBattleReport",
+	"authors": [
+		{
+			"name": "@A-kirami",
+			"link": "https://github.com/A-kirami"
+		}
+	],
+	"description": "生成 Yobot  的公会战报告书",
+	"last_updated": 1674879730,
+	"stars": 8
+}

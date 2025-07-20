@@ -1,0 +1,13 @@
+{
+	"name": "ArcadeQueue",
+	"link": "https://github.com/SalinX/ArcadeQueue",
+	"authors": [
+		{
+			"name": "@SalinX",
+			"link": "https://github.com/SalinX"
+		}
+	],
+	"description": "适用于 HoshinoBot 的机厅排卡模块",
+	"last_updated": 1748059244,
+	"stars": 1
+}

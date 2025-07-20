@@ -1,0 +1,13 @@
+{
+	"name": "接头",
+	"link": "https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead",
+	"authors": [
+		{
+			"name": "@shewinder",
+			"link": "https://github.com/shewinder"
+		}
+	],
+	"description": "人脸识别自动接臭鼬头",
+	"last_updated": 1752222194,
+	"stars": 116
+}

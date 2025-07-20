@@ -1,0 +1,17 @@
+{
+	"name": "全局开关",
+	"link": "https://github.com/Zoe-Wh1t3zZ/Switch/",
+	"authors": [
+		{
+			"name": "@Zoe新小白白白",
+			"link": "https://github.com/Zoe-Wh1t3zZ/"
+		},
+		{
+			"name": "@Jaco",
+			"link": "https://github.com/Jacosnow/"
+		}
+	],
+	"description": "基于hoshino的(伪)全局开关，通过拉黑群实现休眠。",
+	"last_updated": 1648132980,
+	"stars": 0
+}

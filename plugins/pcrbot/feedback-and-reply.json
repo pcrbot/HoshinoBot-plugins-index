@@ -1,0 +1,13 @@
+{
+	"name": "反馈与回复",
+	"link": "https://github.com/pcrbot/feedback-and-reply",
+	"authors": [
+		{
+			"name": "@chu3",
+			"link": "https://github.com/chu3"
+		}
+	],
+	"description": "带回复功能的来杯咖啡",
+	"last_updated": 1669723427,
+	"stars": 3
+}

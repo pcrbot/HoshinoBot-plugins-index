@@ -1,0 +1,13 @@
+{
+	"name": "MuseDashWiki",
+	"link": "https://github.com/Soung2279/musewiki",
+	"authors": [
+		{
+			"name": "@Soung2279",
+			"link": "https://github.com/Soung2279"
+		}
+	],
+	"description": "音游MuseDash(喵斯快跑)百科查询插件，好耶！是MD！",
+	"last_updated": 1751012601,
+	"stars": 11
+}

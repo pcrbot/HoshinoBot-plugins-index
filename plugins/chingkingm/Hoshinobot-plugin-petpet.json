@@ -1,0 +1,17 @@
+{
+	"name": "Hoshinobot-plugin-petpet",
+	"link": "https://github.com/chingkingm/Hoshinobot-plugin-petpet",
+	"authors": [
+		{
+			"name": "@MeetWq",
+			"link": "https://github.com/MeetWq"
+		},
+		{
+			"name": "@chingkingm",
+			"link": "https://github.com/chingkingm"
+		}
+	],
+	"description": "移植自[nonebot-plugin-petpet](https://github.com/MeetWq/nonebot-plugin-petpet)的头像表情包生成器",
+	"last_updated": 1741831380,
+	"stars": 20
+}

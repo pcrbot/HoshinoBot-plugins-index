@@ -1,0 +1,13 @@
+{
+	"name": "网易云音乐直链下载",
+	"link": "https://github.com/haha114514/netease_down",
+	"authors": [
+		{
+			"name": "@haha114514",
+			"link": "https://github.com/haha114514"
+		}
+	],
+	"description": "适用于HoshinoBot的获取网易云音乐歌曲下载链接",
+	"last_updated": 1669201574,
+	"stars": 1
+}

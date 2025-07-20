@@ -1,0 +1,7 @@
+@for (node of textNodes(); track $index) { @if (node.type === 'text') {
+<span>{{ node.content }}</span>
+} @else if (node.type === 'link') {
+<a href="{{ node.url }}" target="_blank" rel="noopener noreferrer">{{
+  node.content
+}}</a>
+} }

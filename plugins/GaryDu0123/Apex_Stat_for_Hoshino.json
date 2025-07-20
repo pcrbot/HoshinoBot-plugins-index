@@ -1,0 +1,13 @@
+{
+	"name": "APEX Legends 制造器, 地图轮换查询",
+	"link": "https://github.com/GaryDu0123/Apex_Stat_for_Hoshino",
+	"authors": [
+		{
+			"name": "@GaryDu0123",
+			"link": "https://github.com/GaryDu0123"
+		}
+	],
+	"description": "查询APEX Legends 当日(未来)地图轮换以及复制器物品",
+	"last_updated": 1738242264,
+	"stars": 10
+}

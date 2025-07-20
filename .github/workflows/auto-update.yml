@@ -1,0 +1,48 @@
+name: autoupdate
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 */5 * *"
+
+jobs:
+  autoupdate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Cache Python packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('.ci/requirement.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Run Script
+        id: run-script
+        run: |
+          pip install -r .ci/requirement.txt
+          python .ci/update.py
+          changed="$(git status --untracked-files=no --porcelain)"
+          echo "changed=${changed}" >> $GITHUB_OUTPUT
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        if: steps.run-script.outputs.changed != ''
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto update plugins"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

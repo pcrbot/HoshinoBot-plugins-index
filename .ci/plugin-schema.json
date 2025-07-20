@@ -1,0 +1,62 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"title": "HoshinoBot Plugin Information Schema",
+	"description": "Schema for HoshinoBot plugin information",
+	"type": "object",
+	"required": ["name", "link", "authors"],
+	"properties": {
+		"name": {
+			"type": "string",
+			"description": "The name of the plugin",
+			"minLength": 1,
+			"maxLength": 100
+		},
+		"description": {
+			"type": "string",
+			"description": "A brief description of what the plugin does",
+			"minLength": 0,
+			"maxLength": 500
+		},
+		"link": {
+			"type": "string",
+			"description": "The repository or homepage URL of the plugin",
+			"format": "uri",
+			"pattern": "^https?://"
+		},
+		"authors": {
+			"type": "array",
+			"description": "List of plugin authors",
+			"minItems": 1,
+			"items": {
+				"type": "object",
+				"required": ["name"],
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Author's name or username",
+						"minLength": 1,
+						"maxLength": 50
+					},
+					"link": {
+						"type": "string",
+						"description": "Author's profile or homepage URL",
+						"format": "uri",
+						"pattern": "^https?://"
+					}
+				},
+				"additionalProperties": false
+			}
+		},
+		"last_updated": {
+			"type": "integer",
+			"description": "Unix timestamp of when the plugin was last updated",
+			"minimum": 0
+		},
+		"stars": {
+			"type": "integer",
+			"description": "Number of stars the plugin has received",
+			"minimum": 0
+		}
+	},
+	"additionalProperties": false
+}

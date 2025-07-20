@@ -1,0 +1,13 @@
+{
+	"name": "Daily_News",
+	"link": "https://github.com/InSnocent/Daily_News",
+	"authors": [
+		{
+			"name": "@InSnocent",
+			"link": "https://github.com/InSnocent"
+		}
+	],
+	"description": "适用于HoshinoBot的每日一句话新闻(和另一个插件采用的不一样的来源)",
+	"last_updated": 1741859820,
+	"stars": 8
+}

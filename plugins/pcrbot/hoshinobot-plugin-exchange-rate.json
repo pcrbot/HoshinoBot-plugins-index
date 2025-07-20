@@ -1,0 +1,13 @@
+{
+	"name": "汇率",
+	"link": "https://github.com/pcrbot/hoshinobot-plugin-exchange-rate",
+	"authors": [
+		{
+			"name": "@yuudi",
+			"link": "https://github.com/yuudi"
+		}
+	],
+	"description": "汇率",
+	"last_updated": 1719737819,
+	"stars": 0
+}

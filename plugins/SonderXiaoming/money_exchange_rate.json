@@ -1,0 +1,17 @@
+{
+	"name": "汇率查询",
+	"link": "https://github.com/SonderXiaoming/money_exchange_rate",
+	"authors": [
+		{
+			"name": "@SonderXiaoming",
+			"link": "https://github.com/SonderXiaoming"
+		},
+		{
+			"name": "@stbcx001",
+			"link": "https://github.com/stbcx001"
+		}
+	],
+	"description": "查询货币汇率，支持自定义",
+	"last_updated": 1723902562,
+	"stars": 4
+}

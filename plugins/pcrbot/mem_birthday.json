@@ -1,0 +1,13 @@
+{
+	"name": "群友生日祝贺插件",
+	"link": "https://github.com/pcrbot/mem_birthday",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		}
+	],
+	"description": "祝贺群友生日快乐",
+	"last_updated": 1697774818,
+	"stars": 7
+}

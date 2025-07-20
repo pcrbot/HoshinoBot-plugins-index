@@ -1,0 +1,13 @@
+{
+	"name": "新·网络天才",
+	"link": "https://github.com/Rlezzo/akinator",
+	"authors": [
+		{
+			"name": "@Rlezzo",
+			"link": "https://github.com/Rlezzo"
+		}
+	],
+	"description": "[网络天才](https://github.com/HMScygnet/akinator)原插件api已无法使用，适配了最新的api",
+	"last_updated": 1725021014,
+	"stars": 2
+}

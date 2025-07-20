@@ -1,0 +1,13 @@
+{
+	"name": "生草图片生成器",
+	"link": "https://github.com/BlueDeer233/image_generator",
+	"authors": [
+		{
+			"name": "@BlueDeer233",
+			"link": "https://github.com/BlueDeer233"
+		}
+	],
+	"description": "集成了多种图像生成器的插件",
+	"last_updated": 1732561658,
+	"stars": 10
+}

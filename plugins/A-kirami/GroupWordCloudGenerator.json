@@ -1,0 +1,13 @@
+{
+	"name": "群聊词云生成",
+	"link": "https://github.com/A-kirami/GroupWordCloudGenerator",
+	"authors": [
+		{
+			"name": "@A-kirami",
+			"link": "https://github.com/A-kirami"
+		}
+	],
+	"description": "一个群/个人词云生成器，记录聊天记录并生成个人/群组词云",
+	"last_updated": 1672405163,
+	"stars": 4
+}

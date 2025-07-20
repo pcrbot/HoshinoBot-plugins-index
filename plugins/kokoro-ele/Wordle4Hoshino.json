@@ -1,0 +1,13 @@
+{
+	"name": "猜单词",
+	"link": "https://github.com/kokoro-ele/Wordle4Hoshino",
+	"authors": [
+		{
+			"name": "@kokoro",
+			"link": "https://github.com/kokoro-ele"
+		}
+	],
+	"description": "wordle游戏",
+	"last_updated": 1683473290,
+	"stars": 5
+}

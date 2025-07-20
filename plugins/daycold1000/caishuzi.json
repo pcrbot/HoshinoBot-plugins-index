@@ -1,0 +1,13 @@
+{
+	"name": "猜数字",
+	"link": "https://github.com/daycold1000/caishuzi",
+	"authors": [
+		{
+			"name": "@daycold1000",
+			"link": "https://github.com/daycold1000"
+		}
+	],
+	"description": "这是一个很简单的小游戏，俗称1A2B猜谜",
+	"last_updated": 1670401111,
+	"stars": 1
+}

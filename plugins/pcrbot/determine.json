@@ -1,0 +1,13 @@
+{
+	"name": "鉴定群友",
+	"link": "https://github.com/pcrbot/determine",
+	"authors": [
+		{
+			"name": "@chu3",
+			"link": "https://github.com/chu3"
+		}
+	],
+	"description": "鉴定群友是0还是1(可以扩展)",
+	"last_updated": 1684910604,
+	"stars": 1
+}

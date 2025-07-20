@@ -1,0 +1,13 @@
+{
+	"name": "挂树提醒",
+	"link": "https://github.com/pcrbot/ontree_scheduler",
+	"authors": [
+		{
+			"name": "@ArisakaRayee",
+			"link": "https://github.com/ArisakaRayee"
+		}
+	],
+	"description": "挂树时间提醒",
+	"last_updated": 1623401104,
+	"stars": 7
+}

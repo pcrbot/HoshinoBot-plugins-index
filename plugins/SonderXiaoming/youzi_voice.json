@@ -1,0 +1,13 @@
+{
+	"name": "柚子社语音",
+	"link": "https://github.com/SonderXiaoming/youzi_voice",
+	"authors": [
+		{
+			"name": "@SonderXiaoming",
+			"link": "https://github.com/SonderXiaoming"
+		}
+	],
+	"description": "模仿柚子社角色的声音（支持中文，日文）",
+	"last_updated": 1751534746,
+	"stars": 41
+}

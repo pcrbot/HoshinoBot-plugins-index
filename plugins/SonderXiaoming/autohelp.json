@@ -1,0 +1,13 @@
+{
+	"name": "帮助网页版",
+	"link": "https://github.com/SonderXiaoming/autohelp",
+	"authors": [
+		{
+			"name": "@SonderXiaoming",
+			"link": "https://github.com/SonderXiaoming"
+		}
+	],
+	"description": "全自动生成帮助网页",
+	"last_updated": 1696131089,
+	"stars": 26
+}

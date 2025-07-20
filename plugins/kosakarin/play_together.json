@@ -1,0 +1,13 @@
+{
+	"name": "游戏开黑",
+	"link": "https://github.com/kosakarin/play_together",
+	"authors": [
+		{
+			"name": "@kosakarin",
+			"link": "https://github.com/kosakarin"
+		}
+	],
+	"description": "辅助群内开黑，可以记录群内开了哪些车",
+	"last_updated": 1674375368,
+	"stars": 9
+}

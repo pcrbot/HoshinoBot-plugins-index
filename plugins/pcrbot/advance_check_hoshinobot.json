@@ -1,0 +1,13 @@
+{
+	"name": "服务器信息查询",
+	"link": "https://github.com/pcrbot/advance_check_hoshinobot",
+	"authors": [
+		{
+			"name": "@Soung2279",
+			"link": "https://github.com/Soung2279"
+		}
+	],
+	"description": "可快速查询bot搭载的服务器相关硬件信息",
+	"last_updated": 1710349509,
+	"stars": 5
+}

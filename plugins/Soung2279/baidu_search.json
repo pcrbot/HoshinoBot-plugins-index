@@ -1,0 +1,13 @@
+{
+	"name": "百度一下",
+	"link": "https://github.com/Soung2279/baidu_search",
+	"authors": [
+		{
+			"name": "@Soung2279",
+			"link": "https://github.com/Soung2279"
+		}
+	],
+	"description": "对 优妮 的“百度一下”功能的粗糙复现",
+	"last_updated": 1648132999,
+	"stars": 3
+}

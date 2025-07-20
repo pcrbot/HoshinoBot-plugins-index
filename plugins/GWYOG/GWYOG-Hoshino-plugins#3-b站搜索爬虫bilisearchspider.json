@@ -1,0 +1,13 @@
+{
+	"name": "bilibili",
+	"link": "https://github.com/GWYOG/GWYOG-Hoshino-plugins#3-b站搜索爬虫bilisearchspider",
+	"authors": [
+		{
+			"name": "@GWYOG",
+			"link": "https://github.com/GWYOG"
+		}
+	],
+	"description": "监控推送视频关键词",
+	"last_updated": 1752222195,
+	"stars": 125
+}

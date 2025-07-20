@@ -1,0 +1,13 @@
+{
+	"name": "本地抽卡",
+	"link": "https://github.com/BeiYazi0/draw-card",
+	"authors": [
+		{
+			"name": "@贝亚子零号",
+			"link": "https://github.com/BeiYazi0"
+		}
+	],
+	"description": "一个适用于HoshinoBot的抽卡插件，卡池中图片源自于用户上传",
+	"last_updated": 1748590787,
+	"stars": 3
+}

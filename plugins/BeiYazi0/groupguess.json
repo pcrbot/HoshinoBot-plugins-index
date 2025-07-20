@@ -1,0 +1,13 @@
+{
+	"name": "猜群友",
+	"link": "https://github.com/BeiYazi0/groupguess",
+	"authors": [
+		{
+			"name": "@贝亚子零号",
+			"link": "https://github.com/BeiYazi0"
+		}
+	],
+	"description": "一个适用于HoshinoBot的猜群友小游戏插件",
+	"last_updated": 1711111178,
+	"stars": 1
+}

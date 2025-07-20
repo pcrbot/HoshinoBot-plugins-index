@@ -1,0 +1,13 @@
+{
+	"name": "FGO Gacha",
+	"link": "https://github.com/kcn3388/fgogacha",
+	"authors": [
+		{
+			"name": "@kcn3388",
+			"link": "https://github.com/kcn3388"
+		}
+	],
+	"description": "简单的FGO抽卡模拟器",
+	"last_updated": 1710486371,
+	"stars": 9
+}

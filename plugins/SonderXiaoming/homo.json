@@ -1,0 +1,17 @@
+{
+	"name": "数字恶臭化插件",
+	"link": "https://github.com/SonderXiaoming/homo",
+	"authors": [
+		{
+			"name": "@SonderXiaoming",
+			"link": "https://github.com/SonderXiaoming"
+		},
+		{
+			"name": "@stbcx001",
+			"link": "https://github.com/stbcx001"
+		}
+	],
+	"description": "将任意数字以114514表示",
+	"last_updated": 1747756469,
+	"stars": 6
+}

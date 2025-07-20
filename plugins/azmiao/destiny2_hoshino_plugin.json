@@ -1,0 +1,13 @@
+{
+	"name": "命运2简易插件",
+	"link": "https://github.com/azmiao/destiny2_hoshino_plugin",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		}
+	],
+	"description": "另一个命运2插件，从小黑盒自动抓取周报，试炼周报，老九，蛛王信息",
+	"last_updated": 1719970335,
+	"stars": 10
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Hoshino语音增强",
+	"link": "https://github.com/Soung2279/advance_R",
+	"authors": [
+		{
+			"name": "@Soung2279",
+			"link": "https://github.com/Soung2279"
+		}
+	],
+	"description": "通过修改R.py文件，实现Hoshino使用R模块调用语音",
+	"last_updated": 1669224605,
+	"stars": 1
+}

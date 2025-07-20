@@ -1,0 +1,13 @@
+{
+	"name": "计算器",
+	"link": "https://github.com/OREOCODEDEV/bot_calculator",
+	"authors": [
+		{
+			"name": "@OREOCODEDEV",
+			"link": "https://github.com/OREOCODEDEV"
+		}
+	],
+	"description": "计算群聊中的四则运算消息",
+	"last_updated": 1651930702,
+	"stars": 0
+}

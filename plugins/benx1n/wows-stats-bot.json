@@ -1,0 +1,13 @@
+{
+	"name": "wows-stats-bot",
+	"link": "https://github.com/benx1n/wows-stats-bot",
+	"authors": [
+		{
+			"name": "@benx1n",
+			"link": "https://github.com/benx1n"
+		}
+	],
+	"description": "战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent",
+	"last_updated": 1743182935,
+	"stars": 38
+}

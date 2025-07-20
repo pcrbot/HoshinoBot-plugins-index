@@ -1,0 +1,13 @@
+{
+	"name": "补偿时间轴计算",
+	"link": "https://github.com/bbareo/carryover_cal",
+	"authors": [
+		{
+			"name": "@背包",
+			"link": "https://github.com/bbareo"
+		}
+	],
+	"description": "计算补偿时间对应TL",
+	"last_updated": 1680901350,
+	"stars": 1
+}

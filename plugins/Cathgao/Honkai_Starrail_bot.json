@@ -1,0 +1,13 @@
+{
+	"name": "星穹铁道资源查询",
+	"link": "https://github.com/Cathgao/Honkai_Starrail_bot",
+	"authors": [
+		{
+			"name": "@Cathgao",
+			"link": "https://github.com/Cathgao"
+		}
+	],
+	"description": "可在群聊中查询星铁的资源地图",
+	"last_updated": 1705141426,
+	"stars": 5
+}

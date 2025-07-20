@@ -1,0 +1,13 @@
+{
+	"name": "占卜",
+	"link": "https://github.com/SonderXiaoming/huannai-plugin-shindan",
+	"authors": [
+		{
+			"name": "@SonderXiaoming",
+			"link": "https://github.com/SonderXiaoming"
+		}
+	],
+	"description": "移植自nb2的nonebot-plugin-shindan",
+	"last_updated": 1732593563,
+	"stars": 1
+}

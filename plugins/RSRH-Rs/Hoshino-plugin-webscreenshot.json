@@ -1,0 +1,13 @@
+{
+	"name": "网页截图",
+	"link": "https://github.com/RSRH-Rs/Hoshino-plugin-webscreenshot",
+	"authors": [
+		{
+			"name": "@RSRH-Rs",
+			"link": "https://github.com/RSRH-Rs"
+		}
+	],
+	"description": "异步网页截图，不会堵塞",
+	"last_updated": 1688090732,
+	"stars": 2
+}

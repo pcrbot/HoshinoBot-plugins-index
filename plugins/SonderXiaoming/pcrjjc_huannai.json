@@ -1,0 +1,13 @@
+{
+	"name": "pcrjjc2魔改版",
+	"link": "https://github.com/SonderXiaoming/pcrjjc_huannai",
+	"authors": [
+		{
+			"name": "@SonderXiaoming",
+			"link": "https://github.com/SonderXiaoming"
+		}
+	],
+	"description": "可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置）",
+	"last_updated": 1731602899,
+	"stars": 15
+}

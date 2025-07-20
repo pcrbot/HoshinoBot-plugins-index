@@ -1,0 +1,13 @@
+{
+	"name": "XML卡片消息发送器",
+	"link": "https://github.com/MiaoXia0/XMLSender",
+	"authors": [
+		{
+			"name": "@MiaoXia0",
+			"link": "https://github.com/MiaoXia0"
+		}
+	],
+	"description": "使机器人发送XML卡片消息",
+	"last_updated": 1692861442,
+	"stars": 4
+}

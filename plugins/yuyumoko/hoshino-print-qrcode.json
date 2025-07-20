@@ -1,0 +1,13 @@
+{
+	"name": "群二维码识别",
+	"link": "https://github.com/yuyumoko/hoshino-print-qrcode",
+	"authors": [
+		{
+			"name": "@yuyumoko",
+			"link": "https://github.com/yuyumoko"
+		}
+	],
+	"description": "发二维码的能不能照顾一下PC端啊",
+	"last_updated": 1676554394,
+	"stars": 5
+}

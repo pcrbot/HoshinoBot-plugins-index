@@ -1,0 +1,13 @@
+{
+	"name": "表情包生成器",
+	"link": "https://github.com/pcrbot/image-generate",
+	"authors": [
+		{
+			"name": "@xhl6699",
+			"link": "https://github.com/xhl6699"
+		}
+	],
+	"description": "预设图片自动配字",
+	"last_updated": 1696131074,
+	"stars": 24
+}

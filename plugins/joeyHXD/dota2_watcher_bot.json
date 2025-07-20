@@ -1,0 +1,13 @@
+{
+	"name": "DOTA2战绩推送",
+	"link": "https://github.com/joeyHXD/dota2_watcher_bot",
+	"authors": [
+		{
+			"name": "@joeyHXD",
+			"link": "https://github.com/joeyHXD"
+		}
+	],
+	"description": "基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件",
+	"last_updated": 1748689625,
+	"stars": 10
+}

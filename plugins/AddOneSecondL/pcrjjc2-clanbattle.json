@@ -1,0 +1,13 @@
+{
+	"name": "游戏内会战推送",
+	"link": "https://github.com/AddOneSecondL/pcrjjc2-clanbattle",
+	"authors": [
+		{
+			"name": "@AddOneSecondL",
+			"link": "https://github.com/AddOneSecondL"
+		}
+	],
+	"description": "基于pcrjjc2通信的会战推送(DLC了属于是",
+	"last_updated": 1748337135,
+	"stars": 24
+}

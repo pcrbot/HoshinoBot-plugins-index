@@ -1,0 +1,13 @@
+{
+	"name": "本地涩图增强版",
+	"link": "https://github.com/Soung2279/setu-local-extra",
+	"authors": [
+		{
+			"name": "@Soung2279",
+			"link": "https://github.com/Soung2279"
+		}
+	],
+	"description": "hoshino的本地涩图魔改版，可自助重置次数和自定义撤回等。",
+	"last_updated": 1691120765,
+	"stars": 7
+}

@@ -1,0 +1,13 @@
+{
+	"name": "maimaiDX",
+	"link": "https://github.com/Yuri-YuzuChaN/maimaiDX",
+	"authors": [
+		{
+			"name": "@Yuri-YuzuChaN",
+			"link": "https://github.com/Yuri-YuzuChaN"
+		}
+	],
+	"description": "街机音游舞萌DX查询插件，移植自xybot及mai-bot",
+	"last_updated": 1752888782,
+	"stars": 230
+}

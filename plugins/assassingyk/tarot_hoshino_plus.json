@@ -1,0 +1,13 @@
+{
+	"name": "tarot_hoshino_plus",
+	"link": "https://github.com/assassingyk/tarot_hoshino_plus",
+	"authors": [
+		{
+			"name": "@assassingyk",
+			"link": "https://github.com/assassingyk"
+		}
+	],
+	"description": "增强版可自定义牌阵卡图的塔罗牌插件",
+	"last_updated": 1705657545,
+	"stars": 2
+}

@@ -1,0 +1,13 @@
+{
+	"name": "魔改版的pcrjjc2",
+	"link": "https://github.com/Syne-lucky/pcrjjc2",
+	"authors": [
+		{
+			"name": "@Syne-lucky",
+			"link": "https://github.com/Syne-lucky"
+		}
+	],
+	"description": "可绑多uid、可私聊/群聊通知、多线程、自动过验证码。",
+	"last_updated": 1692025967,
+	"stars": 10
+}

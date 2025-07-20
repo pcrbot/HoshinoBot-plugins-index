@@ -1,0 +1,13 @@
+{
+	"name": "原神卡池记录查询",
+	"link": "https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog",
+	"authors": [
+		{
+			"name": "@yuyumoko",
+			"link": "https://github.com/yuyumoko"
+		}
+	],
+	"description": "统计卡池保底信息",
+	"last_updated": 1752222194,
+	"stars": 139
+}

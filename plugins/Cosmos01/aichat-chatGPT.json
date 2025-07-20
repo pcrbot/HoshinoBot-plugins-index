@@ -1,0 +1,13 @@
+{
+	"name": "AI对话chatGPT版",
+	"link": "https://github.com/Cosmos01/aichat-chatGPT",
+	"authors": [
+		{
+			"name": "@Cosmos01",
+			"link": "https://github.com/Cosmos01"
+		}
+	],
+	"description": "AI对话chatGPT版，支持GTP-3.5 API",
+	"last_updated": 1751010923,
+	"stars": 50
+}

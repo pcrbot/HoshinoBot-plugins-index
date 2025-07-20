@@ -1,0 +1,13 @@
+{
+	"name": "mc数据查询推送",
+	"link": "https://github.com/azmiao/mc_status",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		}
+	],
+	"description": "这玩意没啥用，顶多监控着自己服务器啥时候有小伙伴进来",
+	"last_updated": 1697540633,
+	"stars": 6
+}

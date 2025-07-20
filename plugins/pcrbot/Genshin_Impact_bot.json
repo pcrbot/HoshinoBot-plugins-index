@@ -1,0 +1,13 @@
+{
+	"name": "原神插件",
+	"link": "https://github.com/pcrbot/Genshin_Impact_bot",
+	"authors": [
+		{
+			"name": "@H-K-Y",
+			"link": "https://github.com/H-K-Y"
+		}
+	],
+	"description": "抽卡、找神瞳、丘丘语翻译、资源位置查询",
+	"last_updated": 1712596788,
+	"stars": 18
+}

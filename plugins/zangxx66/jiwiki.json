@@ -1,0 +1,13 @@
+{
+	"name": "小鸡词典",
+	"link": "https://github.com/zangxx66/jiwiki",
+	"authors": [
+		{
+			"name": "@zangxx66",
+			"link": "https://github.com/zangxx66"
+		}
+	],
+	"description": "网络流行语词典，查询你不知道的那些梗或词语",
+	"last_updated": 1736428696,
+	"stars": 5
+}

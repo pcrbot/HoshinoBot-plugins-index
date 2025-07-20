@@ -1,0 +1,13 @@
+{
+	"name": "AI对话",
+	"link": "https://github.com/pcrbot/aichat",
+	"authors": [
+		{
+			"name": "@HMScygnet",
+			"link": "https://github.com/HMScygnet"
+		}
+	],
+	"description": "由腾讯自然语言处理api实现的AI对话插件",
+	"last_updated": 1692271440,
+	"stars": 18
+}

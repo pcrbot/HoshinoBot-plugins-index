@@ -1,0 +1,13 @@
+{
+	"name": "P站搜索",
+	"link": "https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/pixiv_new",
+	"authors": [
+		{
+			"name": "@scofieldle",
+			"link": "https://github.com/scofieldle"
+		}
+	],
+	"description": "使用refresh_token和插件pixiv3直接获取P站插画，可根据画师ID和插画ID搜索相关的插画",
+	"last_updated": 1718437305,
+	"stars": 26
+}

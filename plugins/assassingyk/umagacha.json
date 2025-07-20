@@ -1,0 +1,13 @@
+{
+	"name": "umagacha",
+	"link": "https://github.com/assassingyk/umagacha",
+	"authors": [
+		{
+			"name": "@assassingyk",
+			"link": "https://github.com/assassingyk"
+		}
+	],
+	"description": "可自动更新卡池的马娘仿真抽卡插件",
+	"last_updated": 1696556800,
+	"stars": 4
+}

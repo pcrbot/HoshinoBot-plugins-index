@@ -1,0 +1,21 @@
+{
+	"name": "pcrjjc3",
+	"link": "https://github.com/azmiao/pcrjjc3-tw",
+	"authors": [
+		{
+			"name": "@cc004",
+			"link": "https://github.com/cc004"
+		},
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		},
+		{
+			"name": "@CYDXDianXian",
+			"link": "https://github.com/CYDXDianXian"
+		}
+	],
+	"description": "由pcrjjc2修改而来的适用pcr台服的竞技场插件，额外支持了多服查询",
+	"last_updated": 1747307544,
+	"stars": 17
+}

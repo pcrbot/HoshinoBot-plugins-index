@@ -1,0 +1,13 @@
+{
+	"name": "网页截图修补版",
+	"link": "https://github.com/kcn3388/pagecut",
+	"authors": [
+		{
+			"name": "@kcn3388",
+			"link": "https://github.com/kcn3388"
+		}
+	],
+	"description": "魔改于原[网页截图](https://github.com/pcrbot/pagecut)\n增加爬取网页源代码或js变量以辅助爬虫",
+	"last_updated": 1748346942,
+	"stars": 3
+}

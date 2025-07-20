@@ -1,0 +1,13 @@
+{
+	"name": "碧蓝档案",
+	"link": "https://github.com/azmiao/bluearchive_hoshino_plugin",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		}
+	],
+	"description": "由Hoshino修 改的碧蓝档案blue archive插件",
+	"last_updated": 1695880827,
+	"stars": 10
+}

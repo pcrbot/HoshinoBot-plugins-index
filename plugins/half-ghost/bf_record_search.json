@@ -1,0 +1,13 @@
+{
+	"name": "战地1/5战绩查询(图片版)",
+	"link": "https://github.com/half-ghost/bf_record_search",
+	"authors": [
+		{
+			"name": "@half-ghost",
+			"link": "https://github.com/half-ghost"
+		}
+	],
+	"description": "战地1、5战绩查询插件，以图片形式呈现",
+	"last_updated": 1710762649,
+	"stars": 4
+}

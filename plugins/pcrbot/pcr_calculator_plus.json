@@ -1,0 +1,13 @@
+{
+	"name": "合刀计算器 终极版",
+	"link": "https://github.com/pcrbot/pcr_calculator_plus/",
+	"authors": [
+		{
+			"name": "@ellye",
+			"link": "https://github.com/watermellye"
+		}
+	],
+	"description": "支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。",
+	"last_updated": 1718270413,
+	"stars": 7
+}

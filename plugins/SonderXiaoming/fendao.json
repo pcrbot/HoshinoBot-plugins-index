@@ -1,0 +1,13 @@
+{
+	"name": "分刀查轴",
+	"link": "https://github.com/SonderXiaoming/fendao",
+	"authors": [
+		{
+			"name": "@SonderXiaoming",
+			"link": "https://github.com/SonderXiaoming"
+		}
+	],
+	"description": "查询花舞作业并且自动分刀",
+	"last_updated": 1682764341,
+	"stars": 7
+}

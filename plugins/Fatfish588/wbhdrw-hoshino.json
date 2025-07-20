@@ -1,0 +1,13 @@
+{
+	"name": "我不会打日文",
+	"link": "https://github.com/Fatfish588/wbhdrw-hoshino",
+	"authors": [
+		{
+			"name": "@Fatfish588",
+			"link": "https://github.com/Fatfish588"
+		}
+	],
+	"description": "运行在本地的日文OCR识别插件，好耶不用拿着截图问别人而导致xp泄漏了",
+	"last_updated": 1712430990,
+	"stars": 1
+}

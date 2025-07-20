@@ -1,0 +1,21 @@
+{
+	"name": "幻兽帕鲁插件",
+	"link": "https://github.com/azmiao/PalWorldPlugin",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		},
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust"
+		},
+		{
+			"name": "@Lancercmd",
+			"link": "https://github.com/Lancercmd"
+		}
+	],
+	"description": "一个帕鲁的QQ机器人插件",
+	"last_updated": 1736307143,
+	"stars": 10
+}

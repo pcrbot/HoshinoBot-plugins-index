@@ -1,0 +1,13 @@
+{
+	"name": "挂树提醒",
+	"link": "https://github.com/bugaosuni59/ontree_scheduler",
+	"authors": [
+		{
+			"name": "@bugaosuni59",
+			"link": "https://github.com/bugaosuni59"
+		}
+	],
+	"description": "挂树时 间提醒修改版，支持查树、尾刀下树",
+	"last_updated": 1669224527,
+	"stars": 4
+}

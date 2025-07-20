@@ -1,0 +1,13 @@
+{
+	"name": "pcr大乱斗",
+	"link": "https://github.com/eggggi/pcr_scrimmage",
+	"authors": [
+		{
+			"name": "@eggggi",
+			"link": "https://github.com/eggggi"
+		}
+	],
+	"description": "群内小游戏。选择你的角色，和群友击剑（可自定义角色）",
+	"last_updated": 1739878019,
+	"stars": 18
+}

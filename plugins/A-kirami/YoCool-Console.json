@@ -1,0 +1,13 @@
+{
+	"name": "YoCool",
+	"link": "https://github.com/A-kirami/YoCool-Console",
+	"authors": [
+		{
+			"name": "@A-kirami",
+			"link": "https://github.com/A-kirami"
+		}
+	],
+	"description": "Hoshino 插件化的 YoCool 控制台",
+	"last_updated": 1674889020,
+	"stars": 7
+}

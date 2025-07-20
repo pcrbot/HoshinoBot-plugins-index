@@ -1,0 +1,13 @@
+{
+	"name": "A-soul发病小作文",
+	"link": "https://github.com/RMYHY/RBot/tree/main/HoshinoBot/hoshino/modules/asill",
+	"authors": [
+		{
+			"name": "@RMYHY",
+			"link": "https://github.com/RMYHY"
+		}
+	],
+	"description": "可自定义发病对象的真情实感小作文",
+	"last_updated": 1735729860,
+	"stars": 33
+}

@@ -1,0 +1,13 @@
+{
+	"name": "有道智云翻译",
+	"link": "https://github.com/pcrbot/youdao_translate",
+	"authors": [
+		{
+			"name": "@G41mywaifu",
+			"link": "https://github.com/G41mywaifu"
+		}
+	],
+	"description": "基于有道智云的翻译插件",
+	"last_updated": 1669066123,
+	"stars": 4
+}

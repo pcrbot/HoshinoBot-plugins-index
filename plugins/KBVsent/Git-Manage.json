@@ -1,0 +1,13 @@
+{
+	"name": "Git-Manage",
+	"link": "https://github.com/KBVsent/Git-Manage",
+	"authors": [
+		{
+			"name": "@KBVsent",
+			"link": "https://github.com/KBVsent"
+		}
+	],
+	"description": "适用于 HoshinoBot 的插件更新插件",
+	"last_updated": 1741419876,
+	"stars": 1
+}

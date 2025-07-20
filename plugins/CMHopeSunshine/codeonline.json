@@ -1,0 +1,13 @@
+{
+	"name": "在线运行代码",
+	"link": "https://github.com/CMHopeSunshine/codeonline",
+	"authors": [
+		{
+			"name": "@CMHopeSunshine",
+			"link": "https://github.com/CMHopeSunshine"
+		}
+	],
+	"description": "基于glot.io的bot运行代码插件",
+	"last_updated": 1684949422,
+	"stars": 8
+}

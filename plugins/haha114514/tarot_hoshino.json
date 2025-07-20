@@ -1,0 +1,17 @@
+{
+	"name": "Tarot",
+	"link": "https://github.com/haha114514/tarot_hoshino",
+	"authors": [
+		{
+			"name": "@haha114514",
+			"link": "https://github.com/haha114514"
+		},
+		{
+			"name": "@realhyy",
+			"link": "https://github.com/realhyy"
+		}
+	],
+	"description": "修改为Hoshinobot版：[@haha114514](https://github.com/haha114514)   源代码：[@realhyy](https://github.com/realhyy) 适用于HoshinoBot的哔哩哔哩主题塔罗牌抽签（灵感来自于https://github.com/loli-fish/destiny_tarrot-CQnonebot ）",
+	"last_updated": 1747144946,
+	"stars": 15
+}

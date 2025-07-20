@@ -1,0 +1,13 @@
+{
+	"name": "疫情获取",
+	"link": "https://github.com/SlightDust/yiqing_HoshinoBot",
+	"authors": [
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust"
+		}
+	],
+	"description": "获取某地疫情数据",
+	"last_updated": 1687226511,
+	"stars": 16
+}

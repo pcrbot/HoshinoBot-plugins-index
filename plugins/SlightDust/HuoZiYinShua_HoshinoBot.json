@@ -1,0 +1,13 @@
+{
+	"name": "otto活字印刷",
+	"link": "https://github.com/SlightDust/HuoZiYinShua_HoshinoBot",
+	"authors": [
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust/"
+		}
+	],
+	"description": "电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua)",
+	"last_updated": 1736485289,
+	"stars": 2
+}

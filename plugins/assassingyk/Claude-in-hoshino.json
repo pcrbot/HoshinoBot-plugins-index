@@ -1,0 +1,13 @@
+{
+	"name": "Claude-in-hoshino",
+	"link": "https://github.com/assassingyk/Claude-in-hoshino",
+	"authors": [
+		{
+			"name": "@assassingyk",
+			"link": "https://github.com/assassingyk"
+		}
+	],
+	"description": "适用hoshino bot的claude for slack插件",
+	"last_updated": 1690292767,
+	"stars": 2
+}

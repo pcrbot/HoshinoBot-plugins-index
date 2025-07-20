@@ -1,0 +1,13 @@
+{
+	"name": "疫情出行政策查询",
+	"link": "https://github.com/SlightDust/travelpolicy_HoshinoBot",
+	"authors": [
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust"
+		}
+	],
+	"description": "查询疫情出行政策。年关将至大家注意安全做好个人防护。",
+	"last_updated": 1687226512,
+	"stars": 9
+}

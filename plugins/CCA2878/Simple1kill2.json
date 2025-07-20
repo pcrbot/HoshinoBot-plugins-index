@@ -1,0 +1,13 @@
+{
+	"name": "一穿二补偿计算",
+	"link": "https://github.com/CCA2878/Simple1kill2",
+	"authors": [
+		{
+			"name": "@CCA2878",
+			"link": "https://github.com/CCA2878"
+		}
+	],
+	"description": "计算填补一穿二到底要填多少伤害。",
+	"last_updated": 1643103043,
+	"stars": 0
+}

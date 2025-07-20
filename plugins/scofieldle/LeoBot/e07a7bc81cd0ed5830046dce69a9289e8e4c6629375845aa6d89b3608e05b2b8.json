@@ -1,0 +1,13 @@
+{
+	"name": "cp",
+	"link": "https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/cp",
+	"authors": [
+		{
+			"name": "@scofieldle",
+			"link": "https://github.com/scofieldle"
+		}
+	],
+	"description": "土味情话小插件",
+	"last_updated": 1718437305,
+	"stars": 26
+}

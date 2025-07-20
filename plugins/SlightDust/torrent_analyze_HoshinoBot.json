@@ -1,0 +1,13 @@
+{
+	"name": "验车/磁链信息",
+	"link": "https://github.com/SlightDust/torrent_analyze_HoshinoBot",
+	"authors": [
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust/"
+		}
+	],
+	"description": "解析磁链信息，通过whatslink.info API",
+	"last_updated": 1752691761,
+	"stars": 2
+}

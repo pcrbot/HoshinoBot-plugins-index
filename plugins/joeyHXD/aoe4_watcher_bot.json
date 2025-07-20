@@ -1,0 +1,13 @@
+{
+	"name": "帝国时代4战绩通报插件",
+	"link": "https://github.com/joeyHXD/aoe4_watcher_bot",
+	"authors": [
+		{
+			"name": "@joeyHXD",
+			"link": "https://github.com/joeyHXD"
+		}
+	],
+	"description": "从aoe4world爬取最新战绩",
+	"last_updated": 1732099009,
+	"stars": 3
+}

@@ -1,0 +1,13 @@
+{
+	"name": "反并发",
+	"link": "https://github.com/GWYOG/GWYOG-Hoshino-plugins#7-反并发插件anticoncurrency",
+	"authors": [
+		{
+			"name": "@GWYOG",
+			"link": "https://github.com/GWYOG"
+		}
+	],
+	"description": "阻止多个小游戏同时进行",
+	"last_updated": 1752222195,
+	"stars": 125
+}

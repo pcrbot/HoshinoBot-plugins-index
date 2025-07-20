@@ -1,0 +1,13 @@
+{
+	"name": "代刀私聊插件",
+	"link": "https://github.com/sdyxxjj123/Daidao",
+	"authors": [
+		{
+			"name": "@sdyxxjj123",
+			"link": "https://github.com/sdyxxjj123"
+		}
+	],
+	"description": "记录正在代刀，代挂树，暂停伤害，锁助战等",
+	"last_updated": 1717572240,
+	"stars": 13
+}

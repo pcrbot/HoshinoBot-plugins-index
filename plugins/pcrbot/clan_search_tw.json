@@ -1,0 +1,13 @@
+{
+	"name": "台服会战排名查询",
+	"link": "https://github.com/pcrbot/clan_search_tw",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		}
+	],
+	"description": "查询台服的会战排名和档线（数据来自infedg.xyz和layvtwt.top）",
+	"last_updated": 1720245087,
+	"stars": 5
+}

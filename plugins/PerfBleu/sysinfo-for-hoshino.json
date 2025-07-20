@@ -1,0 +1,13 @@
+{
+	"name": "sysinfo-for-hoshino",
+	"link": "https://github.com/PerfBleu/sysinfo-for-hoshino",
+	"authors": [
+		{
+			"name": "@PerfBleu",
+			"link": "https://github.com/PerfBleu"
+		}
+	],
+	"description": "调用screenfetch获取系统信息",
+	"last_updated": 1696334416,
+	"stars": 1
+}

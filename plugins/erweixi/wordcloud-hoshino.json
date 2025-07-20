@@ -1,0 +1,13 @@
+{
+	"name": "词云",
+	"link": "https://github.com/erweixi/wordcloud-hoshino",
+	"authors": [
+		{
+			"name": "@erweixi",
+			"link": "https://github.com/erweixi"
+		}
+	],
+	"description": "基于聊天记录log而生成的词云",
+	"last_updated": 1698408633,
+	"stars": 9
+}

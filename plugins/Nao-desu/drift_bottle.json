@@ -1,0 +1,13 @@
+{
+	"name": "漂流瓶",
+	"link": "https://github.com/Nao-desu/drift_bottle",
+	"authors": [
+		{
+			"name": "@Nao-desu",
+			"link": "https://github.com/Nao-desu"
+		}
+	],
+	"description": "hoshino的漂流瓶插件，可在不同群之间传递消息",
+	"last_updated": 1700768816,
+	"stars": 2
+}

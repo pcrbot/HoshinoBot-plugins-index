@@ -1,0 +1,13 @@
+{
+	"name": "出刀贡献以权重来计算排名",
+	"link": "https://github.com/Tcelps/pcr_maofen",
+	"authors": [
+		{
+			"name": "@Tcelps",
+			"link": "https://github.com/Tcelps"
+		}
+	],
+	"description": "人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名",
+	"last_updated": 1620956017,
+	"stars": 0
+}

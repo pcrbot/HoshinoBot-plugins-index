@@ -1,0 +1,117 @@
+<mat-toolbar id="app-header-bar">
+  <mat-toolbar-row>
+    <a
+      mat-button
+      href="https://github.com/pcrbot/HoshinoBot-plugins-index/issues"
+      target="_blank"
+      class="button-with-icon-text"
+    >
+      <mat-icon fontIcon="assignment_add" class="button-icon" />
+      提交插件
+    </a>
+    <span class="spacer"></span>
+    <h1 class="title-inline">HoshinoBot 作品索引</h1>
+    <span class="spacer"></span>
+    <a
+      mat-button
+      href="https://github.com/pcrbot/HoshinoBot-plugins-index"
+      target="_blank"
+      class="button-with-icon-text"
+    >
+      <mat-icon svgIcon="github" class="button-icon" />
+      GitHub 仓库
+    </a>
+  </mat-toolbar-row>
+</mat-toolbar>
+
+<div class="table-container">
+  <table mat-table [dataSource]="displayedPlugins()">
+    <ng-container matColumnDef="title">
+      <th mat-header-cell *matHeaderCellDef>
+        <span class="sortable-header">
+          插件
+          <button mat-icon-button (click)="sortClicked('name')">
+            <mat-icon>
+              @if (orderBy() === 'name') {
+              {{ reverseOrder() ? "arrow_upward" : "arrow_downward" }}
+              } @else { sort }</mat-icon
+            >
+          </button>
+        </span>
+      </th>
+      <td mat-cell *matCellDef="let element">
+        <a [href]="element.link" target="_blank" rel="noopener noreferrer">{{
+          element.name
+        }}</a>
+      </td>
+    </ng-container>
+    <ng-container matColumnDef="stars">
+      <th mat-header-cell *matHeaderCellDef>
+        <span class="sortable-header">
+          收藏
+          <button mat-icon-button (click)="sortClicked('stars')">
+            <mat-icon>
+              @if (orderBy() === 'stars') {
+              {{ reverseOrder() ? "arrow_upward" : "arrow_downward" }}
+              } @else { sort }</mat-icon
+            >
+          </button>
+        </span>
+      </th>
+      <td mat-cell *matCellDef="let element">{{ element.stars }}</td>
+    </ng-container>
+    <ng-container matColumnDef="authors">
+      <th mat-header-cell *matHeaderCellDef>
+        <span class="sortable-header">
+          作者
+          <button mat-icon-button (click)="sortClicked('authors')">
+            <mat-icon>
+              @if (orderBy() === 'authors') {
+              {{ reverseOrder() ? "arrow_upward" : "arrow_downward" }}
+              } @else { sort }</mat-icon
+            >
+          </button>
+        </span>
+      </th>
+      <td mat-cell *matCellDef="let element">
+        @for (author of element.authors; track $index) {
+        <a [href]="author.link" target="_blank" rel="noopener noreferrer">{{
+          author.name
+        }}</a
+        >{{ $last ? "" : " " }}
+        }
+      </td>
+    </ng-container>
+    <ng-container matColumnDef="description">
+      <th mat-header-cell *matHeaderCellDef>功能描述</th>
+      <td mat-cell *matCellDef="let element">
+        <app-md-link [mdContent]="element.description"></app-md-link>
+      </td>
+    </ng-container>
+    <ng-container matColumnDef="last_updated">
+      <th
+        mat-header-cell
+        *matHeaderCellDef
+        (click)="orderBy.set('last_updated')"
+      >
+        <span class="sortable-header">
+          最后更新
+          <button mat-icon-button (click)="sortClicked('last_updated')">
+            <mat-icon>
+              @if (orderBy() === 'last_updated') {
+              {{ reverseOrder() ? "arrow_upward" : "arrow_downward" }}
+              } @else { sort }
+            </mat-icon>
+          </button>
+        </span>
+      </th>
+      <td mat-cell *matCellDef="let element">
+        @if (element.last_updated) {
+        {{ element.last_updated * 1000 | date : "yyyy/MM/dd" }}
+        }
+      </td>
+    </ng-container>
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+  </table>
+</div>

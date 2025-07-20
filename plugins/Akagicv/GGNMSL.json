@@ -1,0 +1,13 @@
+{
+	"name": "反广告插件-GGNMSL",
+	"link": "https://github.com/Akagicv/GGNMSL",
+	"authors": [
+		{
+			"name": "@Akagi_cv",
+			"link": "https://github.com/Akagicv"
+		}
+	],
+	"description": "基于海豹杀手pcrsealkiller插件思路制作的关键词匹配/图片文字识别/二维码链接识别的反广告插件。",
+	"last_updated": 1715052632,
+	"stars": 4
+}

@@ -1,0 +1,13 @@
+{
+	"name": "github仓库监控插件",
+	"link": "https://github.com/azmiao/github_reminder",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		}
+	],
+	"description": "查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引）",
+	"last_updated": 1710252772,
+	"stars": 8
+}

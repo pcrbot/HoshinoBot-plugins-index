@@ -1,0 +1,13 @@
+{
+	"name": "头像表情包生成器",
+	"link": "https://github.com/Lanly109/headimg_generator",
+	"authors": [
+		{
+			"name": "@Lanly109",
+			"link": "https://github.com/Lanly109"
+		}
+	],
+	"description": "移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器",
+	"last_updated": 1750665495,
+	"stars": 59
+}

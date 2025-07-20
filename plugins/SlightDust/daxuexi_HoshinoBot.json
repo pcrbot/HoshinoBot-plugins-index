@@ -1,0 +1,13 @@
+{
+	"name": "青年大学习",
+	"link": "https://github.com/SlightDust/daxuexi_HoshinoBot",
+	"authors": [
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust/"
+		}
+	],
+	"description": "获取本期青年大学习的答案",
+	"last_updated": 1726294653,
+	"stars": 9
+}

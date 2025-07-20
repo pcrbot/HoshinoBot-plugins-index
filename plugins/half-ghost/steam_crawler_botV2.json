@@ -1,0 +1,13 @@
+{
+	"name": "steam_crawler_botV2",
+	"link": "https://github.com/half-ghost/steam_crawler_botV2",
+	"authors": [
+		{
+			"name": "@half-ghost",
+			"link": "https://github.com/half-ghost"
+		}
+	],
+	"description": "steam_crawler_bot插件第二版，新增了一些功能",
+	"last_updated": 1746772444,
+	"stars": 17
+}

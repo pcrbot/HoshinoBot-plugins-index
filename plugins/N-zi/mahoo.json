@@ -1,0 +1,13 @@
+{
+	"name": "游戏王印卡",
+	"link": "https://github.com/N-zi/mahoo",
+	"authors": [
+		{
+			"name": "@N-zi",
+			"link": "https://github.com/N-zi"
+		}
+	],
+	"description": "游戏王卡图生成",
+	"last_updated": 1662570160,
+	"stars": 5
+}

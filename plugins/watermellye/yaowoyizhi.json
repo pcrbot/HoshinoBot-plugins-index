@@ -1,0 +1,17 @@
+{
+	"name": "图片套娃",
+	"link": "https://github.com/watermellye/yaowoyizhi/",
+	"authors": [
+		{
+			"name": "@ellye",
+			"link": "https://github.com/watermellye"
+		},
+		{
+			"name": "@mahosho",
+			"link": "https://github.com/mahosho"
+		}
+	],
+	"description": "[要我一直img吗](https://github.com/pcrbot/yaowoyizhi)重构版，新增套娃和支持自定义文字。",
+	"last_updated": 1711631956,
+	"stars": 3
+}

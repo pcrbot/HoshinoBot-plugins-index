@@ -1,0 +1,13 @@
+{
+	"name": "clanbattle_report",
+	"link": "https://github.com/zyujs/clanbattle_report",
+	"authors": [
+		{
+			"name": "@zyujs",
+			"link": "https://github.com/zyujs"
+		}
+	],
+	"description": "生成yobot会战报告",
+	"last_updated": 1745949105,
+	"stars": 27
+}

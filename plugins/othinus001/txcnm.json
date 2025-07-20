@@ -1,0 +1,13 @@
+{
+	"name": "风控冻结自动切号",
+	"link": "https://github.com/othinus001/txcnm",
+	"authors": [
+		{
+			"name": "@othinus001",
+			"link": "https://github.com/othinus001"
+		}
+	],
+	"description": "通过读gocq的日志，解决色图和会战风控被冻的需求，2-3个号就够了，只要号多就腾讯就赶不上我风控的速度",
+	"last_updated": 1705307697,
+	"stars": 14
+}

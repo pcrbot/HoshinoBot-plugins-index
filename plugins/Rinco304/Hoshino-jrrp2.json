@@ -1,0 +1,13 @@
+{
+	"name": "今日人品2",
+	"link": "https://github.com/Rinco304/Hoshino-jrrp2",
+	"authors": [
+		{
+			"name": "@Rinco304",
+			"link": "https://github.com/Rinco304"
+		}
+	],
+	"description": "适用于HoshinoBot的带数据库可查询历史平均人品的jrrp插件",
+	"last_updated": 1701166895,
+	"stars": 0
+}

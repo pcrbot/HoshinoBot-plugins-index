@@ -1,0 +1,13 @@
+{
+	"name": "PCR赛跑（带下注）",
+	"link": "https://github.com/Rs794613/PcrRun",
+	"authors": [
+		{
+			"name": "@Rs794613",
+			"link": "https://github.com/Rs794613"
+		}
+	],
+	"description": "带下注和技能的pcr角色赛跑，可以自己设计角色。",
+	"last_updated": 1735578160,
+	"stars": 11
+}

@@ -1,0 +1,13 @@
+{
+	"name": "群聊关键消息记录",
+	"link": "https://github.com/CYDXDianXian/chat_count",
+	"authors": [
+		{
+			"name": "@CYDXDianXian",
+			"link": "https://github.com/CYDXDianXian"
+		}
+	],
+	"description": "该插件可记录群聊中某关键字的触发次数、时间、与完整消息，并可对储存记录的消息方便的进行读取，以查看群友们都围绕该关键字说了什么",
+	"last_updated": 1680107024,
+	"stars": 7
+}

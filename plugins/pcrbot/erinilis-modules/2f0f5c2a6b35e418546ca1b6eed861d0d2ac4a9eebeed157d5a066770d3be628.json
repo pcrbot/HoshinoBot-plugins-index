@@ -1,0 +1,13 @@
+{
+	"name": "egenshin",
+	"link": "https://github.com/pcrbot/erinilis-modules/tree/master/egenshin",
+	"authors": [
+		{
+			"name": "@yuyumoko",
+			"link": "https://github.com/yuyumoko"
+		}
+	],
+	"description": "UID查询 抽卡 猜语音 原神公告推送 材料刷新定时器",
+	"last_updated": 1752222194,
+	"stars": 139
+}

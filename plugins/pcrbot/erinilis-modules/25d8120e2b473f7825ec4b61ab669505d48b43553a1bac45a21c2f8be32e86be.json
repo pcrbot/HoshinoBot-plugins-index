@@ -1,0 +1,13 @@
+{
+	"name": "风纪",
+	"link": "https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack",
+	"authors": [
+		{
+			"name": "@yuyumoko",
+			"link": "https://github.com/yuyumoko"
+		}
+	],
+	"description": "NGA 风纪区黑名单查询",
+	"last_updated": 1752222194,
+	"stars": 139
+}

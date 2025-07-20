@@ -1,0 +1,13 @@
+{
+	"name": "LocalSetu",
+	"link": "https://github.com/pcrbot/LocalSetu",
+	"authors": [
+		{
+			"name": "@benx1n",
+			"link": "https://github.com/benx1n"
+		}
+	],
+	"description": "可协同维护图库质量的本地setu插件，支持私聊上传、自动审核、获取P站TAG、原画",
+	"last_updated": 1748423884,
+	"stars": 20
+}

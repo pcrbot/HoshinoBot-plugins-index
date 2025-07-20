@@ -1,0 +1,11 @@
+{
+	"name": "Hoshino-installer",
+	"link": "https://github.com/pcrbot/hoshino-installer",
+	"authors": [
+		{
+			"name": "@yuudi",
+			"link": "https://github.com/yuudi"
+		}
+	],
+	"description": "HoshinoBot 一键安装脚本"
+}

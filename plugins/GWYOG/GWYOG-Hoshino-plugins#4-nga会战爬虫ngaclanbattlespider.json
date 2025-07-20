@@ -1,0 +1,13 @@
+{
+	"name": "nga",
+	"link": "https://github.com/GWYOG/GWYOG-Hoshino-plugins#4-nga会战爬虫ngaclanbattlespider",
+	"authors": [
+		{
+			"name": "@GWYOG",
+			"link": "https://github.com/GWYOG"
+		}
+	],
+	"description": "监控推送论坛关键词",
+	"last_updated": 1752222195,
+	"stars": 125
+}

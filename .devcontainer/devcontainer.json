@@ -1,0 +1,10 @@
+{
+	"name": "HoshinoBot-plugins-index",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+	"features": {
+		"ghcr.io/devcontainers/features/python:1": {},
+		"ghcr.io/devcontainers-extra/features/angular-cli:2": {
+			"version": "20"
+		}
+	}
+}

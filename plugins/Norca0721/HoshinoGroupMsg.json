@@ -1,0 +1,13 @@
+{
+	"name": "HoshinoGroupMsg",
+	"link": "https://github.com/Norca0721/HoshinoGroupMsg",
+	"authors": [
+		{
+			"name": "@Norca0721",
+			"link": "https://github.com/Norca0721"
+		}
+	],
+	"description": "适用于 HoshinoBot 的群发消息插件",
+	"last_updated": 1742897725,
+	"stars": 0
+}

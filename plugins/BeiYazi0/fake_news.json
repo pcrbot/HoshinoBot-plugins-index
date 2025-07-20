@@ -1,0 +1,13 @@
+{
+	"name": "伪造消息",
+	"link": "https://github.com/BeiYazi0/fake_news",
+	"authors": [
+		{
+			"name": "@贝亚子零号",
+			"link": "https://github.com/BeiYazi0"
+		}
+	],
+	"description": "一个适用于HoshinoBot的伪造群聊消息插件",
+	"last_updated": 1711111127,
+	"stars": 3
+}

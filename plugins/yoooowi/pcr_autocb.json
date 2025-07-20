@@ -1,0 +1,13 @@
+{
+	"name": "autocb",
+	"link": "https://github.com/yoooowi/pcr_autocb",
+	"authors": [
+		{
+			"name": "@yoooowi",
+			"link": "https://github.com/yoooowi/"
+		}
+	],
+	"description": "自动获取国服公会战进度及排名，推送boss变更，保存每日出刀记录等，附带魔改版会战报告",
+	"last_updated": 1687963785,
+	"stars": 11
+}

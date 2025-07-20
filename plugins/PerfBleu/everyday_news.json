@@ -1,0 +1,13 @@
+{
+	"name": "everyday_news",
+	"link": "https://github.com/PerfBleu/everyday_news",
+	"authors": [
+		{
+			"name": "@PerfBleu",
+			"link": "https://github.com/PerfBleu"
+		}
+	],
+	"description": "适用于Hoshino的每日简报",
+	"last_updated": 1673856698,
+	"stars": 2
+}

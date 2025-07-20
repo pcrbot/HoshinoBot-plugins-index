@@ -1,0 +1,13 @@
+{
+	"name": "扫雷游戏",
+	"link": "https://github.com/eggggi/mine_sweeper",
+	"authors": [
+		{
+			"name": "@eggggi",
+			"link": "https://github.com/eggggi"
+		}
+	],
+	"description": "群内小游戏",
+	"last_updated": 1723069032,
+	"stars": 7
+}

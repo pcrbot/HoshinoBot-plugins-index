@@ -1,0 +1,13 @@
+{
+	"name": "生日",
+	"link": "https://github.com/pcrbot/birthday",
+	"authors": [
+		{
+			"name": "@ZforVendetta",
+			"link": "https://github.com/ZforVendetta"
+		}
+	],
+	"description": "角色生日提醒、查询",
+	"last_updated": 1748345736,
+	"stars": 4
+}

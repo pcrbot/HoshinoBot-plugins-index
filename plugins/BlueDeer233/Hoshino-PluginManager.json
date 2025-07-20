@@ -1,0 +1,13 @@
+{
+	"name": "插件管理",
+	"link": "https://github.com/BlueDeer233/Hoshino-PluginManager",
+	"authors": [
+		{
+			"name": "@BlueDeer233",
+			"link": "https://github.com/BlueDeer233"
+		}
+	],
+	"description": "适用于hoshinobot的简易插件管理插件，支持插件的热加载、热卸载与热重载",
+	"last_updated": 1696415478,
+	"stars": 9
+}

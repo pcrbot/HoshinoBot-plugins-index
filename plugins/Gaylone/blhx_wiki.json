@@ -1,0 +1,13 @@
+{
+	"name": "blhx_wiki",
+	"link": "https://github.com/Gaylone/blhx_wiki",
+	"authors": [
+		{
+			"name": "@Gaylone",
+			"link": "https://github.com/Gaylone"
+		}
+	],
+	"description": "碧蓝航线wiki用于获取舰船信息，立绘，推荐出装等信息",
+	"last_updated": 1751706888,
+	"stars": 17
+}

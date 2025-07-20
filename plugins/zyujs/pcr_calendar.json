@@ -1,0 +1,13 @@
+{
+	"name": "pcr_calendar",
+	"link": "https://github.com/zyujs/pcr_calendar",
+	"authors": [
+		{
+			"name": "@zyujs",
+			"link": "https://github.com/zyujs"
+		}
+	],
+	"description": "推送和查询国/日/台服活动 日历",
+	"last_updated": 1747126257,
+	"stars": 31
+}

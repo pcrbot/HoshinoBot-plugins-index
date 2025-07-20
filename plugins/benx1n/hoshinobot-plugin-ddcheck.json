@@ -1,0 +1,17 @@
+{
+	"name": "hoshinobot-plugin-ddcheck",
+	"link": "https://github.com/benx1n/hoshinobot-plugin-ddcheck",
+	"authors": [
+		{
+			"name": "@MeetWq",
+			"link": "https://github.com/MeetWq"
+		},
+		{
+			"name": "@benx1n",
+			"link": "https://github.com/benx1n"
+		}
+	],
+	"description": "移植自[nonebot-plugin-ddcheck](https://github.com/noneplugin/nonebot-plugin-ddcheck)的DD成分姬插件，支持生成含牌子等级的关注列表图片",
+	"last_updated": 1723902562,
+	"stars": 4
+}

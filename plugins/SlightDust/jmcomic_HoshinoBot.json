@@ -1,0 +1,13 @@
+{
+	"name": "禁漫转pdf",
+	"link": "https://github.com/SlightDust/jmcomic_HoshinoBot",
+	"authors": [
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust/"
+		}
+	],
+	"description": "下载jmcomic并转为加密pdf上传到群文件",
+	"last_updated": 1746860946,
+	"stars": 1
+}

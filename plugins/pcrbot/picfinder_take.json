@@ -1,0 +1,13 @@
+{
+	"name": "picfinder_take",
+	"link": "https://github.com/pcrbot/picfinder_take",
+	"authors": [
+		{
+			"name": "@assassingyk",
+			"link": "https://github.com/assassingyk"
+		}
+	],
+	"description": "仿cqpf风格搜图插件（竹竹量产计划）",
+	"last_updated": 1697789124,
+	"stars": 44
+}

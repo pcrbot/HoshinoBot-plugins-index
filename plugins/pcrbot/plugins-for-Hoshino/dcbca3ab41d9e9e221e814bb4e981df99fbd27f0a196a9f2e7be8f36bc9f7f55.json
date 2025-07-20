@@ -1,0 +1,13 @@
+{
+	"name": "rua",
+	"link": "https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua",
+	"authors": [
+		{
+			"name": "@shewinder",
+			"link": "https://github.com/shewinder"
+		}
+	],
+	"description": "发送一张搓群友头像的 gif 图片",
+	"last_updated": 1752222194,
+	"stars": 116
+}

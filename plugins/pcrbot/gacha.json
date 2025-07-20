@@ -1,0 +1,13 @@
+{
+	"name": "抽卡",
+	"link": "https://github.com/pcrbot/gacha",
+	"authors": [
+		{
+			"name": "@var-mixer",
+			"link": "https://github.com/var-mixer"
+		}
+	],
+	"description": "自动更新的全限定卡池",
+	"last_updated": 1739528091,
+	"stars": 51
+}

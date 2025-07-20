@@ -1,0 +1,54 @@
+name: publish
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  publish:
+    if: contains(github.event.issue.labels.*.name, 'publish')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get Issue Body
+        id: get_issue_body
+        run: |
+          BODY_FILE=$(mktemp)
+          echo "body_file=$BODY_FILE" >> $GITHUB_OUTPUT
+          echo "Fetching Issue body..."
+          gh issue view ${{ github.event.issue.number }} --json body --jq '.body' > "$BODY_FILE"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Cache Python packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('.ci/requirement.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Run Script
+        run: |
+          pip install -r .ci/requirement.txt
+          python .ci/publish.py "${{ steps.get_issue_body.outputs.body_file }}"
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          BRANCH="ci/publish-issue-${{ github.event.issue.number }}"
+          git checkout -b "$BRANCH"
+          git add plugins/
+          git commit -m "Publish issue #${{ github.event.issue.number }}" || echo "No changes to commit"
+          git push -u origin "$BRANCH"
+          gh pr create --title "Publish issue #${{ github.event.issue.number }}" --base "master" --head "$BRANCH" --repo "$GITHUB_REPOSITORY"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

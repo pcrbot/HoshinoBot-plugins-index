@@ -1,0 +1,13 @@
+{
+	"name": "图像混合",
+	"link": "https://github.com/BeiYazi0/Img_Mix",
+	"authors": [
+		{
+			"name": "@贝亚子零号",
+			"link": "https://github.com/BeiYazi0"
+		}
+	],
+	"description": "一个适用于HoshinoBot的图像混合插件",
+	"last_updated": 1711111091,
+	"stars": 2
+}

@@ -1,0 +1,13 @@
+{
+	"name": "clanbattle_info",
+	"link": "https://github.com/zyujs/clanbattle_info",
+	"authors": [
+		{
+			"name": "@zyujs",
+			"link": "https://github.com/zyujs"
+		}
+	],
+	"description": "国服会战出刀信息推 送及yobot自动报刀",
+	"last_updated": 1748162861,
+	"stars": 45
+}

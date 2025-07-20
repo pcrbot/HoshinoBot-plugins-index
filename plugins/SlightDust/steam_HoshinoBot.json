@@ -1,0 +1,17 @@
+{
+	"name": "steam群友游戏状态播报",
+	"link": "https://github.com/SlightDust/steam_HoshinoBot",
+	"authors": [
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust"
+		},
+		{
+			"name": "@GaryDu0123",
+			"link": "https://github.com/GaryDu0123"
+		}
+	],
+	"description": "[pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下",
+	"last_updated": 1747619849,
+	"stars": 4
+}

@@ -1,0 +1,13 @@
+{
+	"name": "币安推送",
+	"link": "https://github.com/scofieldle/LeoBot/tree/main/hoshino/modules/bianPush",
+	"authors": [
+		{
+			"name": "@scofieldle",
+			"link": "https://github.com/scofieldle"
+		}
+	],
+	"description": "本插件用于动态监测币安上各种货币涨跌情况",
+	"last_updated": 1718437305,
+	"stars": 26
+}

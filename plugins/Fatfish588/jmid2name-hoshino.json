@@ -1,0 +1,13 @@
+{
+	"name": "禁漫ID转本子名",
+	"link": "https://github.com/Fatfish588/jmid2name-hoshino",
+	"authors": [
+		{
+			"name": "@Fatfish588",
+			"link": "https://github.com/Fatfish588"
+		}
+	],
+	"description": "发送JM数字ID，自动搜索出本子的书名、作者与标签。",
+	"last_updated": 1751771161,
+	"stars": 41
+}

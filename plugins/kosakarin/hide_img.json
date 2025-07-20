@@ -1,0 +1,13 @@
+{
+	"name": "幻影坦克生成器",
+	"link": "https://github.com/kosakarin/hide_img",
+	"authors": [
+		{
+			"name": "@kosakarin",
+			"link": "https://github.com/kosakarin"
+		}
+	],
+	"description": "发送两张图片生成幻影坦克",
+	"last_updated": 1650551150,
+	"stars": 2
+}

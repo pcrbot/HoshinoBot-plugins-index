@@ -1,0 +1,13 @@
+{
+	"name": "HoshinoBot-Plugins",
+	"link": "https://github.com/mengshouer/HoshinoBot-Plugins",
+	"authors": [
+		{
+			"name": "@mengshouer",
+			"link": "https://github.com/mengshouer"
+		}
+	],
+	"description": "常用的插件有： bilibili解析、直链获取、RSS",
+	"last_updated": 1723902558,
+	"stars": 48
+}

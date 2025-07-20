@@ -1,0 +1,13 @@
+{
+	"name": "授权管理精简版",
+	"link": "https://github.com/azmiao/authMS_lite",
+	"authors": [
+		{
+			"name": "@azmiao",
+			"link": "https://github.com/azmiao"
+		}
+	],
+	"description": "[授权管理](https://github.com/pcrbot/authMS)的自用精简版\n适配v1.0.0+的go-cqhttp\n其他各种精简和优化修改",
+	"last_updated": 1723902570,
+	"stars": 1
+}

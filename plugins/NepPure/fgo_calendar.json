@@ -1,0 +1,13 @@
+{
+	"name": "FGO日历",
+	"link": "https://github.com/NepPure/fgo_calendar",
+	"authors": [
+		{
+			"name": "@NepPure",
+			"link": "https://github.com/NepPure"
+		}
+	],
+	"description": "[@zyujs](https://github.com/zyujs)风格FGO日历，数据源B服官网新闻",
+	"last_updated": 1663931886,
+	"stars": 2
+}

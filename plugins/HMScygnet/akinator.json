@@ -1,0 +1,13 @@
+{
+	"name": "网络天才",
+	"link": "https://github.com/HMScygnet/akinator",
+	"authors": [
+		{
+			"name": "@HMScygnet",
+			"link": "https://github.com/HMScygnet"
+		}
+	],
+	"description": "网络天才小游戏，可以猜出你心里想的人物",
+	"last_updated": 1728056153,
+	"stars": 7
+}

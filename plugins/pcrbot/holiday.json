@@ -1,0 +1,13 @@
+{
+	"name": "假期查询",
+	"link": "https://github.com/pcrbot/holiday",
+	"authors": [
+		{
+			"name": "@HMScygnet",
+			"link": "https://github.com/HMScygnet"
+		}
+	],
+	"description": "用来查询假期与调休的插件",
+	"last_updated": 1648133004,
+	"stars": 3
+}

@@ -1,0 +1,13 @@
+{
+	"name": "直播提醒",
+	"link": "https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/liveNotice",
+	"authors": [
+		{
+			"name": "@shewinder",
+			"link": "https://github.com/shewinder"
+		}
+	],
+	"description": "",
+	"last_updated": 1752222194,
+	"stars": 116
+}

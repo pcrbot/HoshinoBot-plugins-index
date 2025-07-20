@@ -1,0 +1,13 @@
+{
+	"name": "project sekai啤酒烧烤信息获取插件",
+	"link": "https://github.com/FLAG250/hoshino-plugin-pjsk",
+	"authors": [
+		{
+			"name": "@FLAG250",
+			"link": "https://github.com/FLAG250"
+		}
+	],
+	"description": "适用于hoshinobot的pjsk信息查询插件",
+	"last_updated": 1743424684,
+	"stars": 13
+}

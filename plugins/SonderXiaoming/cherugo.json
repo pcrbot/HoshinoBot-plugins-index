@@ -1,0 +1,13 @@
+{
+	"name": "切噜一下魔改版",
+	"link": "https://github.com/SonderXiaoming/cherugo",
+	"authors": [
+		{
+			"name": "@SonderXiaoming",
+			"link": "https://github.com/SonderXiaoming"
+		}
+	],
+	"description": "支持发送语音，改自原生插件",
+	"last_updated": 1662783690,
+	"stars": 1
+}

@@ -1,0 +1,13 @@
+{
+	"name": "闲聊反并发工具",
+	"link": "https://github.com/lhhxxxxx/hoshino_tool",
+	"authors": [
+		{
+			"name": "@lhhxxxxx",
+			"link": "https://github.com/lhhxxxxx"
+		}
+	],
+	"description": "防止使用@sv.on_message('group')的插件在其他使用hoshino接口的插件被调用时触发，推荐在各AI聊天插件中使用",
+	"last_updated": 1684949467,
+	"stars": 7
+}

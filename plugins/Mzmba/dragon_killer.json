@@ -1,0 +1,13 @@
+{
+	"name": "龙图检测",
+	"link": "https://github.com/Mzmba/dragon_killer",
+	"authors": [
+		{
+			"name": "@Mzmba",
+			"link": "https://github.com/Mzmba"
+		}
+	],
+	"description": "基于opencv的龙图检测插件，代码待优化",
+	"last_updated": 1726330461,
+	"stars": 12
+}

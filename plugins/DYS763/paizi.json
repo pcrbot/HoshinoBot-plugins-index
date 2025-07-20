@@ -1,0 +1,13 @@
+{
+	"name": "查牌子",
+	"link": "https://github.com/DYS763/paizi",
+	"authors": [
+		{
+			"name": "@DYS763",
+			"link": "https://github.com/DYS763"
+		}
+	],
+	"description": "用uid查询B站粉丝牌与对应的主播",
+	"last_updated": 1669224569,
+	"stars": 4
+}

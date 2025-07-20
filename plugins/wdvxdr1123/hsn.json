@@ -1,0 +1,11 @@
+{
+	"name": "Hoshino-cli",
+	"link": "https://github.com/pcrbot/hsn",
+	"authors": [
+		{
+			"name": "@wdvxdr1123",
+			"link": "https://github.com/wdvxdr1123"
+		}
+	],
+	"description": "命令行快速安装 HoshinoBot 插件"
+}

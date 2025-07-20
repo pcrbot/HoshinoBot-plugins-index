@@ -1,0 +1,17 @@
+{
+	"name": "奥利奥绘制",
+	"link": "https://github.com/C-Jun-GIT/Oreo",
+	"authors": [
+		{
+			"name": "@菌落",
+			"link": "https://github.com/C-Jun-GIT/Oreo"
+		},
+		{
+			"name": "@咕咕鸽",
+			"link": "https://github.com/Adminicoder"
+		}
+	],
+	"description": "通过排列组合来自定义属于自己的奥利奥吧！",
+	"last_updated": 1645858475,
+	"stars": 4
+}

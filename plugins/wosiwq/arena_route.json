@@ -1,0 +1,13 @@
+{
+	"name": "最优击剑路径",
+	"link": "https://github.com/wosiwq/arena_route",
+	"authors": [
+		{
+			"name": "@wosiwq",
+			"link": "https://github.com/wosiwq"
+		}
+	],
+	"description": "可自动计算竞技场的最优 击剑路径",
+	"last_updated": 1730532529,
+	"stars": 6
+}

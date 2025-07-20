@@ -1,0 +1,13 @@
+{
+	"name": "合刀",
+	"link": "https://github.com/bugaosuni59/my_Hoshinobot_plugins",
+	"authors": [
+		{
+			"name": "@bugaosuni59",
+			"link": "https://github.com/bugaosuni59"
+		}
+	],
+	"description": "合刀计算器(2刀)",
+	"last_updated": 1610178459,
+	"stars": 2
+}

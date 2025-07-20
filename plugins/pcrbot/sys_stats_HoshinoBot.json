@@ -1,0 +1,13 @@
+{
+	"name": "服务器信息查询（Linux版）",
+	"link": "https://github.com/pcrbot/sys_stats_HoshinoBot",
+	"authors": [
+		{
+			"name": "@SlightDust",
+			"link": "https://github.com/SlightDust"
+		}
+	],
+	"description": "查询服务器的平台、CPU、内存、硬盘信息。Windows平台下面有更好的",
+	"last_updated": 1682742404,
+	"stars": 3
+}

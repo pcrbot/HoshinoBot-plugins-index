@@ -1,0 +1,13 @@
+{
+	"name": "人脸合成",
+	"link": "https://github.com/pcrbot/erinilis-modules/tree/master/emergeface",
+	"authors": [
+		{
+			"name": "@yuyumoko",
+			"link": "https://github.com/yuyumoko"
+		}
+	],
+	"description": "两张图换脸",
+	"last_updated": 1752222194,
+	"stars": 139
+}

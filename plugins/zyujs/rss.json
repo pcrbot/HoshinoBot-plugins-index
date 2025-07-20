@@ -1,0 +1,13 @@
+{
+	"name": "rss",
+	"link": "https://github.com/zyujs/rss",
+	"authors": [
+		{
+			"name": "@zyujs",
+			"link": "https://github.com/zyujs"
+		}
+	],
+	"description": "通用型rss订阅插件,地河喵kkp!",
+	"last_updated": 1752595474,
+	"stars": 31
+}

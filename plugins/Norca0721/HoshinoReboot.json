@@ -1,0 +1,13 @@
+{
+	"name": "HoshinoReboot",
+	"link": "https://github.com/Norca0721/HoshinoReboot",
+	"authors": [
+		{
+			"name": "@Norca0721",
+			"link": "https://github.com/Norca0721"
+		}
+	],
+	"description": "适用于 HoshinoBot 的重启插件",
+	"last_updated": 1745851444,
+	"stars": 4
+}

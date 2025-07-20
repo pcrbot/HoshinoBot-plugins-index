@@ -1,0 +1,13 @@
+{
+	"name": "yobot多人申请出刀版",
+	"link": "https://github.com/fengjk12138/yobot",
+	"authors": [
+		{
+			"name": "@fengjk12138",
+			"link": "https://github.com/fengjk12138"
+		}
+	],
+	"description": "支持多人申请出刀、更新伤害信息等操作，方便筛刀和观察进入人数",
+	"last_updated": 1748451587,
+	"stars": 15
+}

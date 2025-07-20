@@ -1,0 +1,13 @@
+{
+	"name": "黑名单",
+	"link": "https://github.com/pcrbot/cappuccilo_plugins#拉黑插件",
+	"authors": [
+		{
+			"name": "@Cappuccilo",
+			"link": "https://github.com/Cappuccilo"
+		}
+	],
+	"description": "拉黑 指定成员",
+	"last_updated": 1752222195,
+	"stars": 47
+}

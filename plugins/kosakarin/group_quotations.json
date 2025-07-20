@@ -1,0 +1,13 @@
+{
+	"name": "群友语录",
+	"link": "https://github.com/kosakarin/group_quotations",
+	"authors": [
+		{
+			"name": "@kosakarin",
+			"link": "https://github.com/kosakarin"
+		}
+	],
+	"description": "仿照朋友的bot写的一个上传图片到bot的功能",
+	"last_updated": 1645711859,
+	"stars": 3
+}

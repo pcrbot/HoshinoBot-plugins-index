@@ -1,0 +1,13 @@
+{
+	"name": "clanbattle_rank",
+	"link": "https://github.com/zyujs/clanbattle_rank",
+	"authors": [
+		{
+			"name": "@zyujs",
+			"link": "https://github.com/zyujs"
+		}
+	],
+	"description": "国服会战排名查询和 推送",
+	"last_updated": 1672821319,
+	"stars": 14
+}
