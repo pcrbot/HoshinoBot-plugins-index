@@ -1,8 +1,7 @@
 {
 	"name": "HoshinoBot-plugins-index",
-	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
+	"image": "mcr.microsoft.com/devcontainers/python:3.13", // This image contains node.js 22
 	"features": {
-		"ghcr.io/devcontainers/features/python:1": {},
 		"ghcr.io/devcontainers-extra/features/angular-cli:2": {
 			"version": "20"
 		}
