@@ -4,6 +4,8 @@
 
 本内容已移动至：<https://hoshino-plugins.pcrbot.com/>
 
-## 发布内容
+新的页面具有排序、筛选功能
 
-请参考[贡献指南](https://github.com/pcrbot/HoshinoBot-plugins-index/blob/master/CONTRIBUTING.md)向此仓库发起 issue
+## 发布插件
+
+请前往 [发布插件](https://github.com/pcrbot/HoshinoBot-plugins-index/issues/new?template=publish.md) 并按照格式填写信息
