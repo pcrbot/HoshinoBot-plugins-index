@@ -8,6 +8,6 @@
 		}
 	],
 	"description": "steam爬虫插件，拥有的功能为：以steam和小黑盒官网作为数据来源，爬取游戏搜索结果、steam游戏特惠、新品等信息。以it之家为数据来源的喜加一信息爬取。",
-	"last_updated": 1698978283,
+	"last_updated": 1645858951,
 	"stars": 10
 }

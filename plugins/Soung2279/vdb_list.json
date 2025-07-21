@@ -8,6 +8,6 @@
 		}
 	],
 	"description": "以[VTuber Database](https://github.com/dd-center/vdb)为数据来源的vtuber查询功能，查询某人是否为vtb，并给出相关信息。可模糊匹配",
-	"last_updated": 1644311888,
+	"last_updated": 1635232332,
 	"stars": 3
 }

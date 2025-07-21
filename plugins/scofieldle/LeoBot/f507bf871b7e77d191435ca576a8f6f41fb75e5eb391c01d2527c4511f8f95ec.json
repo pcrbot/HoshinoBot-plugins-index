@@ -8,6 +8,6 @@
 		}
 	],
 	"description": "使用refresh_token和插件pixiv3直接获取P站插画，可根据画师ID和插画ID搜索相关的插画",
-	"last_updated": 1718437305,
+	"last_updated": 1655776187,
 	"stars": 26
 }

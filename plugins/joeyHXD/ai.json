@@ -8,6 +8,6 @@
 		}
 	],
 	"description": "以原版ai对话为基础，默认使用[青云客](https://api.qingyunke.com)的api，不需要开通腾讯智能服务也能使用，并且加入了反并发",
-	"last_updated": 1679127069,
+	"last_updated": 1666349094,
 	"stars": 4
 }
