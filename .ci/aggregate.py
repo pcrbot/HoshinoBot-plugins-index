@@ -51,9 +51,11 @@ def load_and_validate_json(file_path: Path, schema: Dict[str, Any]) -> Dict[str,
         print(f"✗ Error: File not found: {file_path}")
         return None
     except json.JSONDecodeError as e:
+        print(f"::warning file={file_path}::Invalid JSON")
         print(f"✗ Error: Invalid JSON in {file_path}: {e}")
         return None
     except jsonschema.ValidationError as e:
+        print(f"::warning file={file_path}::Schema validation failed")
         print(
             f"✗ Error: Schema validation failed for {file_path}: {e.message}")
         return None

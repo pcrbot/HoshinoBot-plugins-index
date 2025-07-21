@@ -1,4 +1,4 @@
-import { DatePipe } from "@angular/common";
+import { AsyncPipe, DatePipe } from "@angular/common";
 import { HttpClient } from "@angular/common/http";
 import { Component, computed, inject, OnInit, signal } from "@angular/core";
 import { MatTableModule } from "@angular/material/table";
@@ -7,6 +7,7 @@ import { MatButtonModule } from "@angular/material/button";
 import { MatToolbarModule } from "@angular/material/toolbar";
 import { MatIconModule, MatIconRegistry } from "@angular/material/icon";
 import { DomSanitizer } from "@angular/platform-browser";
+import { EditLinkPipe } from "./edit-link-pipe";
 
 type Plugin = {
   name: string;
@@ -25,7 +26,9 @@ type Plugin = {
     MatButtonModule,
     MatTableModule,
     DatePipe,
+    AsyncPipe,
     MdLink,
+    EditLinkPipe,
   ],
   templateUrl: "./app.html",
   styleUrl: "./app.scss",
@@ -35,6 +38,7 @@ export class App implements OnInit {
   plugins = signal<Plugin[]>([]);
   orderBy = signal<keyof Plugin>("last_updated");
   reverseOrder = signal(false);
+  editMode = signal(false);
 
   displayedPlugins = computed(() => {
     const orderBy = this.orderBy();
@@ -52,13 +56,11 @@ export class App implements OnInit {
     return plugins;
   });
 
-  displayedColumns = [
-    "title",
-    "stars",
-    "description",
-    "authors",
-    "last_updated",
-  ];
+  displayedColumns = computed(() =>
+    this.editMode()
+      ? ["title", "authors", "edit"]
+      : ["title", "stars", "description", "authors", "last_updated"]
+  );
 
   constructor() {
     this.setupSvgIcons();
@@ -91,5 +93,9 @@ export class App implements OnInit {
       this.orderBy.set(column);
       this.reverseOrder.set(false);
     }
+  }
+
+  editClicked() {
+    this.editMode.set(!this.editMode());
   }
 }

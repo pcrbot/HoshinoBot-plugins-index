@@ -9,6 +9,10 @@
       <mat-icon fontIcon="assignment_add" class="button-icon" />
       提交插件
     </a>
+    <button mat-button class="button-with-icon-text" (click)="editClicked()">
+      <mat-icon fontIcon="edit" class="button-icon" />
+      编辑条目
+    </button>
     <span class="spacer"></span>
     <h1 class="title-inline">HoshinoBot 作品索引</h1>
     <span class="spacer"></span>
@@ -111,7 +115,20 @@
         }
       </td>
     </ng-container>
-    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
-    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+    <ng-container matColumnDef="edit">
+      <th mat-header-cell *matHeaderCellDef>编辑</th>
+      <td mat-cell *matCellDef="let element">
+        <a
+          mat-icon-button
+          [href]="element.link | editLink | async"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <mat-icon fontIcon="edit" class="button-icon" />
+        </a>
+      </td>
+    </ng-container>
+    <tr mat-header-row *matHeaderRowDef="displayedColumns()"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns()"></tr>
   </table>
 </div>
