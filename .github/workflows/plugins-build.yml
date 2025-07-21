@@ -7,6 +7,7 @@ on:
     paths:
       - "plugins/**"
   workflow_dispatch: {}
+  workflow_call: {}
 
 jobs:
   plugins-build:
@@ -15,10 +16,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: checkout pages
-        uses: actions/checkout@v4
-        with:
-          ref: pages
-          path: pages
+        run: |
+          git fetch origin pages:pages --depth 1
+          git worktree add pages pages
 
       - uses: actions/setup-python@v5
         with:
@@ -44,7 +44,7 @@ jobs:
       - name: Update Table
         if: github.event_name != 'pull_request'
         run: |
-          git add .
+          git add ./README.md
           if [ -z "$(git status --porcelain)" ]; then
             echo "No changes to commit"
             exit 0

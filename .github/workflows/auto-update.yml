@@ -50,3 +50,11 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    outputs:
+      changed: ${{ steps.run-script.outputs.changed }}
+
+  plugins-build:
+    needs: autoupdate
+    if: needs.autoupdate.outputs.changed == 'true'
+    uses: ./.github/workflows/plugins-build.yml
+    secrets: inherit
