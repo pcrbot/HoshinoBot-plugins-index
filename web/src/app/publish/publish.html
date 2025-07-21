@@ -1,0 +1,67 @@
+<h2 mat-dialog-title>发布插件</h2>
+<mat-dialog-content>
+  <p>
+    这里不直接发布插件，而是发布的生成器。你需要一个GitHub账号来发布。当你点击下面的“发布”按钮后，会前往GitHub发布Issue。
+  </p>
+  <form [formGroup]="form" class="plugin-form">
+    <mat-form-field>
+      <mat-label>名称</mat-label>
+      <input matInput formControlName="name" />
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>链接</mat-label>
+      <input matInput formControlName="link" />
+      <mat-hint>
+        GitHub 仓库，或者仓库内部文件夹或者文件；也可以是外部链接
+      </mat-hint>
+    </mat-form-field>
+    <mat-form-field>
+      <mat-label>描述</mat-label>
+      <textarea matInput formControlName="description"></textarea>
+      <mat-hint>
+        如需换行请直接回车；如需包含链接，请用Markdown格式书写
+      </mat-hint>
+    </mat-form-field>
+    <ng-container formArrayName="authors">
+      @for (author of authors.controls; track $index; let i = $index) {
+      <ng-container formGroupName="{{ i }}">
+        <mat-form-field>
+          <mat-label>
+            作者名 @if(authors.length > 1) { {{ i + 1 }} }
+          </mat-label>
+          <input matInput formControlName="name" />
+          <mat-hint>英文或中文；如果是 GitHub 用户名建议加上 "@"</mat-hint>
+        </mat-form-field>
+        <mat-form-field>
+          <mat-label>
+            作者主页 @if(authors.length > 1) { {{ i + 1 }} }
+          </mat-label>
+          <input matInput formControlName="link" />
+          <mat-hint>个人主页，或 GitHub 主页</mat-hint>
+        </mat-form-field>
+      </ng-container>
+      }
+      <div class="author-buttons">
+        <button
+          mat-button
+          (click)="removeLastAuthor()"
+          [hidden]="authors.length === 1"
+        >
+          移除作者
+        </button>
+        <button mat-button (click)="addAuthor()">添加作者</button>
+      </div>
+    </ng-container>
+    <mat-form-field>
+      <mat-label>留言</mat-label>
+      <textarea matInput formControlName="comment"></textarea>
+      <mat-hint> 给审核的留言 </mat-hint>
+    </mat-form-field>
+  </form>
+</mat-dialog-content>
+<mat-dialog-actions>
+  <button matButton mat-dialog-close>取消</button>
+  <button matButton (click)="confirmClicked()" [disabled]="form.invalid">
+    前往GitHub发布
+  </button>
+</mat-dialog-actions>

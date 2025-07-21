@@ -28,6 +28,7 @@ export class EditLinkPipe implements PipeTransform {
       }
     }
 
-    return "https://github.com/pcrbot/HoshinoBot-plugins-index/tree/master/plugins";
+    const linkHash = await sha256Hex(pluginLink);
+    return `https://github.com/pcrbot/HoshinoBot-plugins-index/tree/master/plugins/others/${linkHash}.json`;
   }
 }

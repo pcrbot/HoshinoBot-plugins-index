@@ -8,6 +8,8 @@ import { MatToolbarModule } from "@angular/material/toolbar";
 import { MatIconModule, MatIconRegistry } from "@angular/material/icon";
 import { DomSanitizer } from "@angular/platform-browser";
 import { EditLinkPipe } from "./edit-link-pipe";
+import { MatDialog } from "@angular/material/dialog";
+import { Publish } from "./publish/publish";
 
 type Plugin = {
   name: string;
@@ -34,8 +36,9 @@ type Plugin = {
   styleUrl: "./app.scss",
 })
 export class App implements OnInit {
-  httpClient = inject(HttpClient);
-  plugins = signal<Plugin[]>([]);
+  private httpClient = inject(HttpClient);
+  private dialog = inject(MatDialog);
+  private plugins = signal<Plugin[]>([]);
   orderBy = signal<keyof Plugin>("last_updated");
   reverseOrder = signal(false);
   editMode = signal(false);
@@ -93,6 +96,10 @@ export class App implements OnInit {
       this.orderBy.set(column);
       this.reverseOrder.set(false);
     }
+  }
+
+  publishClicked() {
+    this.dialog.open(Publish, {});
   }
 
   editClicked() {

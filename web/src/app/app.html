@@ -1,14 +1,14 @@
 <mat-toolbar id="app-header-bar">
   <mat-toolbar-row>
-    <a
+    <button
       mat-button
-      href="https://github.com/pcrbot/HoshinoBot-plugins-index/issues/new?template=publish.md"
+      (click)="publishClicked()"
       target="_blank"
       class="button-with-icon-text"
     >
       <mat-icon fontIcon="assignment_add" class="button-icon" />
       提交插件
-    </a>
+    </button>
     <button mat-button class="button-with-icon-text" (click)="editClicked()">
       <mat-icon fontIcon="edit" class="button-icon" />
       编辑条目

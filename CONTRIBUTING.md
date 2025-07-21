@@ -6,4 +6,4 @@
 
 ## 发布插件
 
-请前往 [发布插件](https://github.com/pcrbot/HoshinoBot-plugins-index/issues/new?template=publish.md) 并按照格式填写信息
+请前往 [作品索引](https://hoshino-plugins.pcrbot.com/) 使用顶部按钮提交

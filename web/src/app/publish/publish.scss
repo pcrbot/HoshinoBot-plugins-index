@@ -1,0 +1,13 @@
+.plugin-form {
+  display: flex;
+  flex-direction: column;
+
+  > mat-form-field {
+    margin: 1em;
+  }
+}
+
+.author-buttons {
+  display: flex;
+  justify-content: center;
+}
