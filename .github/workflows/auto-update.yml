@@ -31,13 +31,17 @@ jobs:
         run: |
           pip install -r .ci/requirement.txt
           python .ci/update.py
-          changed="$(git status --untracked-files=no --porcelain)"
+          if [ -z "$(git status --untracked-files=no --porcelain)" ]; then
+          changed="false"
+          else
+          changed="true"
+          fi
           echo "changed=${changed}" >> $GITHUB_OUTPUT
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit if changed
-        if: steps.run-script.outputs.changed != ''
+        if: steps.run-script.outputs.changed == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"

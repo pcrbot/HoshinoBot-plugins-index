@@ -9,6 +9,7 @@ import sys
 from pathlib import Path
 from typing import List, Dict, Any
 import jsonschema
+import datetime
 
 
 def load_schema(schema_path: str) -> Dict[str, Any]:
@@ -64,6 +65,22 @@ def load_and_validate_json(file_path: Path, schema: Dict[str, Any]) -> Dict[str,
         return None
 
 
+def print_markdown_table_line(plugin: Dict[str, Any]) -> str:
+    authors = plugin.get('authors')
+    author_str = ' '.join(
+        [f"[{author.get('name')}]({author.get('link')})" for author in authors]
+    )
+    description = plugin.get('description', '')
+    description = description.replace('\n', '<br/>')
+    last_updated = plugin.get('last_updated', 0)  # timestamp
+    if last_updated > 0:
+        last_updated = datetime.datetime.fromtimestamp(
+            last_updated).strftime('%Y/%m/%d')
+    else:
+        last_updated = ''
+    return f"| [{plugin.get('name')}]({plugin.get('link')}) | {author_str} | {description} | {plugin.get('stars', 0)} | {last_updated} |"
+
+
 def aggregate_plugins() -> None:
     """Main function to aggregate all plugin JSON files."""
     # Paths
@@ -113,6 +130,42 @@ def aggregate_plugins() -> None:
         print(f"✓ Successfully saved {len(plugins)} plugins to {output_path}")
     except Exception as e:
         print(f"✗ Error: Failed to save output file: {e}")
+        sys.exit(1)
+    # Save markdown table
+    plugins = sorted(plugins, key=lambda x: x.get('last_updated', 0), reverse=True)
+    markdown_output_path = "./README.md"
+    markdown_output_start = "<!-- legacy_start -->"
+    markdown_output_end = "<!-- legacy_end -->"
+    markdown_lines = ["| 名称 | 作者 | 备注 | 收藏 | 最后更新 |",
+                      "| --- | --- | --- | --- | --- |"]
+    for plugin in plugins:
+        markdown_lines.append(print_markdown_table_line(plugin))
+    print(f"Inserting markdown table to {markdown_output_path}...")
+    try:
+        with open(markdown_output_path, 'r', encoding='utf-8') as f:
+            readme_content = f.read()
+
+        # Find the marker positions
+        start_marker_pos = readme_content.find(markdown_output_start)
+        end_marker_pos = readme_content.find(markdown_output_end)
+
+        if start_marker_pos == -1 or end_marker_pos == -1:
+            print(
+                f"Error: Markers not found in {markdown_output_path}")
+            sys.exit(1)
+        else:
+            # Replace content between markers
+            new_content = (
+                readme_content[:start_marker_pos + len(markdown_output_start)] +
+                "\n" + "\n".join(markdown_lines) + "\n" +
+                readme_content[end_marker_pos:]
+            )
+            with open(markdown_output_path, 'w', encoding='utf-8') as f:
+                f.write(new_content)
+
+        print(f"✓ Successfully saved markdown table to {markdown_output_path}")
+    except Exception as e:
+        print(f"✗ Error: Failed to save markdown file: {e}")
         sys.exit(1)
 
 

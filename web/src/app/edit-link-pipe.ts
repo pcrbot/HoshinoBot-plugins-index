@@ -17,8 +17,8 @@ export class EditLinkPipe implements PipeTransform {
       /^https:\/\/github\.com\/([^\/]+)\/([^\/]+)(\/?(?:tree|blob)\/(?:.+))?$/;
     let match = pluginLink.match(githubPattern);
     if (match) {
-      const user = match[1];
-      const repo = match[2];
+      const user = encodeURIComponent(match[1]);
+      const repo = encodeURIComponent(match[2]);
       const path = match[3];
       if (path) {
         const linkHash = await sha256Hex(pluginLink);
