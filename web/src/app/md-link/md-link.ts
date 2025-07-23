@@ -13,6 +13,7 @@ interface TextNode {
   standalone: true,
   imports: [CommonModule],
   templateUrl: "./md-link.html",
+  styleUrl: "./md-link.scss",
 })
 export class MdLink implements OnInit {
   mdContent = input.required<string>();

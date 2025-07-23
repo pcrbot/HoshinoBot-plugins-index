@@ -22,14 +22,14 @@
       target="_blank"
       class="button-with-icon-text"
     >
-      <mat-icon svgIcon="github" class="button-icon" />
+      <mat-icon svgIcon="github" class="button-icon github-svg-icon" />
       GitHub 仓库
     </a>
   </mat-toolbar-row>
 </mat-toolbar>
 
 <div class="table-container">
-  <table mat-table [dataSource]="displayedPlugins()">
+  <table mat-table [dataSource]="displayedPlugins()" id="plugins-table">
     <ng-container matColumnDef="title">
       <th mat-header-cell *matHeaderCellDef>
         <span class="sortable-header">

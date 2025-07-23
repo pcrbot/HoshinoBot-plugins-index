@@ -9,6 +9,12 @@
       width: 24px;
     }
   }
+
+  .github-svg-icon {
+    @media (prefers-color-scheme: dark) {
+      filter: invert(1);
+    }
+  }
 }
 
 .spacer {
@@ -22,7 +28,31 @@
   padding: 20px;
 }
 
+#plugins-table {
+  .mat-mdc-row {
+    font-size: var(--mat-sys-body-large-size);
+  }
+}
+
 .sortable-header {
   display: flex;
   align-items: center;
+}
+
+.mat-column {
+  &-title {
+    text-align: center;
+    max-width: 15em;
+  }
+  &-stars {
+    text-align: right;
+    min-width: 8em;
+  }
+  &-description {
+    min-width: 15em;
+    max-width: 40em;
+  }
+  &-last_updated {
+    min-width: 10em;
+  }
 }

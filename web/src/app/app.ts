@@ -61,7 +61,7 @@ export class App implements OnInit {
 
   displayedColumns = computed(() =>
     this.editMode()
-      ? ["title", "authors", "edit"]
+      ? ["title", "stars", "description", "authors", "edit"]
       : ["title", "stars", "description", "authors", "last_updated"]
   );
 
