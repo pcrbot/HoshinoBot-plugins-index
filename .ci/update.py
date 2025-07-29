@@ -38,21 +38,41 @@ def find_json_files(plugins_dir: str) -> List[Path]:
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 
 
+repo_info_query = """
+query ($name: String!, $owner: String!) {
+  repository(name: $name, owner: $owner) {
+    stargazerCount
+    pushedAt
+  }
+}
+"""
+
+
 @functools.lru_cache(maxsize=None)
-def fetch_github_repo_info(username: str, reponame: str) -> Dict[str, Any]:
+def fetch_github_repo_info(username: str, reponame: str) -> dict[str, any]:
     """Fetch repository info from GitHub API."""
-    github_api_url = f"https://api.github.com/repos/{username}/{reponame}"
+    github_graphql_url = "https://api.github.com/graphql"
     if not GITHUB_TOKEN:
         print("Error: GITHUB_TOKEN environment variable is not set")
         sys.exit(1)
     try:
-        response = requests.get(github_api_url, headers={
-                                "Authorization": f"Token {GITHUB_TOKEN}", "X-GitHub-Api-Version": "2022-11-28"})
+        variables = {
+            "name": reponame,
+            "owner": username
+        }
+        response = requests.post(github_graphql_url, json={'query': repo_info_query, 'variables': variables}, headers={
+            "Authorization": f"Token {GITHUB_TOKEN}", "X-REQUEST-TYPE": "graphql"})
         if response.status_code == 403:
             print(f"Error: GitHub API rate limit exceeded")
             sys.exit(1)
         response.raise_for_status()
-        return response.json()
+        response_json = response.json()
+        if 'errors' in response_json:
+            error_messages = [error['message']
+                              for error in response_json['errors']]
+            print(f"Error fetching GitHub data: {', '.join(error_messages)}")
+            sys.exit(1)
+        return response_json.get('data', {}).get('repository', {})
     except requests.RequestException as e:
         print(f"Error fetching GitHub data: {e}")
         raise e
@@ -73,8 +93,8 @@ def update_json_content(data: Dict[str, Any]) -> bool:
     reponame = match.group(2)
     try:
         repo_info = fetch_github_repo_info(username, reponame)
-        stars = repo_info.get('stargazers_count', 0)
-        updated_at_iso = repo_info.get('pushed_at', '')  # ISO 8601 format
+        stars = repo_info.get('stargazerCount', 0)
+        updated_at_iso = repo_info.get('pushedAt', '')  # ISO 8601 format
         updated_at_timestamp = int(
             datetime.datetime.fromisoformat(updated_at_iso).timestamp())
 
@@ -82,7 +102,7 @@ def update_json_content(data: Dict[str, Any]) -> bool:
             data['stars'] = stars
             changed = True
 
-        if data.get('edit_time') != updated_at_timestamp:
+        if data.get('last_updated') != updated_at_timestamp:
             data['last_updated'] = updated_at_timestamp
             changed = True
     except requests.RequestException as e:
