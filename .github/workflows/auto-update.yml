@@ -6,6 +6,8 @@ on:
 
 jobs:
   autoupdate:
+    # Prevent Forks from running this workflow
+    if: github.repository == 'pcrbot/HoshinoBot-plugins-index'
     runs-on: ubuntu-latest
     permissions:
       contents: write
