@@ -84,8 +84,15 @@ def get_output_path(parsed_data):
     link = parsed_data.get('link', '')
 
     # Check if link matches GitHub format (basic repo)
-    github_pattern = r'https://github\.com/([^/]+)/([^/]+)/?$'
-    match = re.match(github_pattern, link)
+    github_pattern = r'''
+        ^                           # Start of string
+        https://github\.com         # GitHub domain
+        /([\w-]+)                   # Username/organization (captured group 1)
+        /([\w-]+)                   # Repository name (captured group 2)
+        /?                          # Optional ending slash
+        $                           # End of string
+    '''
+    match = re.match(github_pattern, link, re.VERBOSE)
 
     if match:
         username = match.group(1)
@@ -94,8 +101,20 @@ def get_output_path(parsed_data):
         output_file = f'{output_dir}/{reponame}.json'
     else:
         # Check if link matches GitHub format with deeper path
-        github_deep_pattern = r'https://github\.com/([^/]+)/([^/]+)/(?:tree|blob)/([^/]+)/.*'
-        deep_match = re.match(github_deep_pattern, link)
+        github_deep_pattern = r'''
+            ^                           # Start of string
+            https://github\.com         # GitHub domain
+            /([\w-]+)                   # Username/organization (captured group 1)
+            /([\w-]+)                   # Repository name (captured group 2)
+            (?:
+                /(?:tree|blob)          # Either /tree/ or /blob/
+                /.*                     # Any remaining path
+                |                       # Or
+                /?\#.*                  # Fragment
+            )
+            $
+        '''
+        deep_match = re.match(github_deep_pattern, link, re.VERBOSE)
 
         if deep_match:
             username = deep_match.group(1)

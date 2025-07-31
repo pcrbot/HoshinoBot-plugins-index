@@ -84,13 +84,12 @@ def update_json_content(data: Dict[str, Any]) -> bool:
 
     github_pattern = r'''
         ^                           # Start of string
-        https://github\.com/        # GitHub domain
-        ([\w-]+)/                   # Username/organization (captured group 1)
-        ([\w-]+)                    # Repository name (captured group 2)
+        https://github\.com         # GitHub domain
+        /([\w-]+)                   # Username/organization (captured group 1)
+        /([\w-]+)                   # Repository name (captured group 2)
         (?:                         # Optional path group (non-capturing)
-            /(?:tree|blob)/         # Either /tree/ or /blob/
-            (?:[^/]+)/              # Branch/tag name (any characters except /)
-            .*                      # Any remaining path
+            /(?:tree|blob)          # Either /tree/ or /blob/
+            /.*                     # Any remaining path
         )?                          # Path group is optional
         /?                          # Optional trailing slash
         (?:\#.*)?                   # Optional fragment (anchor)
@@ -98,6 +97,9 @@ def update_json_content(data: Dict[str, Any]) -> bool:
     '''
 
     link = data.get('link', '')
+    if not link.startswith('https://github.com'):
+        print(f"Skip: Link is not a GitHub repo: {link}")
+        return False
     match = re.match(github_pattern, link, re.VERBOSE)
     if not match:
         print(f"Link does not match expected GitHub format: {link}")
