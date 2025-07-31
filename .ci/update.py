@@ -82,10 +82,23 @@ def update_json_content(data: Dict[str, Any]) -> bool:
     """Update the stars and edit time as needed."""
     changed = False
 
-    github_pattern = r'https://github\.com/([^/]+)/([^/]+)(?:/(?:tree|blob)/(?:[^/]+)/.*)?/?$'
+    github_pattern = r'''
+        ^                           # Start of string
+        https://github\.com/        # GitHub domain
+        ([\w-]+)/                   # Username/organization (captured group 1)
+        ([\w-]+)                    # Repository name (captured group 2)
+        (?:                         # Optional path group (non-capturing)
+            /(?:tree|blob)/         # Either /tree/ or /blob/
+            (?:[^/]+)/              # Branch/tag name (any characters except /)
+            .*                      # Any remaining path
+        )?                          # Path group is optional
+        /?                          # Optional trailing slash
+        (?:\#.*)?                   # Optional fragment (anchor)
+        $                           # End of string
+    '''
 
     link = data.get('link', '')
-    match = re.match(github_pattern, link)
+    match = re.match(github_pattern, link, re.VERBOSE)
     if not match:
         print(f"Link does not match expected GitHub format: {link}")
         raise ValueError("Link does not match expected GitHub format")
@@ -126,6 +139,7 @@ def load_and_update_json(file_path: Path, schema: Dict[str, Any]):
             print(f"✓ Updated: {file_path}")
         else:
             print(f"✓ No changes needed: {file_path}")
+        return changed
 
     except FileNotFoundError:
         print(f"✗ Error: File not found: {file_path}")
