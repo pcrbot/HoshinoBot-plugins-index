@@ -2,14 +2,11 @@
 
 此仓库收集 HoshinoBot 的第三方作品，仅作为索引查询使用，对索引内容不做验证，使用第三方代码前请确保知晓可能存在的风险。
 
-本内容已移动至：<https://hoshino-plugins.pcrbot.com/>
+## 插件列表
+
+推荐使用新版作品索引：<https://hoshino-plugins.pcrbot.com/>
 
 新的页面具有排序、筛选功能
-
-<details>
-<summary>
-旧版表格
-</summary>
 
 <!-- 此表格为自动生成，请不要编辑此表格。如需编辑请使用新版页面顶部按钮 -->
 <!-- legacy_start -->
@@ -324,8 +321,6 @@
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 | 5 | 2020/08/06 |
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) |  | 2 | 2020/07/25 |
 <!-- legacy_end -->
-
-</details>
 
 ## 发布插件
 
