@@ -6,6 +6,94 @@ import jsonschema
 from jsonschema import validate
 import os
 import hashlib
+import datetime
+import functools
+from typing import Dict, Any
+import requests
+
+
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
+
+
+repo_info_query = """
+query ($name: String!, $owner: String!) {
+  repository(name: $name, owner: $owner) {
+    stargazerCount
+    pushedAt
+  }
+}
+"""
+
+
+@functools.lru_cache(maxsize=None)
+def fetch_github_repo_info(username: str, reponame: str) -> dict[str, any]:
+    """Fetch repository info from GitHub API."""
+    github_graphql_url = "https://api.github.com/graphql"
+    if not GITHUB_TOKEN:
+        print("Error: GITHUB_TOKEN environment variable is not set")
+        sys.exit(1)
+    try:
+        variables = {
+            "name": reponame,
+            "owner": username
+        }
+        response = requests.post(github_graphql_url, json={'query': repo_info_query, 'variables': variables}, headers={
+            "Authorization": f"Token {GITHUB_TOKEN}", "X-REQUEST-TYPE": "graphql"})
+        if response.status_code == 403:
+            print(f"Error: GitHub API rate limit exceeded")
+            sys.exit(1)
+        response.raise_for_status()
+        response_json = response.json()
+        if 'errors' in response_json:
+            error_messages = [error['message']
+                              for error in response_json['errors']]
+            print(f"Error fetching GitHub data: {', '.join(error_messages)}")
+            sys.exit(1)
+        return response_json.get('data', {}).get('repository', {})
+    except requests.RequestException as e:
+        print(f"Error fetching GitHub data: {e}")
+        raise e
+
+
+def update_json_content(data: Dict[str, Any]) -> None:
+    """Update the stars and edit time as needed."""
+
+    github_pattern = r'''
+        ^                           # Start of string
+        https://github\.com         # GitHub domain
+        /([\w-]+)                   # Username/organization (captured group 1)
+        /([\w-]+)                   # Repository name (captured group 2)
+        (?:                         # Optional path group (non-capturing)
+            /(?:tree|blob)          # Either /tree/ or /blob/
+            /.*                     # Any remaining path
+        )?                          # Path group is optional
+        /?                          # Optional trailing slash
+        (?:\#.*)?                   # Optional fragment (anchor)
+        $                           # End of string
+    '''
+
+    link = data.get('link', '')
+    if not link.startswith('https://github.com'):
+        print(f"Skip: Link is not a GitHub repo: {link}")
+        return
+    match = re.match(github_pattern, link, re.VERBOSE)
+    if not match:
+        print(f"Link does not match expected GitHub format: {link}")
+        raise ValueError("Link does not match expected GitHub format")
+    username = match.group(1)
+    reponame = match.group(2)
+    try:
+        repo_info = fetch_github_repo_info(username, reponame)
+        stars = repo_info.get('stargazerCount', 0)
+        updated_at_iso = repo_info.get('pushedAt', '')  # ISO 8601 format
+        updated_at_timestamp = int(
+            datetime.datetime.fromisoformat(updated_at_iso).timestamp())
+
+        data['stars'] = stars
+        data['last_updated'] = updated_at_timestamp
+    except requests.RequestException as e:
+        print(f"Error fetching GitHub data: {e}")
+        raise e
 
 
 def extract_toml_from_file(file_path):
@@ -135,11 +223,11 @@ def get_output_path(parsed_data):
     return output_file
 
 
-def save_json_file(json_content, output_path):
+def save_json_file(json_object, output_path):
     """Save JSON content to file."""
     try:
         with open(output_path, 'w', encoding='utf-8') as file:
-            file.write(json_content)
+            json.dump(json_object, file, indent='\t', ensure_ascii=False)
         print(f"JSON saved to {output_path}")
         return True
 
@@ -180,12 +268,15 @@ def main():
                 print("Format Validation failed")
                 sys.exit(1)
 
+            update_json_content(parsed_data)
+            print("Plugin information updated")
+
             # Determine output path based on link format
             output_file = get_output_path(parsed_data)
             print(f"Output file: {output_file}")
 
             # Save to JSON file
-            if not save_json_file(json_content, output_file):
+            if not save_json_file(parsed_data, output_file):
                 sys.exit(1)
         else:
             print("Failed to parse TOML content")

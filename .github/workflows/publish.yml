@@ -52,6 +52,6 @@ jobs:
           git add plugins/
           git commit -m "Publish issue #${{ github.event.issue.number }}" || echo "No changes to commit"
           git push -u origin "$BRANCH"
-          gh pr create --title "Publish issue #${{ github.event.issue.number }}" --body "Publish issue #${{ github.event.issue.number }}" --base "master" --head "$BRANCH" --repo "$GITHUB_REPOSITORY"
+          gh pr create --title "Publish issue #${{ github.event.issue.number }}" --body "Publish (resolve #${{ github.event.issue.number }})" --base "master" --head "$BRANCH" --repo "$GITHUB_REPOSITORY"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
