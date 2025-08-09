@@ -12,9 +12,10 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 6 | 2025/08/05 |
+| [天赋人权](https://github.com/Cosmos01/natural_right) | [@Cosmos01](https://github.com/Cosmos01) | 适用于 HoshinoBot 的多功能群管理插件，能够管理群成员权限，拥有投票禁言、反禁言、宵禁、小游戏等功能 | 0 | 2025/08/09 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 7 | 2025/08/07 |
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 109 | 2025/08/07 |
 | [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 231 | 2025/08/03 |
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 109 | 2025/07/30 |
 | [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 5 | 2025/07/18 |
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查视频 | 1 | 2025/07/15 |
 | [xcw戳一戳](https://github.com/duoshoumiao/chuoyichuo) | [@duoshoumiao](https://github.com/duoshoumiao) | xcw戳一戳语音 | 1 | 2025/07/12 |
@@ -320,7 +321,6 @@
 | [网页授权](https://github.com/pcrbot/pcr-auth-vue) | [@wdvxdr1123](https://github.com/wdvxdr1123) |  | 3 | 2020/09/05 |
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 | 5 | 2020/08/06 |
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) |  | 2 | 2020/07/25 |
-| [天赋人权](https://github.com/Cosmos01/natural_right) | [@Cosmos01](https://github.com/Cosmos01) | 适用于 HoshinoBot 的多功能群管理插件，能够管理群成员权限，拥有投票禁言、反禁言、宵禁、小游戏等功能 | 0 |  |
 <!-- legacy_end -->
 
 ## 发布插件
