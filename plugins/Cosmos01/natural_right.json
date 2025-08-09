@@ -1,0 +1,11 @@
+{
+	"name": "天赋人权",
+	"link": "https://github.com/Cosmos01/natural_right",
+	"description": "适用于 HoshinoBot 的多功能群管理插件，能够管理群成员权限，拥有投票禁言、反禁言、宵禁、小游戏等功能",
+	"authors": [
+		{
+			"name": "@Cosmos01",
+			"link": "https://github.com/Cosmos01"
+		}
+	]
+}
