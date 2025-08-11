@@ -42,11 +42,15 @@ jobs:
         run: |
           pip install -r .ci/requirement.txt
           python .ci/publish.py "${{ steps.get_issue_body.outputs.body_file }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
-          git config --global user.name "${{ github.event.issue.user.login }}"
-          git config --global user.email "${{ github.event.issue.user.email || join(github.event.issue.user.login, '@users.noreply.github.com') }}"
+          USER_NAME="${{ github.event.issue.user.login }}"
+          USER_EMAIL="${{ github.event.issue.user.email }}"
+          git config --global user.name "$USER_NAME"
+          git config --global user.email "${USER_EMAIL:-$USER_NAME@users.noreply.github.com}"
           BRANCH="ci/issue-${{ github.event.issue.number }}/run-${{ github.run_number }}"
           git checkout -b "$BRANCH"
           git add plugins/
