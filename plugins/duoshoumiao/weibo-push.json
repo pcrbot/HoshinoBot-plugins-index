@@ -1,0 +1,13 @@
+{
+	"name": "微博推送",
+	"link": "https://github.com/duoshoumiao/weibo-push",
+	"description": "微博关注小插件",
+	"authors": [
+		{
+			"name": "@duoshoumiao",
+			"link": "https://github.com/duoshoumiao"
+		}
+	],
+	"stars": 1,
+	"last_updated": 1754915440
+}
