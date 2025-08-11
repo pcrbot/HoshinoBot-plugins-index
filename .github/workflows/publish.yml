@@ -42,6 +42,8 @@ jobs:
         run: |
           pip install -r .ci/requirement.txt
           python .ci/publish.py "${{ steps.get_issue_body.outputs.body_file }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         run: |
