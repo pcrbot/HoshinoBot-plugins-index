@@ -39,7 +39,7 @@
 | [Daily_News](https://github.com/InSnocent/Daily_News) | [@InSnocent](https://github.com/InSnocent) | 适用于HoshinoBot的每日一句话新闻(和另一个插件采用的不一样的来源) | 8 | 2025/03/13 |
 | [抽老婆数据版完全重置](https://github.com/Rlezzo/WifeGacha) | [@Rlezzo](https://github.com/Rlezzo) | 之前的版本拓展很困难，听GPT的用什么DDD。ORM重写了一个 | 4 | 2025/03/09 |
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br/>> 插件一个更比十个强，物美价廉，你，值得拥有！ | 129 | 2025/02/11 |
-| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) | [@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 | 18 | 2025/02/07 |
+| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) | [@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 | 19 | 2025/02/07 |
 | [aichatRemake](https://github.com/Rlezzo/aichat) | [@Rlezzo](https://github.com/Rlezzo) | 之前的适配版记忆功能不能用，索性重写了 | 2 | 2025/01/28 |
 | [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ | 12 | 2025/01/26 |
 | [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 非常简单的摸鱼插件 | 8 | 2025/01/17 |
@@ -309,7 +309,7 @@
 | [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) | [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 | 11 | 2021/02/16 |
 | [女装迫害插件](https://github.com/MiaoXia0/NvZhuang) | [@MiaoXia0](https://github.com/MiaoXia0) | 发图迫害群友女装 | 1 | 2021/02/09 |
 | [XML卡片消息发送器](https://github.com/MiaoXia0/XMLSender) | [@MiaoXia0](https://github.com/MiaoXia0) | 使机器人发送XML卡片消息 | 4 | 2021/01/29 |
-| [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 | 30 | 2021/01/21 |
+| [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 | 29 | 2021/01/21 |
 | [生日](https://github.com/pcrbot/birthday) | [@ZforVendetta](https://github.com/ZforVendetta) | 角色生日提醒、查询 | 4 | 2021/01/06 |
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) |  | 3 | 2021/01/04 |
 | [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 | 43 | 2021/01/04 |
