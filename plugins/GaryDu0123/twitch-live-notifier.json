@@ -1,0 +1,13 @@
+{
+	"name": "twitch-live-notifier",
+	"link": "https://github.com/GaryDu0123/twitch-live-notifier",
+	"description": "定时检查群内所订阅的 Twitch 主播是否开播，并在主播上线时向群内发送一条开播通知",
+	"authors": [
+		{
+			"name": "@GaryDu0123",
+			"link": "https://github.com/GaryDu0123"
+		}
+	],
+	"stars": 0,
+	"last_updated": 1757271344
+}
