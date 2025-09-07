@@ -12,6 +12,7 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [twitch-live-notifier](https://github.com/GaryDu0123/twitch-live-notifier) | [@GaryDu0123](https://github.com/GaryDu0123) | 定时检查群内所订阅的 Twitch 主播是否开播，并在主播上线时向群内发送一条开播通知 | 0 | 2025/09/07 |
 | [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 | 2 | 2025/09/05 |
 | [手办化](https://github.com/duoshoumiao/shouban/tree/main) | [@duoshoumiao](https://github.com/duoshoumiao) | 移植至astrbot的手办化 | 4 | 2025/09/05 |
 | [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 10 | 2025/09/04 |
