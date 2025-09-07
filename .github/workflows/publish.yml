@@ -9,19 +9,21 @@ on:
 
 jobs:
   publish:
-    if: contains(github.event.issue.labels.*.name, 'publish')
+    # if: contains(github.event.issue.labels.*.name, 'publish')  # Sometimes labels are not created automatically, so we skip this check
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Get Issue Body
-        id: get_issue_body
+        id: get_issue_content
         run: |
           BODY_FILE=$(mktemp)
           echo "body_file=$BODY_FILE" >> $GITHUB_OUTPUT
           echo "Fetching Issue body..."
           gh issue view ${{ github.event.issue.number }} --json body --jq '.body' > "$BODY_FILE"
+          TITLE=$(gh issue view ${{ github.event.issue.number }} --json title --jq '.title')
+          echo "title=$TITLE" >> $GITHUB_OUTPUT
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -39,13 +41,20 @@ jobs:
             ${{ runner.os }}-pip-
 
       - name: Run Script
+        id: run_script
         run: |
           pip install -r .ci/requirement.txt
-          python .ci/publish.py "${{ steps.get_issue_body.outputs.body_file }}"
+          python .ci/publish.py "${{ steps.get_issue_content.outputs.body_file }}"
+          if [ $? -eq 0 ]; then
+            echo "success=true" >> $GITHUB_OUTPUT
+          else
+            echo "success=false" >> $GITHUB_OUTPUT
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
+        if: steps.run_script.outputs.success == 'true'
         run: |
           USER_NAME="${{ github.event.issue.user.login }}"
           USER_EMAIL="${{ github.event.issue.user.email }}"
@@ -56,6 +65,7 @@ jobs:
           git add plugins/
           git commit -m "Publish issue #${{ github.event.issue.number }}" || echo "No changes to commit"
           git push -u origin "$BRANCH"
-          gh pr create --title "Publish issue #${{ github.event.issue.number }}" --body "Publish (resolve #${{ github.event.issue.number }})" --base "master" --head "$BRANCH" --repo "$GITHUB_REPOSITORY"
+          TITLE="${{ steps.get_issue_content.outputs.title }}"
+          gh pr create --title "$TITLE" --body "Publish (resolve #${{ github.event.issue.number }})" --base "master" --head "$BRANCH" --repo "$GITHUB_REPOSITORY"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
