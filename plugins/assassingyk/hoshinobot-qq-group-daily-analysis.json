@@ -1,0 +1,13 @@
+{
+	"name": "QQ群日常分析插件",
+	"link": "https://github.com/assassingyk/hoshinobot-qq-group-daily-analysis",
+	"description": "移植自AstrBot的智能群聊分析插件，能够生成精美的群聊日常分析报告",
+	"authors": [
+		{
+			"name": "@assassingyk",
+			"link": "https://github.com/assassingyk"
+		}
+	],
+	"stars": 0,
+	"last_updated": 1758649766
+}
