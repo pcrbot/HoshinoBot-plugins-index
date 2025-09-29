@@ -1,0 +1,13 @@
+{
+	"name": "Pixiv 画师订阅插件",
+	"link": "https://github.com/GaryDu0123/pixiv-subscription",
+	"description": "一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊",
+	"authors": [
+		{
+			"name": "@GaryDu0123",
+			"link": "https://github.com/GaryDu0123"
+		}
+	],
+	"stars": 0,
+	"last_updated": 1759081987
+}
