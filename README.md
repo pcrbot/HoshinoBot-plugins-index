@@ -4,11 +4,11 @@
 
 ## 插件列表
 
-推荐使用新版作品索引：<https://hoshino-plugins.pcrbot.com/>
+:point_right: 推荐使用交互式作品索引：<https://hoshino-plugins.pcrbot.com/> :point_left:
 
 新的页面具有排序、筛选功能
 
-<!-- 此表格为自动生成，请不要编辑此表格。如需编辑请使用新版页面顶部按钮 -->
+<!-- 此表格为自动生成，请不要编辑此表格。如需编辑请 hoshino-plugins.pcrbot.com 的顶部按钮 -->
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
@@ -328,6 +328,14 @@
 | [俄罗斯轮盘](https://github.com/pcrbot/russian) | [@H-K-Y](https://github.com/H-K-Y) | 群内小游戏 | 5 | 2020/08/06 |
 | [买药提醒](https://github.com/pcrbot/HoshinoBuyPotionReminder) | [@LQBing](https://github.com/LQBing) |  | 2 | 2020/07/25 |
 <!-- legacy_end -->
+
+## 其他框架插件
+
+如果此仓库没有你寻找的插件，可以寻找其他框架的插件：[Nonebot插件](https://nonebot.dev/store/plugins)、[YunzaiBot插件](https://github.com/yhArcadia/Yunzai-Bot-plugins-index)、[真寻bot插件](https://github.com/zhenxun-org/zhenxun_bot_plugins_index/blob/index/indices/Plugin-list.md)
+
+## 引用
+
+请使用 [plugins.json](https://hoshino-plugins.pcrbot.com/plugins.json) 链接获取最新信息，使用时请注明出处
 
 ## 发布插件
 
