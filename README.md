@@ -12,11 +12,11 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
-| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 9 | 2025/10/09 |
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 110 | 2025/10/09 |
+| [Pixiv 画师订阅插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊 | 1 | 2025/10/13 |
+| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 10 | 2025/10/11 |
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 111 | 2025/10/09 |
 | [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/10/07 |
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 12 | 2025/10/01 |
-| [Pixiv 画师订阅插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊 | 1 | 2025/09/29 |
 | [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 | 2 | 2025/09/29 |
 | [QQ群日常分析插件](https://github.com/assassingyk/hoshinobot-qq-group-daily-analysis) | [@assassingyk](https://github.com/assassingyk) | 移植自AstrBot的智能群聊分析插件，能够生成精美的群聊日常分析报告 | 3 | 2025/09/24 |
 | [贴猴](https://github.com/Momona0v0/monkey) | [@Momona0v0](https://github.com/Momona0v0) | 让机器人给你的群友贴猴。 | 0 | 2025/09/16 |
@@ -36,7 +36,7 @@
 | [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 | 80 | 2025/06/09 |
 | [知乎小程序转链接](https://github.com/lhhxxxxx/anti_zhihu) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 知乎小程序自动转链接 | 0 | 2025/05/28 |
 | [学マス计算器](https://github.com/Norca0721/GakuenIdolMasterCalculator) | [@Norca0721](https://github.com/Norca0721) | 学マス分数计算器插件 | 2 | 2025/05/28 |
-| [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 | 159 | 2025/05/27 |
+| [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 | 160 | 2025/05/27 |
 | [禁漫转pdf](https://github.com/SlightDust/jmcomic_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 下载jmcomic并转为加密pdf上传到群文件 | 1 | 2025/05/10 |
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 | 32 | 2025/05/08 |
 | [HoshinoReboot](https://github.com/Norca0721/HoshinoReboot) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的重启插件 | 4 | 2025/04/28 |
