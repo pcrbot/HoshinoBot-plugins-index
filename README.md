@@ -12,10 +12,10 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/10/18 |
 | [Pixiv 画师订阅插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊 | 1 | 2025/10/13 |
 | [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 10 | 2025/10/11 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 111 | 2025/10/09 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/10/07 |
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 12 | 2025/10/01 |
 | [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 | 2 | 2025/09/29 |
 | [QQ群日常分析插件](https://github.com/assassingyk/hoshinobot-qq-group-daily-analysis) | [@assassingyk](https://github.com/assassingyk) | 移植自AstrBot的智能群聊分析插件，能够生成精美的群聊日常分析报告 | 3 | 2025/09/24 |
@@ -25,7 +25,7 @@
 | [天赋人权](https://github.com/Cosmos01/natural_right) | [@Cosmos01](https://github.com/Cosmos01) | 适用于 HoshinoBot 的多功能群管理插件，能够管理群成员权限，拥有投票禁言、反禁言、宵禁、小游戏等功能 | 2 | 2025/09/06 |
 | [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2025/08/28 |
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查视频 | 1 | 2025/08/25 |
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 238 | 2025/08/16 |
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 240 | 2025/08/16 |
 | [xcw戳一戳](https://github.com/duoshoumiao/chuoyichuo) | [@duoshoumiao](https://github.com/duoshoumiao) | xcw戳一戳语音 | 1 | 2025/07/12 |
 | [查番工具](https://github.com/duoshoumiao/anime_search) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查番 | 1 | 2025/07/12 |
 | [功能管理魔改](https://github.com/duoshoumiao/service_manage) | [@duoshoumiao](https://github.com/duoshoumiao) | 功能开关 | 1 | 2025/07/12 |
@@ -55,13 +55,13 @@
 | [验车/磁链信息](https://github.com/SlightDust/torrent_analyze_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 解析磁链信息，通过whatslink.info API | 2 | 2024/12/04 |
 | [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 | 1 | 2024/11/29 |
 | [占卜](https://github.com/SonderXiaoming/huannai-plugin-shindan) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 移植自nb2的nonebot-plugin-shindan | 1 | 2024/11/26 |
-| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 模仿柚子社角色的声音（支持中文，日文） | 41 | 2024/11/26 |
+| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 模仿柚子社角色的声音（支持中文，日文） | 42 | 2024/11/26 |
 | [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 | 71 | 2024/10/03 |
 | [搜种马](https://github.com/Nao-desu/uma_search) | [@Nao-desu](https://github.com/Nao-desu) | 赛马娘繁中服搜种马插件 | 0 | 2024/10/03 |
 | [otto活字印刷](https://github.com/SlightDust/HuoZiYinShua_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua) | 2 | 2024/10/02 |
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 | 9 | 2024/09/14 |
 | [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent | 37 | 2024/09/04 |
-| [DOTA2战绩推送](https://github.com/joeyHXD/dota2_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件 | 10 | 2024/08/28 |
+| [DOTA2战绩推送](https://github.com/joeyHXD/dota2_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 基于[CSGO和DOTA2的处刑BOT](https://github.com/greenhaha/dota2_csgo_watcher_bot)魔改而来的DOTA2战绩推送插件 | 11 | 2024/08/28 |
 | [PSO2NGS](https://github.com/cpms/pso2) | [@cpm](https://github.com/cpms) | 基于 [rss 订阅插件](https://github.com/zyujs/rss)魔改而来的 PSO2NGS（梦幻之星 ONLINE2 新纪元）HoshinoBot V2 插件 | 5 | 2024/08/11 |
 | [原神日历](https://github.com/NepPure/genshin_calendar) | [@NepPure](https://github.com/NepPure) | [@zyujs](https://github.com/zyujs)风格原神日历，数据源游戏内公告 | 15 | 2024/07/13 |
 | [台服会战排名查询](https://github.com/pcrbot/clan_search_tw) | [@azmiao](https://github.com/azmiao) | 查询台服的会战排名和档线（数据来自infedg.xyz和layvtwt.top） | 5 | 2024/07/06 |
