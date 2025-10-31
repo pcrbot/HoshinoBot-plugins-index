@@ -12,13 +12,13 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 12 | 2025/10/30 |
+| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 | 40 | 2025/10/27 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/10/27 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 111 | 2025/10/24 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/10/23 |
 | [天赋人权](https://github.com/Cosmos01/natural_right) | [@Cosmos01](https://github.com/Cosmos01) | 适用于 HoshinoBot 的多功能群管理插件，能够管理群成员权限，拥有投票禁言、反禁言、宵禁、小游戏等功能 | 2 | 2025/10/23 |
-| [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 | 40 | 2025/10/22 |
-| [Pixiv 画师订阅插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊 | 1 | 2025/10/13 |
-| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 10 | 2025/10/11 |
-| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 12 | 2025/10/01 |
+| [Pixiv 画师订阅插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊 | 2 | 2025/10/13 |
+| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 11 | 2025/10/11 |
 | [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 | 2 | 2025/09/29 |
 | [QQ群日常分析插件](https://github.com/assassingyk/hoshinobot-qq-group-daily-analysis) | [@assassingyk](https://github.com/assassingyk) | 移植自AstrBot的智能群聊分析插件，能够生成精美的群聊日常分析报告 | 3 | 2025/09/24 |
 | [贴猴](https://github.com/Momona0v0/monkey) | [@Momona0v0](https://github.com/Momona0v0) | 让机器人给你的群友贴猴。 | 0 | 2025/09/16 |
@@ -26,7 +26,7 @@
 | [手办化](https://github.com/duoshoumiao/shouban/tree/main) | [@duoshoumiao](https://github.com/duoshoumiao) | 移植至astrbot的手办化 | 5 | 2025/09/07 |
 | [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2025/08/28 |
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查视频 | 1 | 2025/08/25 |
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 240 | 2025/08/16 |
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 241 | 2025/08/16 |
 | [xcw戳一戳](https://github.com/duoshoumiao/chuoyichuo) | [@duoshoumiao](https://github.com/duoshoumiao) | xcw戳一戳语音 | 1 | 2025/07/12 |
 | [查番工具](https://github.com/duoshoumiao/anime_search) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查番 | 1 | 2025/07/12 |
 | [功能管理魔改](https://github.com/duoshoumiao/service_manage) | [@duoshoumiao](https://github.com/duoshoumiao) | 功能开关 | 1 | 2025/07/12 |
@@ -51,7 +51,7 @@
 | [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 非常简单的摸鱼插件 | 8 | 2025/01/17 |
 | [300英雄战报](https://github.com/Himeno-Yumemi/300hero_record) | [@姬野梦美](https://github.com/Himeno-Yumemi) | 300英雄群友开庭插件 | 2 | 2025/01/06 |
 | [ArcadeQueue](https://github.com/SalinX/ArcadeQueue) | [@SalinX](https://github.com/SalinX) | 适用于 HoshinoBot 的机厅排卡模块 | 1 | 2024/12/17 |
-| [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 | 6 | 2024/12/06 |
+| [谁艾特我](https://github.com/RSRH-Rs/whoatme) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 看看谁在群里天天艾特我 | 5 | 2024/12/06 |
 | [验车/磁链信息](https://github.com/SlightDust/torrent_analyze_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 解析磁链信息，通过whatslink.info API | 2 | 2024/12/04 |
 | [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 | 1 | 2024/11/29 |
 | [占卜](https://github.com/SonderXiaoming/huannai-plugin-shindan) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 移植自nb2的nonebot-plugin-shindan | 1 | 2024/11/26 |
