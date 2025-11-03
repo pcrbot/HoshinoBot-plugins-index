@@ -1,5 +1,5 @@
 {
-	"name": "闲聊反并发工具",
+	"name": "AI 聊天防误触发插件",
 	"link": "https://github.com/lhhxxxxx/hoshino_tool",
 	"authors": [
 		{
@@ -7,7 +7,7 @@
 			"link": "https://github.com/lhhxxxxx"
 		}
 	],
-	"description": "防止使用@sv.on_message('group')的插件在其他使用hoshino接口的插件被调用时触发，推荐在各AI聊天插件中使用",
-	"last_updated": 1637323133,
+	"description": "防止 AI 聊天类插件（或任意全局匹配插件）在其他使用 hoshino 接口的插件被调用时触发，只需要简单的一行指令，不再需要维护冗长的黑名单。",
+	"last_updated": 1762131439,
 	"stars": 7
 }
