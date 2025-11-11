@@ -12,32 +12,32 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [Pixiv 画师订阅插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊 | 3 | 2025/11/10 |
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 111 | 2025/11/10 |
+| [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2025/11/10 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/11/07 |
 | [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 243 | 2025/11/05 |
 | [知乎小程序转链接](https://github.com/lhhxxxxx/anti_zhihu) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 知乎小程序自动转链接 | 0 | 2025/11/03 |
 | [AI 聊天防误触发插件](https://github.com/lhhxxxxx/hoshino_tool) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 防止 AI 聊天类插件（或任意全局匹配插件）在其他使用 hoshino 接口的插件被调用时触发，只需要简单的一行指令，不再需要维护冗长的黑名单。 | 7 | 2025/11/03 |
 | [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 11 | 2025/11/01 |
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 12 | 2025/10/30 |
 | [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 | 40 | 2025/10/27 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/10/27 |
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 111 | 2025/10/24 |
 | [天赋人权](https://github.com/Cosmos01/natural_right) | [@Cosmos01](https://github.com/Cosmos01) | 适用于 HoshinoBot 的多功能群管理插件，能够管理群成员权限，拥有投票禁言、反禁言、宵禁、小游戏等功能 | 2 | 2025/10/23 |
-| [Pixiv 画师订阅插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊 | 2 | 2025/10/13 |
 | [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 | 2 | 2025/09/29 |
 | [QQ群日常分析插件](https://github.com/assassingyk/hoshinobot-qq-group-daily-analysis) | [@assassingyk](https://github.com/assassingyk) | 移植自AstrBot的智能群聊分析插件，能够生成精美的群聊日常分析报告 | 4 | 2025/09/24 |
 | [贴猴](https://github.com/Momona0v0/monkey) | [@Momona0v0](https://github.com/Momona0v0) | 让机器人给你的群友贴猴。 | 0 | 2025/09/16 |
 | [twitch-live-notifier](https://github.com/GaryDu0123/twitch-live-notifier) | [@GaryDu0123](https://github.com/GaryDu0123) | 定时检查群内所订阅的 Twitch 主播是否开播，并在主播上线时向群内发送一条开播通知 | 0 | 2025/09/07 |
 | [手办化](https://github.com/duoshoumiao/shouban/tree/main) | [@duoshoumiao](https://github.com/duoshoumiao) | 移植至astrbot的手办化 | 5 | 2025/09/07 |
-| [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2025/08/28 |
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查视频 | 1 | 2025/08/25 |
 | [xcw戳一戳](https://github.com/duoshoumiao/chuoyichuo) | [@duoshoumiao](https://github.com/duoshoumiao) | xcw戳一戳语音 | 1 | 2025/07/12 |
 | [查番工具](https://github.com/duoshoumiao/anime_search) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查番 | 1 | 2025/07/12 |
 | [功能管理魔改](https://github.com/duoshoumiao/service_manage) | [@duoshoumiao](https://github.com/duoshoumiao) | 功能开关 | 1 | 2025/07/12 |
 | [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) [@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 | 4 | 2025/07/05 |
 | [AI对话chatGPT版](https://github.com/Cosmos01/aichat-chatGPT) | [@Cosmos01](https://github.com/Cosmos01) | AI对话chatGPT版，支持GTP-3.5 API | 50 | 2025/06/27 |
-| [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 | 60 | 2025/06/23 |
+| [头像表情包生成器](https://github.com/Lanly109/headimg_generator) | [@Lanly109](https://github.com/Lanly109) | 移植自[nonebot-plugin-petpet](https://github.com/noneplugin/nonebot-plugin-petpet)的头像表情包生成器 | 61 | 2025/06/23 |
 | [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 | 80 | 2025/06/09 |
 | [学マス计算器](https://github.com/Norca0721/GakuenIdolMasterCalculator) | [@Norca0721](https://github.com/Norca0721) | 学マス分数计算器插件 | 2 | 2025/05/28 |
-| [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 | 160 | 2025/05/27 |
+| [pcrjjc2](https://github.com/cc004/pcrjjc2) | [@cc004](https://github.com/cc004) | 公主连结竞技场排名查询订阅工具 | 161 | 2025/05/27 |
 | [禁漫转pdf](https://github.com/SlightDust/jmcomic_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 下载jmcomic并转为加密pdf上传到群文件 | 1 | 2025/05/10 |
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 | 32 | 2025/05/08 |
 | [HoshinoReboot](https://github.com/Norca0721/HoshinoReboot) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的重启插件 | 5 | 2025/04/28 |
