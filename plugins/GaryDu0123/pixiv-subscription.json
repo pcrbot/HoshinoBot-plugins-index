@@ -1,7 +1,7 @@
 {
-	"name": "Pixiv 画师订阅插件",
+	"name": "Pixiv 插画推送插件",
 	"link": "https://github.com/GaryDu0123/pixiv-subscription",
-	"description": "一个基于 HoshinoBot 的 Pixiv 画师订阅插件，自动推送订阅画师的最新作品到群聊",
+	"description": "一个基于 HoshinoBot 的 Pixiv 插件，包含画师订阅和Pixiv工具两个独立的服务，支持自动推送、作品预览、pixiv排行榜查询等功能。",
 	"authors": [
 		{
 			"name": "@GaryDu0123",
