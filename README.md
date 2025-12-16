@@ -12,8 +12,8 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/12/15 |
 | [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 247 | 2025/12/08 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 11 | 2025/12/08 |
 | [天赋人权](https://github.com/Cosmos01/natural_right) | [@Cosmos01](https://github.com/Cosmos01) | 适用于 HoshinoBot 的多功能群管理插件，能够管理群成员权限，拥有投票禁言、反禁言、宵禁、小游戏等功能 | 3 | 2025/12/07 |
 | [Pixiv 插画推送插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 插件，包含画师订阅和Pixiv工具两个独立的服务，支持自动推送、作品预览、pixiv排行榜查询等功能。 | 4 | 2025/12/04 |
 | [怎么拆截图版](https://github.com/watermellye/arena) | [@ellye](https://github.com/watermellye) | 对jjc进攻阵容查询增加截图查询功能。支持全屏和部分截图；当截图中含有多队时返回无冲配队。 | 31 | 2025/12/03 |
@@ -74,7 +74,7 @@
 | [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) | 48 | 2024/06/20 |
 | [抽动漫老婆](https://github.com/Rinco304/AnimeWife) | [@Rinco304](https://github.com/Rinco304) | 看看你今天的二次元老婆是谁 | 6 | 2024/06/16 |
 | [新·网络天才](https://github.com/Rlezzo/akinator) | [@Rlezzo](https://github.com/Rlezzo) | [网络天才](https://github.com/HMScygnet/akinator)原插件api已无法使用，适配了最新的api | 2 | 2024/05/24 |
-| [禁漫ID转本子名](https://github.com/Fatfish588/jmid2name-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 发送JM数字ID，自动搜索出本子的书名、作者与标签。 | 44 | 2024/05/23 |
+| [禁漫ID转本子名](https://github.com/Fatfish588/jmid2name-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 发送JM数字ID，自动搜索出本子的书名、作者与标签。 | 45 | 2024/05/23 |
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 | 1 | 2024/05/12 |
 | [我不会打日文](https://github.com/Fatfish588/wbhdrw-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 运行在本地的日文OCR识别插件，好耶不用拿着截图问别人而导致xp泄漏了 | 1 | 2024/04/07 |
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ | 11 | 2024/03/23 |
@@ -85,7 +85,7 @@
 | [能不能好好说话](https://github.com/Fatfish588/nbnhhsh-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 能不能好好说话的Hoshino插件版 | 2 | 2024/01/02 |
 | [游戏内会战推送](https://github.com/AddOneSecondL/pcrjjc2-clanbattle) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 基于pcrjjc2通信的会战推送(DLC了属于是 | 24 | 2023/12/24 |
 | [运势n合一](https://github.com/SonderXiaoming/huannai_plugin_fortune) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 超多主题，每群都可以独立设置 | 12 | 2023/12/20 |
-| [pcrjjc2魔改版](https://github.com/SonderXiaoming/pcrjjc_huannai) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置） | 15 | 2023/12/20 |
+| [pcrjjc2魔改版](https://github.com/SonderXiaoming/pcrjjc_huannai) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可绑多uid、可私聊/群聊通知、多线程、自动过验证码。（主要优化了一下代码和简化配置） | 16 | 2023/12/20 |
 | [今日人品2](https://github.com/Rinco304/Hoshino-jrrp2) | [@Rinco304](https://github.com/Rinco304) | 适用于HoshinoBot的带数据库可查询历史平均人品的jrrp插件 | 0 | 2023/11/29 |
 | [猜VTB](https://github.com/Rinco304/GuessVTB) | [@Rinco304](https://github.com/Rinco304) | 适用于HoshinoBot的猜虚拟主播头像插件 | 0 | 2023/11/29 |
 | [谁在kook语音](https://github.com/GaryDu0123/kook-who-in-voice-channel) | [@GaryDu0123](https://github.com/GaryDu0123) | 群友偷偷开黑? 看看谁在kook语音 | 2 | 2023/11/24 |
@@ -317,7 +317,7 @@
 | [Hoshino-cli](https://github.com/pcrbot/hsn) | [@wdvxdr1123](https://github.com/wdvxdr1123) | 命令行快速安装 HoshinoBot 插件 | 29 | 2021/01/21 |
 | [生日](https://github.com/pcrbot/birthday) | [@ZforVendetta](https://github.com/ZforVendetta) | 角色生日提醒、查询 | 4 | 2021/01/06 |
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) |  | 3 | 2021/01/04 |
-| [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 | 43 | 2021/01/04 |
+| [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 | 44 | 2021/01/04 |
 | [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) | 2 | 2020/12/24 |
 | [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 | 22 | 2020/12/19 |
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 | 45 | 2020/12/14 |
