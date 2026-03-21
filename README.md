@@ -12,14 +12,14 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 109 | 2026/03/20 |
+| [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2026/03/19 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/03/19 |
 | [DJMAX查分器](https://github.com/AmamiyaAkina/DJMAX_HoshinoBot) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | DJMAX Respect V 查分插件，适用于 HoshinoBot / Nonebot。数据来源于 V-Archive，可以生成玩家 Bests100 的分表图。 | 1 | 2026/03/16 |
-| [环奈日报](https://github.com/SonderXiaoming/huannai_report) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 每天推送环奈日报，摸鱼日历，番剧，以及其他种种快讯，使您足不出户便览家国大事。 | 1 | 2026/03/15 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/03/13 |
+| [环奈日报](https://github.com/SonderXiaoming/huannai_report) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 每天推送环奈日报，摸鱼日历，番剧，以及其他种种快讯，使您足不出户便览家国大事。 | 3 | 2026/03/15 |
 | [今日小猪](https://github.com/SonderXiaoming/huannai_plugin_rollpig) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 好多群友 | 1 | 2026/03/12 |
-| [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2026/03/09 |
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 109 | 2026/03/05 |
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br/>> 插件一个更比十个强，物美价廉，你，值得拥有！ | 129 | 2026/03/04 |
-| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 13 | 2026/03/02 |
+| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 14 | 2026/03/02 |
 | [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来<br/>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法<br/>并增加全局禁用推送功能和各种优化 | 9 | 2026/03/02 |
 | [贴猴](https://github.com/Momona0v0/monkey) | [@Momona0v0](https://github.com/Momona0v0) | 让机器人给你的群友贴猴。 | 0 | 2026/01/30 |
 | [yobot游戏风格回复](https://github.com/qiandeng1/yobot_ImageEngine) | [@qiandeng1](https://github.com/qiandeng1) | 针对yobot_remix开发的QQBot回复消息仿游戏界面的插件 | 8 | 2026/01/27 |
@@ -82,7 +82,7 @@
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 | 1 | 2024/05/12 |
 | [我不会打日文](https://github.com/Fatfish588/wbhdrw-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 运行在本地的日文OCR识别插件，好耶不用拿着截图问别人而导致xp泄漏了 | 1 | 2024/04/07 |
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ | 11 | 2024/03/23 |
-| [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 | 9 | 2024/03/19 |
+| [FGO Gacha](https://github.com/kcn3388/fgogacha) | [@kcn3388](https://github.com/kcn3388) | 简单的FGO抽卡模拟器 | 10 | 2024/03/19 |
 | [帝国时代4战绩通报插件](https://github.com/joeyHXD/aoe4_watcher_bot) | [@joeyHXD](https://github.com/joeyHXD) | 从aoe4world爬取最新战绩 | 3 | 2024/03/11 |
 | [pjsk贴纸](https://github.com/Nao-desu/pjsk_sticker) | [@Nao-desu](https://github.com/Nao-desu) | 啤酒烧烤角色贴纸生成插件 | 27 | 2024/01/30 |
 | [github仓库监控插件](https://github.com/azmiao/github_reminder) | [@azmiao](https://github.com/azmiao) | 查某个仓库的commits记录和监控并推送提醒仓库的更新（比如这个插件索引） | 9 | 2024/01/18 |
