@@ -199,7 +199,7 @@
 | [我朋友说](https://github.com/kosakarin/I_have_a_friend) | [@kosakarin](https://github.com/kosakarin) | 我这朋友说不定是我自己 | 4 | 2022/08/22 |
 | [签到奖励魔改版](https://github.com/SonderXiaoming/login_bonus) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 新增40种印章，收集册，改自原生插件 | 18 | 2022/08/21 |
 | [鉴定群友](https://github.com/pcrbot/determine) | [@chu3](https://github.com/chu3) | 鉴定群友是0还是1(可以扩展) | 1 | 2022/08/20 |
-| [setu_renew](https://github.com/pcrbot/setu_renew) | [@corvo007](https://github.com/corvo007) | setu_mix的改进版 | 106 | 2022/08/18 |
+| [setu_renew](https://github.com/pcrbot/setu_renew) | [@corvo007](https://github.com/corvo007) | setu_mix的改进版 | 105 | 2022/08/18 |
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 | 26 | 2022/08/13 |
 | [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo) [@咕咕鸽](https://github.com/Adminicoder) | 通过排列组合来自定义属于自己的奥利奥吧！ | 4 | 2022/08/12 |
 | [APEX Legends 制造器, 地图轮换查询](https://github.com/GaryDu0123/Apex_Stat_for_Hoshino) | [@GaryDu0123](https://github.com/GaryDu0123) | 查询APEX Legends 当日(未来)地图轮换以及复制器物品 | 10 | 2022/08/11 |
