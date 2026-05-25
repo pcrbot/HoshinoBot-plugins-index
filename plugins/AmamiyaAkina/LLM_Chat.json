@@ -1,0 +1,13 @@
+{
+	"name": "LLM_Chat",
+	"link": "https://github.com/AmamiyaAkina/LLM_Chat",
+	"description": "基于HoshinoBot构建的接入大模型聊天的插件，大模型运行平台基于LM Studio构建，不确定是否适用于其他平台 ",
+	"authors": [
+		{
+			"name": "@AmamiyaAkina",
+			"link": "https://github.com/AmamiyaAkina"
+		}
+	],
+	"stars": 0,
+	"last_updated": 1779708033
+}
