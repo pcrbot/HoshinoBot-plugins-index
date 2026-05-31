@@ -12,11 +12,11 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/05/26 |
+| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 15 | 2026/05/31 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/05/29 |
 | [DJMAX查分器](https://github.com/AmamiyaAkina/DJMAX_HoshinoBot) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | DJMAX Respect V 查分插件，适用于 HoshinoBot / Nonebot。数据来源于 V-Archive，可以生成玩家 Bests100 的分表图。 | 2 | 2026/05/25 |
 | [LLM_Chat](https://github.com/AmamiyaAkina/LLM_Chat) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | 基于HoshinoBot构建的接入大模型聊天的插件，大模型运行平台基于LM Studio构建，不确定是否适用于其他平台  | 0 | 2026/05/25 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 110 | 2026/05/25 |
-| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 15 | 2026/05/15 |
 | [HoshinoReboot](https://github.com/Norca0721/HoshinoReboot) | [@Norca0721](https://github.com/Norca0721) | 适用于 HoshinoBot 的重启插件 | 5 | 2026/05/02 |
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 14 | 2026/05/01 |
 | [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) [@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 | 4 | 2026/04/10 |
@@ -26,7 +26,7 @@
 | [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2026/03/19 |
 | [环奈日报](https://github.com/SonderXiaoming/huannai_report) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 每天推送环奈日报，摸鱼日历，番剧，以及其他种种快讯，使您足不出户便览家国大事。 | 3 | 2026/03/15 |
 | [今日小猪](https://github.com/SonderXiaoming/huannai_plugin_rollpig) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 好多群友 | 1 | 2026/03/12 |
-| [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br/>> 插件一个更比十个强，物美价廉，你，值得拥有！ | 128 | 2026/03/04 |
+| [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br/>> 插件一个更比十个强，物美价廉，你，值得拥有！ | 127 | 2026/03/04 |
 | [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来<br/>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法<br/>并增加全局禁用推送功能和各种优化 | 9 | 2026/03/02 |
 | [贴猴](https://github.com/Momona0v0/monkey) | [@Momona0v0](https://github.com/Momona0v0) | 让机器人给你的群友贴猴。 | 0 | 2026/01/30 |
 | [yobot游戏风格回复](https://github.com/qiandeng1/yobot_ImageEngine) | [@qiandeng1](https://github.com/qiandeng1) | 针对yobot_remix开发的QQBot回复消息仿游戏界面的插件 | 8 | 2026/01/27 |
@@ -64,8 +64,8 @@
 | [验车/磁链信息](https://github.com/SlightDust/torrent_analyze_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 解析磁链信息，通过whatslink.info API | 2 | 2024/12/04 |
 | [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 | 1 | 2024/11/29 |
 | [占卜](https://github.com/SonderXiaoming/huannai-plugin-shindan) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 移植自nb2的nonebot-plugin-shindan | 1 | 2024/11/26 |
-| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 模仿柚子社角色的声音（支持中文，日文） | 42 | 2024/11/26 |
-| [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 | 72 | 2024/10/03 |
+| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 模仿柚子社角色的声音（支持中文，日文） | 43 | 2024/11/26 |
+| [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 | 73 | 2024/10/03 |
 | [搜种马](https://github.com/Nao-desu/uma_search) | [@Nao-desu](https://github.com/Nao-desu) | 赛马娘繁中服搜种马插件 | 0 | 2024/10/03 |
 | [otto活字印刷](https://github.com/SlightDust/HuoZiYinShua_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua) | 2 | 2024/10/02 |
 | [青年大学习](https://github.com/SlightDust/daxuexi_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 获取本期青年大学习的答案 | 9 | 2024/09/14 |
@@ -120,7 +120,7 @@
 | [网页截图](https://github.com/RSRH-Rs/Hoshino-plugin-webscreenshot) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 异步网页截图，不会堵塞 | 2 | 2023/05/17 |
 | [每日番剧推送](https://github.com/benx1n/everyday-bangumi) | [@benx1n](https://github.com/benx1n) | 带大陆版权站的每日番剧查询和自动推送 | 14 | 2023/05/11 |
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ | 11 | 2023/05/07 |
-| [今天吃什么](https://github.com/A-kirami/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 | 27 | 2023/05/07 |
+| [今天吃什么](https://github.com/A-kirami/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 | 28 | 2023/05/07 |
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 | 4 | 2023/05/06 |
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 | 6 | 2023/05/03 |
 | [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS | 46 | 2023/04/28 |
