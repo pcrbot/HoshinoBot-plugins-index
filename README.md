@@ -12,9 +12,9 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 265 | 2026/06/16 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/06/16 |
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 112 | 2026/06/12 |
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 266 | 2026/06/19 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/06/19 |
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 113 | 2026/06/18 |
 | [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2026/06/10 |
 | [DJMAX查分器](https://github.com/AmamiyaAkina/DJMAX_HoshinoBot) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | DJMAX Respect V 查分插件，适用于 HoshinoBot / Nonebot。数据来源于 V-Archive，可以生成玩家 Bests100 的分表图。 | 2 | 2026/06/10 |
 | [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 16 | 2026/06/07 |
