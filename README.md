@@ -12,12 +12,12 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/07/01 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/07/06 |
+| [DJMAX查分器](https://github.com/AmamiyaAkina/DJMAX_HoshinoBot) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | DJMAX Respect V 查分插件，适用于 HoshinoBot / Nonebot。数据来源于 V-Archive，可以生成玩家 Bests100 的分表图。 | 5 | 2026/07/03 |
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 | 32 | 2026/06/30 |
 | [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 268 | 2026/06/29 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 112 | 2026/06/29 |
 | [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2026/06/10 |
-| [DJMAX查分器](https://github.com/AmamiyaAkina/DJMAX_HoshinoBot) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | DJMAX Respect V 查分插件，适用于 HoshinoBot / Nonebot。数据来源于 V-Archive，可以生成玩家 Bests100 的分表图。 | 4 | 2026/06/10 |
 | [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 16 | 2026/06/07 |
 | [洛克王国世界远行商人推送](https://github.com/SlightDust/rocom_merchant_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) |  | 0 | 2026/06/02 |
 | [LLM_Chat](https://github.com/AmamiyaAkina/LLM_Chat) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | 基于HoshinoBot构建的接入大模型聊天的插件，大模型运行平台基于LM Studio构建，不确定是否适用于其他平台  | 0 | 2026/06/01 |
@@ -27,7 +27,7 @@
 | [Bangumi用户时间线推送](https://github.com/GaryDu0123/bangumi-timeline) | [@GaryDu0123](https://github.com/GaryDu0123) | HoshinoBot 的 Bangumi 时间线订阅插件, 推送群友的追番状态和吐槽到群聊 | 1 | 2026/04/09 |
 | [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 | 43 | 2026/03/28 |
 | [查番工具](https://github.com/duoshoumiao/anime_search) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查番 | 1 | 2026/03/22 |
-| [环奈日报](https://github.com/SonderXiaoming/huannai_report) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 每天推送环奈日报，摸鱼日历，番剧，以及其他种种快讯，使您足不出户便览家国大事。 | 4 | 2026/03/15 |
+| [环奈日报](https://github.com/SonderXiaoming/huannai_report) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 每天推送环奈日报，摸鱼日历，番剧，以及其他种种快讯，使您足不出户便览家国大事。 | 5 | 2026/03/15 |
 | [今日小猪](https://github.com/SonderXiaoming/huannai_plugin_rollpig) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 好多群友 | 1 | 2026/03/12 |
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br/>> 插件一个更比十个强，物美价廉，你，值得拥有！ | 127 | 2026/03/04 |
 | [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来<br/>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法<br/>并增加全局禁用推送功能和各种优化 | 9 | 2026/03/02 |
@@ -81,7 +81,7 @@
 | [雀魂Majsoul插件](https://github.com/DaiShengSheng/Majsoul_bot) | [@DaiShengSheng](https://github.com/DaiShengSheng) | 雀魂插件(打麻将真开心啊) | 46 | 2024/06/20 |
 | [抽动漫老婆](https://github.com/Rinco304/AnimeWife) | [@Rinco304](https://github.com/Rinco304) | 看看你今天的二次元老婆是谁 | 6 | 2024/06/16 |
 | [新·网络天才](https://github.com/Rlezzo/akinator) | [@Rlezzo](https://github.com/Rlezzo) | [网络天才](https://github.com/HMScygnet/akinator)原插件api已无法使用，适配了最新的api | 2 | 2024/05/24 |
-| [禁漫ID转本子名](https://github.com/Fatfish588/jmid2name-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 发送JM数字ID，自动搜索出本子的书名、作者与标签。 | 55 | 2024/05/23 |
+| [禁漫ID转本子名](https://github.com/Fatfish588/jmid2name-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 发送JM数字ID，自动搜索出本子的书名、作者与标签。 | 56 | 2024/05/23 |
 | [热搜+百度百科](https://github.com/BeiYazi0/resou) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的热搜+百度百科插件 | 1 | 2024/05/12 |
 | [我不会打日文](https://github.com/Fatfish588/wbhdrw-hoshino) | [@Fatfish588](https://github.com/Fatfish588) | 运行在本地的日文OCR识别插件，好耶不用拿着截图问别人而导致xp泄漏了 | 1 | 2024/04/07 |
 | [steam](https://github.com/pcrbot/steam) | [@wdvxdr1123](https://github.com/wdvxdr1123) | ~~“群主正在游玩猫娘乐园”~~ | 11 | 2024/03/23 |
