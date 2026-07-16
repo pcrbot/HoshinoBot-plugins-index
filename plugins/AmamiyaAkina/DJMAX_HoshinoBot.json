@@ -1,7 +1,7 @@
 {
 	"name": "DJMAX查分器",
 	"link": "https://github.com/AmamiyaAkina/DJMAX_HoshinoBot",
-	"description": "DJMAX Respect V 查分插件，适用于 HoshinoBot / Nonebot。数据来源于 V-Archive，可以生成玩家 Bests100 的分表图。",
+	"description": "按键音游DJMAX Respect V 查分插件，可生成玩家成绩分表图功能。",
 	"authors": [
 		{
 			"name": "@AmamiyaAkina",
