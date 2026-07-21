@@ -12,10 +12,10 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/07/10 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/07/21 |
 | [DJMAX查分器](https://github.com/AmamiyaAkina/DJMAX_HoshinoBot) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | 按键音游DJMAX Respect V 查分插件，可生成玩家成绩分表图功能。 | 7 | 2026/07/09 |
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 | 32 | 2026/06/30 |
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 272 | 2026/06/29 |
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 274 | 2026/06/29 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 112 | 2026/06/29 |
 | [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2026/06/10 |
 | [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 16 | 2026/06/07 |
@@ -28,7 +28,7 @@
 | [你只需要出刀](https://github.com/SonderXiaoming/kanna_connection_redive) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 自动报刀，box查询，分刀 | 43 | 2026/03/28 |
 | [查番工具](https://github.com/duoshoumiao/anime_search) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查番 | 1 | 2026/03/22 |
 | [环奈日报](https://github.com/SonderXiaoming/huannai_report) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 每天推送环奈日报，摸鱼日历，番剧，以及其他种种快讯，使您足不出户便览家国大事。 | 5 | 2026/03/15 |
-| [今日小猪](https://github.com/SonderXiaoming/huannai_plugin_rollpig) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 好多群友 | 1 | 2026/03/12 |
+| [今日小猪](https://github.com/SonderXiaoming/huannai_plugin_rollpig) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 好多群友 | 2 | 2026/03/12 |
 | [赛马娘插件v2](https://github.com/azmiao/uma_plugin) | [@azmiao](https://github.com/azmiao) | > 王婆卖瓜，自卖自夸，插件好用！<br/>> 插件一个更比十个强，物美价廉，你，值得拥有！ | 127 | 2026/03/04 |
 | [新版台服竞技场查询](https://github.com/azmiao/pcrjjc_tw_new) | [@azmiao](https://github.com/azmiao) | 由[pcrjjc3](https://github.com/azmiao/pcrjjc3-tw)修改而来<br/>兼容[2佬](https://github.com/sdyxxjj123)和[辣鱼佬](https://github.com/layvsan)的适配方法<br/>并增加全局禁用推送功能和各种优化 | 9 | 2026/03/02 |
 | [贴猴](https://github.com/Momona0v0/monkey) | [@Momona0v0](https://github.com/Momona0v0) | 让机器人给你的群友贴猴。 | 0 | 2026/01/30 |
