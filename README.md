@@ -12,9 +12,9 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
-| [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 1 | 2026/09/26 |
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 285 | 2026/09/23 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/09/23 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/09/27 |
+| [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 2 | 2026/09/26 |
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 286 | 2026/09/23 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 112 | 2026/09/14 |
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查视频 | 1 | 2026/09/10 |
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 14 | 2026/09/07 |
@@ -41,7 +41,7 @@
 | [wows-stats-bot](https://github.com/benx1n/wows-stats-bot) | [@benx1n](https://github.com/benx1n) | 战舰世界/窝窝屎水表插件，yuyuko的hoshino实现，支持wws me recent | 36 | 2026/01/07 |
 | [Pixiv 插画推送插件](https://github.com/GaryDu0123/pixiv-subscription) | [@GaryDu0123](https://github.com/GaryDu0123) | 一个基于 HoshinoBot 的 Pixiv 插件，包含画师订阅和Pixiv工具两个独立的服务，支持自动推送、作品预览、pixiv排行榜查询等功能。 | 5 | 2025/12/04 |
 | [怎么拆截图版](https://github.com/watermellye/arena) | [@ellye](https://github.com/watermellye) | 对jjc进攻阵容查询增加截图查询功能。支持全屏和部分截图；当截图中含有多队时返回无冲配队。 | 36 | 2025/12/03 |
-| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) | [@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 | 20 | 2025/11/25 |
+| [宝可梦对战](https://github.com/jiluoQAQ/Pokemon) | [@jiluoQAQ](https://github.com/jiluoQAQ) | Q群宝可梦对战 | 21 | 2025/11/25 |
 | [知乎小程序转链接](https://github.com/lhhxxxxx/anti_zhihu) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 知乎小程序自动转链接 | 0 | 2025/11/03 |
 | [AI 聊天防误触发插件](https://github.com/lhhxxxxx/hoshino_tool) | [@lhhxxxxx](https://github.com/lhhxxxxx) | 防止 AI 聊天类插件（或任意全局匹配插件）在其他使用 hoshino 接口的插件被调用时触发，只需要简单的一行指令，不再需要维护冗长的黑名单。 | 7 | 2025/11/03 |
 | [Git-Manage](https://github.com/KBVsent/Git-Manage) | [@KBVsent](https://github.com/KBVsent) | 适用于 HoshinoBot 的插件更新插件 | 3 | 2025/09/29 |
