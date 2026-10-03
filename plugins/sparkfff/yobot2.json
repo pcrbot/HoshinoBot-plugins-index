@@ -1,0 +1,13 @@
+{
+	"name": "yobot2",
+	"link": "https://github.com/sparkfff/yobot2",
+	"description": "基于yobot魔改版重构，新界面与新功能",
+	"authors": [
+		{
+			"name": "@sparkfff",
+			"link": "https://github.com/sparkfff"
+		}
+	],
+	"stars": 1,
+	"last_updated": 1791006071
+}
