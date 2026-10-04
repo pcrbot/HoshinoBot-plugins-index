@@ -12,6 +12,7 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [yobot2](https://github.com/sparkfff/yobot2) | [@sparkfff](https://github.com/sparkfff) | 基于yobot魔改版重构，新界面与新功能 | 1 | 2026/10/03 |
 | [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/09/27 |
 | [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 2 | 2026/09/26 |
 | [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 286 | 2026/09/23 |
