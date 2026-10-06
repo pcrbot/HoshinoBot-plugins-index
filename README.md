@@ -12,14 +12,14 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 2 | 2026/10/04 |
 | [yobot2](https://github.com/sparkfff/yobot2) | [@sparkfff](https://github.com/sparkfff) | 基于yobot魔改版重构，新界面与新功能 | 1 | 2026/10/03 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 13 | 2026/09/27 |
-| [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 2 | 2026/09/26 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 14 | 2026/10/03 |
 | [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 286 | 2026/09/23 |
-| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 112 | 2026/09/14 |
+| [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 113 | 2026/09/14 |
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查视频 | 1 | 2026/09/10 |
-| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 14 | 2026/09/07 |
-| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 17 | 2026/08/30 |
+| [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 15 | 2026/09/07 |
+| [环奈笔记](https://github.com/SonderXiaoming/kanna_note) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 可以查角色，查boss，日程，满补线，三服支持 | 18 | 2026/08/30 |
 | [twitch-live-notifier](https://github.com/GaryDu0123/twitch-live-notifier) | [@GaryDu0123](https://github.com/GaryDu0123) | 定时检查群内所订阅的 Twitch 主播是否开播，并在主播上线时向群内发送一条开播通知 | 0 | 2026/08/15 |
 | [yobot魔改版](https://github.com/eggggi/yobot_remix) | [@eggggi](https://github.com/eggggi) | yobot魔改版，支持新版会战 | 80 | 2026/08/08 |
 | [DJMAX查分器](https://github.com/AmamiyaAkina/DJMAX_HoshinoBot) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | 按键音游DJMAX Respect V 查分插件，可生成玩家成绩分表图功能。 | 9 | 2026/08/05 |
@@ -109,7 +109,7 @@
 | [招募队友](https://github.com/Lanly109/teamup) | [@Lanly109](https://github.com/Lanly109) | 发布招募帖，寻找队友 | 5 | 2023/08/29 |
 | [群友生日祝贺插件](https://github.com/pcrbot/mem_birthday) | [@azmiao](https://github.com/azmiao) | 祝贺群友生日快乐 | 7 | 2023/08/21 |
 | [尊嘟假嘟转换](https://github.com/AddOneSecondL/zdjd_hoshino) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 尊嘟假嘟？ | 2 | 2023/08/19 |
-| [合刀计算器 终极版](https://github.com/pcrbot/pcr_calculator_plus/) | [@ellye](https://github.com/watermellye) | 支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。 | 8 | 2023/08/09 |
+| [合刀计算器 终极版](https://github.com/pcrbot/pcr_calculator_plus/) | [@ellye](https://github.com/watermellye) | 支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。 | 9 | 2023/08/09 |
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 | 2 | 2023/07/26 |
 | [抽卡](https://github.com/pcrbot/gacha) | [@var-mixer](https://github.com/var-mixer) | 自动更新的全限定卡池 | 50 | 2023/07/25 |
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图 | 5 | 2023/07/14 |
