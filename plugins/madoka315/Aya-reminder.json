@@ -1,0 +1,13 @@
+{
+	"name": "自然语言定时提醒",
+	"link": "https://github.com/madoka315/Aya-reminder",
+	"description": "用自然语言设置定时提醒! 忘掉crontab",
+	"authors": [
+		{
+			"name": "@madoka315",
+			"link": "https://github.com/madoka315"
+		}
+	],
+	"stars": 0,
+	"last_updated": 1792879747
+}
