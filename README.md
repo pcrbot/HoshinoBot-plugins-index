@@ -12,11 +12,12 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [yobot2](https://github.com/sparkfff/yobot2) | [@sparkfff](https://github.com/sparkfff) | 基于yobot魔改版重构，新界面与新功能 | 1 | 2026/10/26 |
 | [自然语言定时提醒](https://github.com/madoka315/Aya-reminder) | [@madoka315](https://github.com/madoka315) | 用自然语言设置定时提醒! 忘掉crontab | 0 | 2026/10/24 |
+| [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 | 6 | 2026/10/24 |
+| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 14 | 2026/10/24 |
 | [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 3 | 2026/10/20 |
-| [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 14 | 2026/10/13 |
-| [yobot2](https://github.com/sparkfff/yobot2) | [@sparkfff](https://github.com/sparkfff) | 基于yobot魔改版重构，新界面与新功能 | 1 | 2026/10/03 |
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 289 | 2026/09/23 |
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 290 | 2026/09/23 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 113 | 2026/09/14 |
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查视频 | 1 | 2026/09/10 |
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 15 | 2026/09/07 |
@@ -68,7 +69,7 @@
 | [验车/磁链信息](https://github.com/SlightDust/torrent_analyze_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 解析磁链信息，通过whatslink.info API | 3 | 2024/12/04 |
 | [B站小程序转链接](https://github.com/liuzhaoze/biliminiapp_to_link) | [@liuzhaoze](https://github.com/liuzhaoze) | B站小程序转链接 | 1 | 2024/11/29 |
 | [占卜](https://github.com/SonderXiaoming/huannai-plugin-shindan) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 移植自nb2的nonebot-plugin-shindan | 1 | 2024/11/26 |
-| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 模仿柚子社角色的声音（支持中文，日文） | 42 | 2024/11/26 |
+| [柚子社语音](https://github.com/SonderXiaoming/youzi_voice) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 模仿柚子社角色的声音（支持中文，日文） | 43 | 2024/11/26 |
 | [B站动态监视器](https://github.com/kushidou/bili-notice-hoshino) | [@kushidou](https://github.com/kushidou/bili-notice-hoshino) | 可以关注UP主并将其最新的动态以动态卡片形式推送到群里 | 73 | 2024/10/03 |
 | [搜种马](https://github.com/Nao-desu/uma_search) | [@Nao-desu](https://github.com/Nao-desu) | 赛马娘繁中服搜种马插件 | 0 | 2024/10/03 |
 | [otto活字印刷](https://github.com/SlightDust/HuoZiYinShua_HoshinoBot) | [@SlightDust](https://github.com/SlightDust/) | 电棍活字印刷，基于[DSP-8192/HuoZiYinShua](https://github.com/DSP-8192/HuoZiYinShua)，参考了[Kazagumo/nonebot-HuoZiYinShua](https://github.com/Kazagumo/nonebot-HuoZiYinShua) | 2 | 2024/10/02 |
@@ -126,7 +127,6 @@
 | [答案之书](https://github.com/A-kirami/answersbook) | [@A-kirami](https://github.com/A-kirami) | 愿一切无解都有解！解除你的迷惑，终结你的纠结！ | 10 | 2023/05/07 |
 | [今天吃什么](https://github.com/A-kirami/whattoeat) | [@A-kirami](https://github.com/A-kirami) | 今天吃什么天吃什么吃什 么什么么 | 28 | 2023/05/07 |
 | [群聊词云生成](https://github.com/A-kirami/GroupWordCloudGenerator) | [@A-kirami](https://github.com/A-kirami) | 一个群/个人词云生成器，记录聊天记录并生成个人/群组词云 | 4 | 2023/05/06 |
-| [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 | 6 | 2023/05/03 |
 | [HoshinoBot-Plugins](https://github.com/mengshouer/HoshinoBot-Plugins) | [@mengshouer](https://github.com/mengshouer) | 常用的插件有： bilibili解析、直链获取、RSS | 46 | 2023/04/28 |
 | [图像混合](https://github.com/BeiYazi0/Img_Mix) | [@贝亚子零号](https://github.com/BeiYazi0) | 一个适用于HoshinoBot的图像混合插件 | 2 | 2023/04/25 |
 | [ayaka小游戏合集](https://github.com/bridgeL/ayaka_games/) | [@bridgeL](https://github.com/bridgeL/) | ayaka小游戏合集 | 9 | 2023/04/25 |
@@ -313,12 +313,12 @@
 | [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） | 11 | 2021/04/03 |
 | [公会战报告书](https://github.com/A-kirami/ClanBattleReport) | [@A-kirami](https://github.com/A-kirami) | 生成 Yobot  的公会战报告书 | 8 | 2021/03/15 |
 | [命运2简易插件](https://github.com/azmiao/destiny2_hoshino_plugin) | [@azmiao](https://github.com/azmiao) | 另一个命运2插件，从小黑盒自动抓取周报，试炼周报，老九，蛛王信息 | 10 | 2021/03/09 |
-| [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 | 117 | 2021/03/06 |
-| [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 | 117 | 2021/03/06 |
-| [RSS 推送](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/infoPush) | [@shewinder](https://github.com/shewinder) |  | 117 | 2021/03/06 |
-| [网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager) | [@shewinder](https://github.com/shewinder) |  | 117 | 2021/03/06 |
-| [直播提醒](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/liveNotice) | [@shewinder](https://github.com/shewinder) |  | 117 | 2021/03/06 |
-| [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot | 117 | 2021/03/06 |
+| [rua](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/rua) | [@shewinder](https://github.com/shewinder) | 发送一张搓群友头像的 gif 图片 | 116 | 2021/03/06 |
+| [接头](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/concatHead) | [@shewinder](https://github.com/shewinder) | 人脸识别自动接臭鼬头 | 116 | 2021/03/06 |
+| [RSS 推送](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/infoPush) | [@shewinder](https://github.com/shewinder) |  | 116 | 2021/03/06 |
+| [网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager) | [@shewinder](https://github.com/shewinder) |  | 116 | 2021/03/06 |
+| [直播提醒](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/liveNotice) | [@shewinder](https://github.com/shewinder) |  | 116 | 2021/03/06 |
+| [涩图](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/setu) | [@shewinder](https://github.com/shewinder) | 曾用名：shebot | 116 | 2021/03/06 |
 | [命运 2](https://github.com/pcrbot/Destiny2) | [@xhl6666](https://github.com/xhl6666) |  | 7 | 2021/02/24 |
 | [PCR赛跑（带下注）](https://github.com/Rs794613/PcrRun) | [@Rs794613](https://github.com/Rs794613) | 带下注和技能的pcr角色赛跑，可以自己设计角色。 | 11 | 2021/02/16 |
 | [女装迫害插件](https://github.com/MiaoXia0/NvZhuang) | [@MiaoXia0](https://github.com/MiaoXia0) | 发图迫害群友女装 | 1 | 2021/02/09 |
@@ -328,7 +328,7 @@
 | [和风天气](https://github.com/pcrbot/heweather) | [@xhl6666](https://github.com/xhl6666) |  | 3 | 2021/01/04 |
 | [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 | 44 | 2021/01/04 |
 | [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) | 2 | 2020/12/24 |
-| [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 | 22 | 2020/12/19 |
+| [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 | 21 | 2020/12/19 |
 | [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 | 45 | 2020/12/14 |
 | [网抑云](https://github.com/pcrbot/hiumsentences) | [@var-mixer](https://github.com/var-mixer) | 网抑云语录 | 11 | 2020/11/11 |
 | [表情包生成器](https://github.com/pcrbot/image-generate) | [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 | 24 | 2020/09/28 |
