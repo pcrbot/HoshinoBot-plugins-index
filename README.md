@@ -13,6 +13,7 @@
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
 | [yobot2](https://github.com/sparkfff/yobot2) | [@sparkfff](https://github.com/sparkfff) | 基于yobot魔改版重构，新界面与新功能 | 1 | 2026/10/26 |
+| [Aya-qa](https://github.com/madoka315/Aya-qa) | [@madoka315](https://github.com/madoka315) | 基于eqa改造的问答插件, 支持正则, 优化体验: 多关键词, 图片渲染, 删除逻辑等 | 0 | 2026/10/26 |
 | [自然语言定时提醒](https://github.com/madoka315/Aya-reminder) | [@madoka315](https://github.com/madoka315) | 用自然语言设置定时提醒! 忘掉crontab | 0 | 2026/10/24 |
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 | 6 | 2026/10/24 |
 | [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 14 | 2026/10/24 |
