@@ -1,0 +1,13 @@
+{
+	"name": "Aya-qa",
+	"link": "https://github.com/madoka315/Aya-qa",
+	"description": "基于eqa改造的问答插件, 支持正则, 优化体验: 多关键词, 图片渲染, 删除逻辑等",
+	"authors": [
+		{
+			"name": "@madoka315",
+			"link": "https://github.com/madoka315"
+		}
+	],
+	"stars": 0,
+	"last_updated": 1793007646
+}
