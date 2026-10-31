@@ -12,14 +12,15 @@
 <!-- legacy_start -->
 | 名称 | 作者 | 备注 | 收藏 | 最后更新 |
 | --- | --- | --- | --- | --- |
+| [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2026/10/31 |
+| [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 4 | 2026/10/29 |
+| [yobot2](https://github.com/sparkfff/yobot2) | [@sparkfff](https://github.com/sparkfff) | 基于yobot魔改版重构，新界面与新功能 | 1 | 2026/10/29 |
 | [竞技场建议](https://github.com/SonderXiaoming/huannai_arena) | [@SonderXiaoming](https://www.cialloworld.com/) | 竞技场建议：HoshinoBot 公主连结竞技场查询与摸轴器模拟对战插件，支持 PostgreSQL | 1 | 2026/10/29 |
-| [yobot2](https://github.com/sparkfff/yobot2) | [@sparkfff](https://github.com/sparkfff) | 基于yobot魔改版重构，新界面与新功能 | 1 | 2026/10/26 |
 | [Aya-qa](https://github.com/madoka315/Aya-qa) | [@madoka315](https://github.com/madoka315) | 基于eqa改造的问答插件, 支持正则, 优化体验: 多关键词, 图片渲染, 删除逻辑等 | 0 | 2026/10/26 |
 | [自然语言定时提醒](https://github.com/madoka315/Aya-reminder) | [@madoka315](https://github.com/madoka315) | 用自然语言设置定时提醒! 忘掉crontab | 0 | 2026/10/24 |
 | [图片版lssv](https://github.com/RSRH-Rs/Hoshino-plugin-image-lssv) | [@RSRH-Rs](https://github.com/RSRH-Rs) | 图片版lssv，缝合的原版lssv和无疑佬的原神uid插件 | 6 | 2026/10/24 |
 | [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 14 | 2026/10/24 |
-| [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 3 | 2026/10/20 |
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 290 | 2026/09/23 |
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 291 | 2026/09/23 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 113 | 2026/09/14 |
 | [查B站视频工具](https://github.com/duoshoumiao/bilibilisearch) | [@duoshoumiao](https://github.com/duoshoumiao) | 关键词查视频 | 1 | 2026/09/10 |
 | [pcrjjc多合一](https://github.com/SonderXiaoming/pcrjjc_huannai2) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持b，渠，台三服。竞技场，一个就够了 | 15 | 2026/09/07 |
@@ -29,7 +30,6 @@
 | [DJMAX查分器](https://github.com/AmamiyaAkina/DJMAX_HoshinoBot) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | 按键音游DJMAX Respect V 查分插件，可生成玩家成绩分表图功能。 | 10 | 2026/08/05 |
 | [Bangumi用户时间线推送](https://github.com/GaryDu0123/bangumi-timeline) | [@GaryDu0123](https://github.com/GaryDu0123) | HoshinoBot 的 Bangumi 时间线订阅插件, 推送群友的追番状态和吐槽到群聊 | 1 | 2026/07/31 |
 | [xqa](https://github.com/azmiao/XQA) | [@azmiao](https://github.com/azmiao) | 一个支持正则，支持回流，支持随机回答，支持图片等CQ码的你问我答 | 32 | 2026/06/30 |
-| [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 1 | 2026/06/10 |
 | [洛克王国世界远行商人推送](https://github.com/SlightDust/rocom_merchant_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) |  | 0 | 2026/06/02 |
 | [LLM_Chat](https://github.com/AmamiyaAkina/LLM_Chat) | [@AmamiyaAkina](https://github.com/AmamiyaAkina) | 基于HoshinoBot构建的接入大模型聊天的插件，大模型运行平台基于LM Studio构建，不确定是否适用于其他平台  | 0 | 2026/06/01 |
 | [steam群友游戏状态播报](https://github.com/SlightDust/steam_HoshinoBot) | [@SlightDust](https://github.com/SlightDust) [@GaryDu0123](https://github.com/GaryDu0123) | [pcrbot/steam](https://github.com/pcrbot/steam)的fork。原项目停更很久了，fork来缝了一下 | 4 | 2026/06/01 |
