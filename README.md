@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- |
 | [pcr半月刊](https://github.com/duoshoumiao/PCR--Fortnightly-magazine-) | [@duoshoumiao](https://github.com/duoshoumiao) | pcr半月刊 | 14 | 2026/11/06 |
 | [Blue_Archive_HoshinoBot](https://github.com/Cosmos01/Blue_Archive_HoshinoBot) | [@Cosmos01](https://github.com/Cosmos01) | 碧蓝档案图形化活动日历、模拟抽卡、官推转发、总力攻略图、汉化漫画获取插件 | 113 | 2026/11/03 |
-| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 289 | 2026/11/02 |
+| [maimaiDX](https://github.com/Yuri-YuzuChaN/maimaiDX) | [@Yuri-YuzuChaN](https://github.com/Yuri-YuzuChaN) | 街机音游舞萌DX查询插件，移植自xybot及mai-bot | 290 | 2026/11/02 |
 | [微博推送](https://github.com/duoshoumiao/weibo-push) | [@duoshoumiao](https://github.com/duoshoumiao) | 微博关注小插件 | 2 | 2026/10/31 |
 | [kanna_connection_redive_2_web](https://github.com/qwe3107231/kanna_connection_redive_2_web) | [@qwe3107231](https://github.com/qwe3107231) | 你只需要出刀Web 前端（KCRR WebUI） | 4 | 2026/10/29 |
 | [yobot2](https://github.com/sparkfff/yobot2) | [@sparkfff](https://github.com/sparkfff) | 基于yobot魔改版重构，新界面与新功能 | 1 | 2026/10/29 |
@@ -63,7 +63,7 @@
 | [Daily_News](https://github.com/InSnocent/Daily_News) | [@InSnocent](https://github.com/InSnocent) | 适用于HoshinoBot的每日一句话新闻(和另一个插件采用的不一样的来源) | 8 | 2025/03/13 |
 | [抽老婆数据版完全重置](https://github.com/Rlezzo/WifeGacha) | [@Rlezzo](https://github.com/Rlezzo) | 之前的版本拓展很困难，听GPT的用什么DDD。ORM重写了一个 | 4 | 2025/03/09 |
 | [aichatRemake](https://github.com/Rlezzo/aichat) | [@Rlezzo](https://github.com/Rlezzo) | 之前的适配版记忆功能不能用，索性重写了 | 2 | 2025/01/28 |
-| [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ | 12 | 2025/01/26 |
+| [早安晚安](https://github.com/azmiao/good_morning) | [@azmiao](https://github.com/azmiao) | 哦哈哟！哦呀斯密！ | 11 | 2025/01/26 |
 | [摸鱼日历](https://github.com/SonderXiaoming/dailymoyu) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 非常简单的摸鱼插件 | 8 | 2025/01/17 |
 | [300英雄战报](https://github.com/Himeno-Yumemi/300hero_record) | [@姬野梦美](https://github.com/Himeno-Yumemi) | 300英雄群友开庭插件 | 2 | 2025/01/06 |
 | [ArcadeQueue](https://github.com/SalinX/ArcadeQueue) | [@SalinX](https://github.com/SalinX) | 适用于 HoshinoBot 的机厅排卡模块 | 1 | 2024/12/17 |
@@ -115,7 +115,7 @@
 | [尊嘟假嘟转换](https://github.com/AddOneSecondL/zdjd_hoshino) | [@AddOneSecondL](https://github.com/AddOneSecondL) | 尊嘟假嘟？ | 2 | 2023/08/19 |
 | [合刀计算器 终极版](https://github.com/pcrbot/pcr_calculator_plus/) | [@ellye](https://github.com/watermellye) | 支持计算补时、一穿二反时、根据期望反时计算垫刀伤害、表达式输入等。 | 9 | 2023/08/09 |
 | [漂流瓶](https://github.com/Nao-desu/drift_bottle) | [@Nao-desu](https://github.com/Nao-desu) | hoshino的漂流瓶插件，可在不同群之间传递消息 | 2 | 2023/07/26 |
-| [抽卡](https://github.com/pcrbot/gacha) | [@var-mixer](https://github.com/var-mixer) | 自动更新的全限定卡池 | 50 | 2023/07/25 |
+| [抽卡](https://github.com/pcrbot/gacha) | [@var-mixer](https://github.com/var-mixer) | 自动更新的全限定卡池 | 49 | 2023/07/25 |
 | [星穹铁道资源查询](https://github.com/Cathgao/Honkai_Starrail_bot) | [@Cathgao](https://github.com/Cathgao) | 可在群聊中查询星铁的资源地图 | 5 | 2023/07/14 |
 | [Claude-in-hoshino](https://github.com/assassingyk/Claude-in-hoshino) | [@assassingyk](https://github.com/assassingyk) | 适用hoshino bot的claude for slack插件 | 2 | 2023/07/12 |
 | [银趴](https://github.com/BeiYazi0/yinpa) | [@贝亚子零号](https://github.com/BeiYazi0) | 移植自nb2插件(牛牛比拼) | 2 | 2023/07/11 |
@@ -162,13 +162,13 @@
 | [群管](https://github.com/zangxx66/HoshinoBot-xcwRecord#聊天) | [@zangxx66](https://github.com/zangxx66) | 迫害龙王、 申请头衔等 | 32 | 2022/11/22 |
 | [Ai绘图/以图绘图](https://github.com/CYDXDianXian/AI_image_gen) | [@穿越电线](https://github.com/CYDXDianXian) [@sanshanya](https://github.com/sanshanya) | 通过tag生成图片，以图生图，XP查询，每日上限与频率限制，群黑/白名单，自动屏蔽超级大群，设置屏蔽词tag等功能 | 91 | 2022/11/21 |
 | [魔改版的pcrjjc2](https://github.com/Syne-lucky/pcrjjc2) | [@Syne-lucky](https://github.com/Syne-lucky) | 可绑多uid、可私聊/群聊通知、多线程、自动过验证码。 | 10 | 2022/11/12 |
-| [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) | 度盘直链解析 | 138 | 2022/11/12 |
-| [egenshin](https://github.com/pcrbot/erinilis-modules/tree/master/egenshin) | [@yuyumoko](https://github.com/yuyumoko) | UID查询 抽卡 猜语音 原神公告推送 材料刷新定时器 | 138 | 2022/11/12 |
-| [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) |  | 138 | 2022/11/12 |
-| [原神卡池记录查询](https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog) | [@yuyumoko](https://github.com/yuyumoko) | 统计卡池保底信息 | 138 | 2022/11/12 |
-| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 | 138 | 2022/11/12 |
-| [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 | 138 | 2022/11/12 |
-| [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 | 138 | 2022/11/12 |
+| [度盘](https://github.com/pcrbot/erinilis-modules/tree/master/baidupan) | [@yuyumoko](https://github.com/yuyumoko) | 度盘直链解析 | 137 | 2022/11/12 |
+| [egenshin](https://github.com/pcrbot/erinilis-modules/tree/master/egenshin) | [@yuyumoko](https://github.com/yuyumoko) | UID查询 抽卡 猜语音 原神公告推送 材料刷新定时器 | 137 | 2022/11/12 |
+| [公会战排名](https://github.com/pcrbot/erinilis-modules/tree/master/eclanrank) | [@yuyumoko](https://github.com/yuyumoko) |  | 137 | 2022/11/12 |
+| [原神卡池记录查询](https://github.com/pcrbot/erinilis-modules/tree/master/genshingachalog) | [@yuyumoko](https://github.com/yuyumoko) | 统计卡池保底信息 | 137 | 2022/11/12 |
+| [风纪](https://github.com/pcrbot/erinilis-modules/tree/master/eclanblack) | [@yuyumoko](https://github.com/yuyumoko) | NGA 风纪区黑名单查询 | 137 | 2022/11/12 |
+| [eqa](https://github.com/pcrbot/erinilis-modules/tree/master/eqa) | [@yuyumoko](https://github.com/yuyumoko) | 群内设 置问答 | 137 | 2022/11/12 |
+| [人脸合成](https://github.com/pcrbot/erinilis-modules/tree/master/emergeface) | [@yuyumoko](https://github.com/yuyumoko) | 两张图换脸 | 137 | 2022/11/12 |
 | [Dynamite](https://github.com/yuhao7370/Dynamite-Hoshino-Plugin) | [@yuhao7370](https://github.com/yuhao7370) | 社区音游Dynamite查分模块 | 3 | 2022/11/05 |
 | [pcr攻略](https://github.com/SonderXiaoming/auto_strategy) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动更新的pcr攻略插件 | 7 | 2022/11/05 |
 | [群二维码识别](https://github.com/yuyumoko/hoshino-print-qrcode) | [@yuyumoko](https://github.com/yuyumoko) | 发二维码的能不能照顾一下PC端啊 | 5 | 2022/10/31 |
@@ -196,7 +196,7 @@
 | [猜头像](https://github.com/GWYOG/GWYOG-Hoshino-plugins#2-猜头像小游戏插件pcravatarguess) | [@GWYOG](https://github.com/GWYOG) | 群内小游戏 | 125 | 2022/09/15 |
 | [网络天才](https://github.com/HMScygnet/akinator) | [@HMScygnet](https://github.com/HMScygnet) | 网络天才小游戏，可以猜出你心里想的人物 | 7 | 2022/09/14 |
 | [又一个多角色语音合成插件](https://github.com/pcrbot/voice_generate) | [@corvo007](https://github.com/corvo007) | 如名字所示 | 5 | 2022/09/11 |
-| [明日方舟抽卡+蹲饼](https://github.com/xulai1001/akgacha) | [@库兰](https://github.com/xulai1001/) | 明日方舟抽卡-自动蹲饼-素材一图流和DPS查询 | 16 | 2022/09/11 |
+| [明日方舟抽卡+蹲饼](https://github.com/xulai1001/akgacha) | [@库兰](https://github.com/xulai1001/) | 明日方舟抽卡-自动蹲饼-素材一图流和DPS查询 | 15 | 2022/09/11 |
 | [股票查询](https://github.com/SonderXiaoming/stock-check) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 满足群友上班边摸鱼边炒股的要求 | 6 | 2022/09/10 |
 | [hoshino广播再进化](https://github.com/azmiao/broadcast-plus-plus) | [@azmiao](https://github.com/azmiao) | 注：这个不是插件！直接拿[@冷雷佬](https://github.com/ColdThunder11)的东西改的，欸嘿嘿，我是不是很机智 | 5 | 2022/09/06 |
 | [网页截图修补版](https://github.com/kcn3388/pagecut) | [@kcn3388](https://github.com/kcn3388) | 魔改于原[网页截图](https://github.com/pcrbot/pagecut)<br/>增加爬取网页源代码或js变量以辅助爬虫 | 3 | 2022/09/01 |
@@ -211,13 +211,13 @@
 | [帮助网页版](https://github.com/SonderXiaoming/autohelp) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 全自动生成帮助网页 | 26 | 2022/08/13 |
 | [奥利奥绘制](https://github.com/C-Jun-GIT/Oreo) | [@菌落](https://github.com/C-Jun-GIT/Oreo) [@咕咕鸽](https://github.com/Adminicoder) | 通过排列组合来自定义属于自己的奥利奥吧！ | 4 | 2022/08/12 |
 | [APEX Legends 制造器, 地图轮换查询](https://github.com/GaryDu0123/Apex_Stat_for_Hoshino) | [@GaryDu0123](https://github.com/GaryDu0123) | 查询APEX Legends 当日(未来)地图轮换以及复制器物品 | 10 | 2022/08/11 |
-| [授权管理](https://github.com/pcrbot/authMS) | [@var-mixer](https://github.com/var-mixer) |  | 47 | 2022/08/11 |
+| [授权管理](https://github.com/pcrbot/authMS) | [@var-mixer](https://github.com/var-mixer) |  | 46 | 2022/08/11 |
 | [游戏王印卡](https://github.com/N-zi/mahoo) | [@N-zi](https://github.com/N-zi) | 游戏王卡图生成 | 5 | 2022/08/01 |
 | [猜单词](https://github.com/kokoro-ele/Wordle4Hoshino) | [@kokoro](https://github.com/kokoro-ele) | wordle游戏 | 5 | 2022/08/01 |
 | [图片套娃](https://github.com/watermellye/yaowoyizhi/) | [@ellye](https://github.com/watermellye) [@mahosho](https://github.com/mahosho) | [要我一直img吗](https://github.com/pcrbot/yaowoyizhi)重构版，新增套娃和支持自定义文字。 | 3 | 2022/08/01 |
 | [give_me_some_heis](https://github.com/Gaylone/give_me_some_heis) | [@Gaylone](https://github.com/Gaylone) | 麻溜滴，来点黑丝/白丝/jk/巨r/网红/足控三次元美图 | 5 | 2022/07/25 |
 | [切噜一下魔改版](https://github.com/SonderXiaoming/cherugo) | [@SonderXiaoming](https://github.com/SonderXiaoming) | 支持发送语音，改自原生插件 | 1 | 2022/07/23 |
-| [HosBotManagerWeb](https://github.com/pcrbot/HosBotManagerWeb) | [@LQBing](https://github.com/LQBing) [@shewinder](https://github.com/shewinder) | 由[网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager)修改而来的hoshinobot服务管理网页版，支持多cq端 | 43 | 2022/07/22 |
+| [HosBotManagerWeb](https://github.com/pcrbot/HosBotManagerWeb) | [@LQBing](https://github.com/LQBing) [@shewinder](https://github.com/shewinder) | 由[网页开关](https://github.com/pcrbot/plugins-for-Hoshino/tree/master/shebot/webServiceManager)修改而来的hoshinobot服务管理网页版，支持多cq端 | 42 | 2022/07/22 |
 | [群友语录](https://github.com/kosakarin/group_quotations) | [@kosakarin](https://github.com/kosakarin) | 仿照朋友的bot写的一个上传图片到bot的功能 | 3 | 2022/07/20 |
 | [LocalSetu](https://github.com/pcrbot/LocalSetu) | [@benx1n](https://github.com/benx1n) | 可协同维护图库质量的本地setu插件，支持私聊上传、自动审核、获取P站TAG、原画 | 20 | 2022/07/15 |
 | [pcr签到黄历](https://github.com/azmiao/pcr_almanac) | [@azmiao](https://github.com/azmiao) | 今日宜：单抽出奇迹 | 3 | 2022/07/15 |
@@ -309,7 +309,7 @@
 | [计算jjc排名爬升排名的最优解](https://github.com/wbero/pcrjjc_optimal-path) | [@wbero](https://github.com/wbero) | 计 算jjc排名爬升排名的最优解 | 0 | 2021/05/18 |
 | [最优击剑路径](https://github.com/wosiwq/arena_route) | [@wosiwq](https://github.com/wosiwq) | 可自动计算竞技场的最优 击剑路径 | 6 | 2021/05/15 |
 | [出刀贡献以权重来计算排名](https://github.com/Tcelps/pcr_maofen) | [@Tcelps](https://github.com/Tcelps) | 人为地判断难度并给不同周目不同boss分别设置权重，给群员们的贡献排名 | 0 | 2021/05/14 |
-| [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 | 7 | 2021/04/26 |
+| [YoCool](https://github.com/A-kirami/YoCool-Console) | [@A-kirami](https://github.com/A-kirami) | Hoshino 插件化的 YoCool 控制台 | 6 | 2021/04/26 |
 | [挂树提醒](https://github.com/bugaosuni59/ontree_scheduler) | [@bugaosuni59](https://github.com/bugaosuni59) | 挂树时 间提醒修改版，支持查树、尾刀下树 | 4 | 2021/04/14 |
 | [挂树提醒](https://github.com/pcrbot/ontree_scheduler) | [@ArisakaRayee](https://github.com/ArisakaRayee) | 挂树时间提醒 | 6 | 2021/04/10 |
 | [原神KFC语音](https://github.com/GirlKiller512/HoshinoBot_GenshinKFC) | [@GirlKiller512](https://github.com/GirlKiller512) | 原神KFC语音插件（呐呐呐，服务员欧尼酱\~~......异世相遇，尽享美味！） | 11 | 2021/04/03 |
@@ -331,7 +331,7 @@
 | [setu_mix](https://github.com/zyujs/setu_mix) | [@zyujs](https://github.com/zyujs) | 懂的都懂 | 44 | 2021/01/04 |
 | [合刀](https://github.com/bugaosuni59/my_Hoshinobot_plugins) | [@bugaosuni59](https://github.com/bugaosuni59) | 合刀计算器(2刀) | 2 | 2020/12/24 |
 | [Hoshino-installer](https://github.com/pcrbot/hoshino-installer) | [@yuudi](https://github.com/yuudi) | HoshinoBot 一键安装脚本 | 21 | 2020/12/19 |
-| [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 | 45 | 2020/12/14 |
+| [clanbattle_info](https://github.com/zyujs/clanbattle_info) | [@zyujs](https://github.com/zyujs) | 国服会战出刀信息推 送及yobot自动报刀 | 44 | 2020/12/14 |
 | [网抑云](https://github.com/pcrbot/hiumsentences) | [@var-mixer](https://github.com/var-mixer) | 网抑云语录 | 11 | 2020/11/11 |
 | [表情包生成器](https://github.com/pcrbot/image-generate) | [@xhl6699](https://github.com/xhl6699) | 预设图片自动配字 | 24 | 2020/09/28 |
 | [群管](https://github.com/pcrbot/group-manager) | [@xhl6699](https://github.com/xhl6699) | 申请头衔、设置禁言、修改群 名片等 | 6 | 2020/09/24 |
